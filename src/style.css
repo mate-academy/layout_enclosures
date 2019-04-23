@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+div.wrapper {
+  margin: 20px;
+  width: 348px;
+  background-color: #308dbf;
+  border: 1px solid #e75551;
+  margin-bottom: 40px;
+}
+
+div.orange {
+  margin: 10px;
+  background-color: #ffa500;
+  border: 1px solid #e75551;
+}
+
+div.grey {
+  margin: 10px;
+  background-color: #ddd;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
