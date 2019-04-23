@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+div,
+p {
+  border: 1px solid #e75551;
+}
+
+.first {
+  width: 348px;
+  margin: 20px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.second {
+  margin: 10px;
+  background-color: orange;
+  border: 1px solid #e75551;
+}
+
+p {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ddd;
+}
