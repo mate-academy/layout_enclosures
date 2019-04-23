@@ -32,3 +32,6 @@ closure is a record storing a function together with an environment.
 **Read the guideline before start**
 
 [Guideline](https://github.com/mate-academy/layout_task-guideline/blob/master/README.md)
+
+[Demo link](https://VladimirTi.github.io/layout_enclosures/) <br>
+[Test report](https://VladimirTi.github.io/layout_enclosures/report/html_report/)
