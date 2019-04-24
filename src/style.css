@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+div {
+  border: 1px solid #e75551;
+}
+
+.container {
+  width: 348px;
+  background-color: #2d8ec2;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.yellovContainer {
+  margin: 10px;
+  background-color: #ffa600;
+}
+
+.textContainer {
+  margin: 10px;
+  background-color: #dedede;
+  padding: 10px;
+}
