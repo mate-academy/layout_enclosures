@@ -1,0 +1,25 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  background-color: #ddd;
+}
+
+.wrapper {
+  background-color: #308dc0;
+  margin: 20px;
+  margin-bottom: 40px;
+  width: 328px;
+}
+
+.content {
+  background-color: #ffa500;
+}
+
+.red-border {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
