@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: black;
+  background-color: black;
 }
 
 .inner,
@@ -12,7 +12,7 @@ p {
 
 .wrapper {
   width: 328px;
-  background: #308dc0;
+  background-color: #308dc0;
   margin: 20px;
 }
 
@@ -21,10 +21,10 @@ p {
 }
 
 .inner {
-  background: #ffa500;
+  background-color: #ffa500;
 }
 
 p {
   margin: 0;
-  background: #ddd;
+  background-color: #ddd;
 }
