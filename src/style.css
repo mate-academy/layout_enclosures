@@ -1,0 +1,26 @@
+body {
+  margin: 20px;
+  background: black;
+}
+
+.blue {
+  margin-bottom: 40px;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.blue {
+  width: 328px;
+  background: #2c8ec1;
+}
+
+.yellow {
+  background: #ffa600;
+}
+
+.white {
+  background: #dedede;
+}
