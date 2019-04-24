@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background: #000;
+}
+
+div {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.blue {
+  width: 328px;
+  margin: 20px;
+  background: #308dc0;
+}
+
+.second {
+  margin: 40px 20px;
+}
+
+.yellow {
+  background: #ffa500;
+}
+
+.text {
+  background: #ddd;
+}
