@@ -3,23 +3,25 @@ body {
   background: black;
 }
 
+.innerBlock,
+.outerBlock,
+.text {
+  border: 1px solid#e75551;
+}
+
 .outerBlock {
   width: 348px;
-  border: 1px solid#e75551;
   background-color: #308dc0;
-  margin: 20px;
-  margin-bottom: 40px;
+  margin: 20px 20px 40px;
 }
 
 .innerBlock {
-  border: 1px solid#e75551;
   background-color: #ffa500;
   margin: 10px;
 }
 
 .text {
-  border: 1px solid#e75551;
-  background: #ddd;
+  background-color: #ddd;
   margin: 10px;
   padding: 10px;
 }
