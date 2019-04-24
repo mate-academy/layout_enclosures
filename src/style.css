@@ -3,7 +3,9 @@ body {
   background-color: black;
 }
 
-div {
+.wrapper,
+.outer,
+.inner {
   padding: 10px;
   border: 1px solid #e75551;
   
