@@ -5,26 +5,26 @@ body {
 
 div {
   box-sizing: border-box;
-  border: solid;
-  border-width: 1px;
-  border-color: #e75551;
-
+  border: 1px solid #e75551 ;
 }
 
-.first {
+.blueBox {
   background: #308dc0;
   width: 350px;
-  margin: 20px;
-  margin-bottom: 40px;
+  margin: 20px 20px 40px;
 }
 
-.second {
+.yellowBox {
   background: #ffa500;
   margin: 10px;
 }
 
-.third {
+.greyBox {
   background: #ddd;
   margin: 10px;
   padding: 10px;
+}
+
+p {
+  margin: 0;
 }
