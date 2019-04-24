@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+.outerBlock {
+  width: 348px;
+  border: 1px solid#e75551;
+  background-color: #308dc0;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.innerBlock {
+  border: 1px solid#e75551;
+  background-color: #ffa500;
+  margin: 10px;
+}
+
+.text {
+  border: 1px solid#e75551;
+  background: #ddd;
+  margin: 10px;
+  padding: 10px;
+}
