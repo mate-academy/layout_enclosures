@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+.inner,
+.wrapper,
+p {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.wrapper {
+  width: 328px;
+  background: #308dc0;
+  margin: 20px;
+}
+
+.mid {
+  margin: 40px 20px;
+}
+
+.inner {
+  background: #ffa500;
+}
+
+p {
+  margin: 0;
+  background: #ddd;
+}
