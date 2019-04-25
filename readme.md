@@ -36,6 +36,5 @@ closure is a record storing a function together with an environment.
 [Guideline](https://github.com/mate-academy/layout_task-guideline/blob/master/README.md)
 
 **Result**
-
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
+[UPDATE DEMO LINK](https://annakondr.github.io/layout_enclosures/) <br>
+[UPDATE TEST REPORT LINK](https://annakondr.github.io/layout_enclosures/report/html_report/)
