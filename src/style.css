@@ -1,27 +1,27 @@
 body {
-  margin: 0;
   background-color: #000;
+  margin: 0;
 }
 
-.wraper {
+div,
+p {
+  border: 1px solid #e75551;
   padding: 10px;
-  border: solid #e75551 1px;
+}
+
+p {
+  width: 284px;
+  background-color: #dedede;
+  margin: 0;
+}
+
+.wraper-blue {
   background-color: #2c8ec1;
   margin: 20px 20px 40px;
   width: 328px;
 }
 
-div {
+.wraper-orange {
   background-color: #ffa600;
-  padding: 10px;
-  border: solid #e75551 1px;
   width: 306px;
-}
-
-p {
-  width: 284px;
-  padding: 10px;
-  border: solid #e75551 1px;
-  background-color: #dedede;
-  margin: 0;
 }
