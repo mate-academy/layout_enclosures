@@ -3,24 +3,21 @@ body {
   margin: 0;
 }
 
-.blue {
-  margin: 20px 20px 40px;
-}
-
 div {
   border: 1px solid #e75551;
   padding: 10px;
 }
 
-.blue {
+.outer {
+  margin: 20px 20px 40px;
   width: 328px;
   background-color: #2c8ec1;
 }
 
-.yellow {
+.middle {
   background-color: #ffa600;
 }
 
-.white {
+.inside {
   background-color: #dedede;
 }
