@@ -1,5 +1,5 @@
 body {
-  margin: 20px;
+  margin: 0;
   background-color: black;
 }
 
@@ -13,10 +13,7 @@ p {
 .wrapper {
   width: 328px;
   background-color: #308dc0;
-}
-
-.wrapper:nth-child(2) {
-  margin: 40px 0;
+  margin: 20px 20px 40px;
 }
 
 .inner {
