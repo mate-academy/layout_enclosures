@@ -1,3 +1,7 @@
+### [Demo link](https://onefun1.github.io/layout_enclosures/)
+
+### [Test report](https://onefun1.github.io/layout_enclosures/report/html_report/)
+
 # Enclosures
 
 See [reference/enclosures.png](reference/enclosures.png) for reference.
