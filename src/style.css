@@ -7,19 +7,22 @@ body {
   margin: 20px;
 }
 
-.blue {
-  box-sizing: border-box;
-  width: 350px;
+.blue,
+.yellow,
+p {
   border: 1px solid #e75551;
-  background-color: #308dc0;
-  margin-bottom: 40px;
   padding: 10px;
 }
 
+.blue {
+  box-sizing: border-box;
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
 .yellow {
-  border: 1px solid #e75551;
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .grey {
@@ -27,7 +30,5 @@ body {
 }
 
 p {
-  border: 1px solid #e75551;
   margin: 0;
-  padding: 10px;
 }
