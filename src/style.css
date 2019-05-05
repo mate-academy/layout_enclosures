@@ -1,0 +1,25 @@
+body {
+  background: #000;
+}
+
+.bordered {
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+}
+
+.outer_box {
+  width: 350px;
+  background: #308dc0;
+  margin: 20px 0 40px 12px;
+}
+
+.inner_box {
+  margin: 10px;
+  background: #ffa500;
+}
+
+.text_box {
+  margin: 10px;
+  padding: 10px;
+  background: #ddd;
+}
