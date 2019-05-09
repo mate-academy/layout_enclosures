@@ -34,8 +34,7 @@ closure is a record storing a function together with an environment.
 **Read the guideline before start**
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
-
 **Result**
 
 [DEMO LINK](https:/Drew11.github.io/layout_enclosures/) <br>
-[TEST REPORT LINK](https://Drew11..github.io/layout_enclosures/report/html_report/)
+[LINK REPORT TEST](https://Drew11.github.io/layout_enclosures/report/html_report/)
