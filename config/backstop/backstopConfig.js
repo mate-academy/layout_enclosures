@@ -7,7 +7,7 @@ const basicScenario = {
   referenceUrl: 'https://mate-academy.github.io/layout_solutions/enclosures/',
   readyEvent: '',
   readySelector: '',
-  delay: 1000,
+  delay: 0,
   hideSelectors: ['[data-qa-hidden]'],
   removeSelectors: ['[data-qa-remove]'],
   hoverSelector: '',
@@ -56,6 +56,6 @@ module.exports = {
   },
   asyncCaptureLimit: 5,
   asyncCompareLimit: 50,
-  debug: false,
+  debug: true,
   debugWindow: false
 };

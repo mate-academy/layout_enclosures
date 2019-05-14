@@ -7,27 +7,25 @@ body {
 #rus {
   width: 350px;
   height: auto;
-  border: 10px solid #308dc0;
-  outline: 1px solid #e75551;
-
+  background-color: #308dc0;
+  border: 1px solid #e75551;
   margin: 20px 20px 40px 12px;
-  position: relative;
   box-sizing: border-box;
 }
 
 .middle {
   width: 328px;
-  border: 10px solid #ffa500;
-  outline: 1px solid #e75551;
+  background-color: #ffa500;
+  border: 1px solid #e75551;
   box-sizing: border-box;
-  margin: auto;
+  margin: 10px auto;
 }
 
 .inner {
   width: 306px;
-  outline: 1px solid #e75551;
+  border: 1px solid #e75551;
   background-color: #ddd;
   padding: 10px;
   box-sizing: border-box;
-  margin: auto;
+  margin: 10px auto;
 }
