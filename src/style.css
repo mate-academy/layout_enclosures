@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+}
+
+#qa-block,
+#ukr,
+#rus {
+  width: 350px;
+  height: auto;
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  margin: 20px 20px 40px 12px;
+  box-sizing: border-box;
+}
+
+.middle {
+  width: 328px;
+  background-color: #ffa500;
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+  margin: 10px auto;
+}
+
+.inner {
+  width: 306px;
+  border: 1px solid #e75551;
+  background-color: #ddd;
+  padding: 10px;
+  box-sizing: border-box;
+  margin: 10px auto;
+}
