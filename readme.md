@@ -37,5 +37,5 @@ closure is a record storing a function together with an environment.
 
 **Result**
 
-[DEMO LINK](https://ozirnaritaenclo.github.io/layout_enclosures/) <br>
-[TEST REPORT LINK](https://ozirnaritaenclo.github.io/layout_enclosures/report/html_report/)
+[DEMO LINK](https://ozirnarita.github.io/layout_enclosures/) <br>
+[TEST REPORT LINK](https://ozirnarita.github.io/layout_enclosures/report/html_report/)
