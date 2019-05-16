@@ -1,0 +1,25 @@
+section {
+  background-color: #308dc0;
+  width: 346px;
+  border: 1px solid #e75551;
+  margin-bottom: 40px;
+}
+
+body {
+  margin: 20px;
+  background-color: #000;
+}
+
+div {
+  background-color: #ffa500;
+  margin: 10px;
+  border: 1px solid #e75551;
+}
+
+p {
+  display: block;
+  margin: 10px;
+  background-color: #ddd;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
