@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.wrapper {
+  width: 328px;
+  margin: 20px 20px 40px;
+  background: #308dc0;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.outer {
+  background: #ffa500;
+}
+
+.inner {
+  background: #ddd;
+}
+
+p {
+  margin: 0;
+  padding-right: 10px;
+}
