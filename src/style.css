@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  margin: 0;
+  font-size: 16px;
+}
+
+div {
+  border: 1px solid rgb(231, 85, 81);
+  padding: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+.first {
+  margin-top: 20px;
+}
+
+#qa-block {
+  z-index: -1;
+}
+
+.blue-box {
+  max-width: 328px;
+  color: black;
+  background-color: rgb(48, 141, 192);
+  margin: 20px 20px 40px;
+}
+
+.yellow-box {
+  background-color: rgb(255, 165, 0);
+}
+
+.white-box {
+  background-color: rgb(221, 221, 221);
+}
