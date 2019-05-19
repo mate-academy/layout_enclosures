@@ -1,0 +1,30 @@
+.box1 {
+  background: #ddd; /* Цвет фона */
+  padding: 10px; /* Поля */
+  outline: 1px solid #e75551; /* Параметры рамки */
+}
+
+.box2 {
+  outline: 1px solid #e75551; /* красная рамка */
+  border: 11px solid #ffa500; /* желтая рамка */
+}
+
+.box3 {
+
+  outline: 1px solid #e75551; /* красная рамка */
+  border: 11px solid #308dc0; /* синяя рамка */
+}
+
+.box4 {
+  width: 350px; /* Ширина блока */
+  margin: 20px 40px 40px 20px;
+  -moz-box-sizing: border-box; /* Для Firefox */
+  box-sizing: border-box; /* Ширина блока с полями */
+  border: 1px solid #e75551; /* Чёрная рамка */
+}
+
+body {
+  margin: 0; /* Убираем отступы */
+  padding: 0;
+  background-color: #000;
+}
