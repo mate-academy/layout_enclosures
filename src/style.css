@@ -1,0 +1,32 @@
+
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.block {
+  width: 350px;
+  margin: 20px;
+}
+
+.en,
+.uk {
+  margin-bottom: 40px;
+}
+
+.border__small-red {
+  border: 1px #e75551 solid;
+}
+
+.border__blue {
+  border: 10px #308dc0 solid;
+}
+
+.border__orange {
+  border: 10px #ffa500 solid;
+}
+
+.interior__block {
+  padding: 10px;
+  background-color: #ddd;
+}
