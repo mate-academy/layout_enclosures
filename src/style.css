@@ -1,0 +1,24 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.blue_box {
+  background-color: #3d8cb6;
+  width: 328px;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.yellow_box {
+  background-color: #f90;
+}
+
+.grey_box {
+  background-color: #ddd;
+}
