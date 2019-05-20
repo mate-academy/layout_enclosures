@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+div {
+  border-color: #e75551;
+  border-width: 1px;
+  border-style: solid;
+  padding: 10px;
+}
+
+.blue {
+  background-color: #308dc0;
+  margin: 20px;
+  margin-bottom: 40px;
+  width: 328px;
+}
+
+.yellow {
+  background-color: #ffa500;
+  width: 306px;
+}
+
+.softblue {
+  background-color: #ddd;
+  width: 284px;
+}
