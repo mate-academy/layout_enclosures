@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.box {
+  width: 348px;
+  border: 1px solid;
+  border-color: rgb(231, 85, 81);
+  background-color: rgb(48, 141, 192);
+  margin: 20px 20px 40px;
+}
+
+.middle-box {
+  background-color: rgb(255,165,0);
+  margin: 10px;
+  border: 1px solid;
+  border-color: rgb(231, 85, 81);
+}
+
+.last-box {
+  background-color: rgb(221,221,221);
+  border: 1px solid;
+  border-color: rgb(231, 85, 81);
+  margin: 10px;
+}
+
+p {
+  margin: 10px;
+}
