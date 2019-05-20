@@ -1,0 +1,27 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+div.first {
+  margin: 20px;
+  margin-bottom: 40px;
+  padding: 10px;
+  width: 328px;
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+}
+
+div.second {
+  margin: auto;
+  padding: 10px;
+  border: 1px solid #e75551;
+  background-color: #ffa500;
+}
+
+div.third {
+  margin: auto;
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #e75551;
+}
