@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.block {
+  border: 1px solid rgb(232, 84, 80);
+  width: 348px;
+  height: 172px;
+  margin: 12px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.text {
+  width: 284px;
+  padding: 10px;
+  margin: 21px;
+  border: 1px solid rgb(232, 84, 80);
+  background-color: rgb(222, 222, 222);
+  box-shadow: 0 0 0 10px rgb(255, 167, 0),
+    0 0 0 11px rgb(232, 84, 80),
+    0 0 0 21px rgb(44, 142, 193);
+}
