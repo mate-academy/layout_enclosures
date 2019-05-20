@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background: #000;
+}
+
+.wrapper {
+  margin: 20px 20px 40px;
+  width: 350px;
+}
+
+.blue-container {
+  background: #308dc0;
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.yellow-container {
+  background: #ffa500;
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.text-container {
+  padding: 10px;
+  display: block;
+  background: #ddd;
+  border: 1px solid #e75551;
+}
