@@ -1,4 +1,4 @@
 **Result**
 
 -[DEMO LINK](https://greencodeio.github.io/layout_enclosures/)  
--[UPDATE TEST REPORT LINK](https://greencodeio.github.io/layout_enclosures/report/html_report/)
+-[TEST REPORT LINK](https://greencodeio.github.io/layout_enclosures/report/html_report/)
