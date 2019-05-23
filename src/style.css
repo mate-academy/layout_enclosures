@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.container {
+  padding: 20px;
+}
+
+#qa-block {
+  height: 174px;
+  margin-bottom: 40px;
+}
+
+.blueBox {
+  width: 350px;
+  height: 175px;
+  background-color: #308dc0;
+  margin-bottom: 39px;
+  padding: 10px 0;
+  border: 1px solid #e75551;
+}
+
+.orangeBox {
+  background-color: #ffa500;
+  margin-right: 10px;
+  margin-left: 10px;
+  padding: 10px 0;
+  border: 1px solid #e75551;
+}
+
+.textBox {
+  width: 306px;
+  height: 130px;
+  background-color: #ddd;
+  margin: 0 auto;
+  padding: 0 10px;
+  border: 1px solid #e75551;
+}
+
+p {
+  margin: 10px auto;
+}
