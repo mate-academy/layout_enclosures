@@ -1,0 +1,30 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 20px;
+  background-color: #000;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.blueBox {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+}
+
+.orangeBox {
+  background-color: #ffa500;
+}
+
+.textBox {
+  background-color: #ddd;
+}
