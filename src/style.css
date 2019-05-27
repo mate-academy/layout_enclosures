@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  padding: 20px;
+  margin: 0;
+}
+
+.ext {
+  width: 328px;
+  background-color: rgb(48, 141, 192);
+  border: 1px solid rgb(231, 85, 81);
+  padding: 10px;
+}
+
+.mid {
+  background-color: rgb(255, 165, 0);
+  border: 1px solid rgb(231, 85, 81);
+  padding: 10px;
+}
+
+.int {
+  background-color: rgb(221, 221, 221);
+  border: 1px solid rgb(231, 85, 81);
+  padding: 10px;
+}
+
+#doubleMid {
+  margin: 40px 0;
+}
