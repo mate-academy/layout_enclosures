@@ -1,0 +1,27 @@
+body {
+  background: #000;
+  margin: 0;
+}
+
+div {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #e75551;
+}
+
+.external {
+  background-color: #308dc0;
+  margin: 20px 20px 40px;
+  width: 348px;
+}
+
+.middle {
+  background-color: #ffa500;
+  margin: 10px;
+}
+
+.inner {
+  background-color: #ddd;
+  margin: 10px;
+  padding: 10px;
+}
