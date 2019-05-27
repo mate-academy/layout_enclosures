@@ -1,0 +1,25 @@
+body {
+  background-color: #0e0e0e;
+  margin: 0;
+}
+
+div {
+  border: 1px solid #e75551;
+}
+
+.first {
+  width: 348px;
+  background-color: #308dc0;
+  margin: 20px 20px 40px;
+}
+
+.second {
+  margin: 10px;
+  background-color: #ffa500;
+}
+
+.third {
+  margin: 10px;
+  background-color: #ddd;
+  padding: 10px;
+}
