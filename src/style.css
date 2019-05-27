@@ -1,0 +1,26 @@
+body {
+  margin: -20px 0;
+  background-color: #000;
+}
+
+p,
+.blueFrame,
+.yellowFrame {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+p {
+  background: #ddd;
+  margin: 0;
+}
+
+.yellowFrame {
+  background: orange;
+}
+
+.blueFrame {
+  background: #308dc0;
+  width: 328px;
+  margin: 40px 20px;
+}
