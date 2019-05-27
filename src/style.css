@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  padding: 20px;
+}
+
+div {
+  padding: 10px;
+  border: 1px solid #e8584e;
+}
+
+.blueBlock {
+  width: 350px;
+  box-sizing: border-box;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.yellowBlock {
+  background-color: #ffa500;
+}
+
+.textBlock {
+  background-color: #ddd;
+}
