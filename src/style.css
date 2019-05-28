@@ -8,7 +8,9 @@ body {
   padding: 20px;
 }
 
-div {
+.blue,
+.yellow,
+.custom_text {
   padding: 10px;
   border: 1px solid #e75551;
 }
