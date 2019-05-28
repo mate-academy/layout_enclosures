@@ -3,7 +3,7 @@ body {
   padding: 0;
 }
 
-div {
+.first {
   width: 350px;
   background-color: #308dc0;
   padding: 10px;
@@ -12,7 +12,7 @@ div {
   border: 1px solid  #ea5e48;
 }
 
-div div {
+.second {
   width: auto;
   background-color: #ffa500;
   margin: auto;
