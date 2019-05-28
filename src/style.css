@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.frame {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.red {
+  background: #ddd;
+}
+
+.yellow {
+  background: orange;
+}
+
+.blue {
+  background: #308dc0;
+  width: 350px;
+  margin: 40px 20px;
+  box-sizing: border-box;
+}
+
+.first {
+  margin: 20px;
+}
