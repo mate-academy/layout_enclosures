@@ -4,6 +4,12 @@ body {
   padding: 0;
 }
 
+.yellowBox,
+.greyBox {
+  margin: 10px;
+  border: 1px solid #e75551;
+}
+
 .blueBox {
   background-color: #308dc0;
   width: 348px;
@@ -13,14 +19,10 @@ body {
 
 .yellowBox {
   background-color: #ffa500;
-  margin: 10px;
-  border: 1px solid #e75551;
 }
 
 .greyBox {
   background-color: #ddd;
-  margin: 10px;
-  border: 1px solid #e75551;
   padding: 10px;
 }
 
