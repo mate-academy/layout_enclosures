@@ -1,5 +1,6 @@
-* {
-  box-sizing: border-box;
+body {
+  margin: 0;
+  background: black;
 }
 
 .inner {
@@ -11,6 +12,7 @@
   width: 350px;
   background: #308dc0;
   margin: 20px auto 40px 20px;
+  box-sizing: border-box;
 }
 
 .text {
@@ -19,11 +21,8 @@
   margin: 10px;
 }
 
-div {
+.text,
+.inner,
+.outer {
   border: 1px solid #e75551;
-}
-
-body {
-  margin: 0;
-  background: black;
 }
