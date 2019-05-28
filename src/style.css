@@ -4,9 +4,16 @@ body {
   margin: 0;
 }
 
-.outer {
-  width: 350px;
+.box {
   border: solid 1px #e75551;
+}
+
+.distance-box {
+  margin: 10px;
+}
+
+.content {
+  width: 350px;
   background: #308dc0;
   margin-left: 20px;
   margin-top: 20px;
@@ -14,15 +21,13 @@ body {
   box-sizing: border-box;
 }
 
-.inner1 {
+.text {
   background: #ffa500;
-  border: solid 1px #e75551;
-  margin: 10px;
+
 }
 
-.inner2 {
+.inner-text {
   background: #ddd;
-  border: solid 1px #e75551;
-  margin: 10px;
+  
   padding: 10px;
 }
