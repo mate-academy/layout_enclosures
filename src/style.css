@@ -3,10 +3,6 @@ body {
   background-color: #000;
 }
 
-#qa-block {
-  margin: 20px;
-}
-
 .frame {
   padding: 10px;
   border: 1px solid #e75551;
@@ -25,4 +21,8 @@ body {
   width: 350px;
   margin: 40px 20px;
   box-sizing: border-box;
+}
+
+.first {
+  margin: 20px;
 }
