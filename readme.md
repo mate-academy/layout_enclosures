@@ -38,4 +38,4 @@ closure is a record storing a function together with an environment.
 **Result**
 
 [UPDATE DEMO LINK](https://bonyaha.github.io/layout_enclosures/) <br>
-[UPDATE TEST REPORT LINK](https://bonyaha.github.io/layout_enclosures//report/html_report/)
+[UPDATE TEST REPORT LINK](https://bonyaha.github.io/layout_enclosures/report/html_report/)
