@@ -1,26 +1,28 @@
 body {
-  margin: -20px 0;
+  margin: 0;
   background-color: #000;
 }
 
-p,
-.blueFrame,
-.yellowFrame {
+#qa-block {
+  margin: 20px;
+}
+
+.frame {
   padding: 10px;
   border: 1px solid #e75551;
 }
 
-p {
+.red {
   background: #ddd;
-  margin: 0;
 }
 
-.yellowFrame {
+.yellow {
   background: orange;
 }
 
-.blueFrame {
+.blue {
   background: #308dc0;
-  width: 328px;
+  width: 350px;
   margin: 40px 20px;
+  box-sizing: border-box;
 }
