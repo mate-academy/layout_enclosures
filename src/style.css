@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+}
+
+div {
+  padding: 10px;
+
+}
+
+.boxes {
+  box-sizing: border-box;
+  border: solid 1px #e75551;
+}
+
+.first {
+  background-color: #308dc0;
+  width: 350px;
+  margin-bottom: 40px;
+}
+
+.second {
+  background-color: #ffa500;
+}
+
+.third {
+  background-color: #ddd;
+}
+
+.flexy {
+  display: flex;
+  flex-direction: column;
+}
