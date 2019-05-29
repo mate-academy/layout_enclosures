@@ -2,26 +2,28 @@ body {
   background-color: black;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
-.block1 {
-  margin-left: 20px;
-  margin-top: 20px;
-  margin-bottom: 40px;
-  width: 348px;
+.bord {
   border: 1px solid #e75551;
+}
+
+.wraper {
+  margin: 20px 0 40px 20px;
+  width: 350px;
   background-color: #308dc0;
 }
 
-.block2 {
+.marg {
   margin: 10px;
-  border: 1px solid #e75551;
+}
+
+.inner {
   background-color: #ffa500;
 }
 
-p {
-  margin: 10px;
+.content {
   padding: 10px;
-  border: 1px solid #e75551;
   background-color: #ddd;
 }
