@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  background: black;
+  padding: 20px;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.container {
+  width: 350px;
+  margin-bottom: 40px;
+  background: #308dc0;
+  box-sizing: border-box;
+}
+
+.first {
+  background: orange;
+}
+
+.second {
+  background: #ddd;
+}
