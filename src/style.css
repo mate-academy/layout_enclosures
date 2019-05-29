@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.bor {
+  border: 1px solid #e75551;
+}
+
+.text {
+  background-color: #ddd;
+  margin: 0 ;
+}
+
+.external {
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.internal {
+  background-color: #ffa500;
+}
+
+.internal, .external, .text {
+  box-sizing: border-box;
+  padding: 10px;
+}
