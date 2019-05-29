@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background-color: black;
+  padding: 20px;
 }
 
 .box {
@@ -9,18 +10,16 @@ body {
 }
 
 .outer {
-  height: 152px;
-  width: 328px;
-  margin: 20px 0 40px 20px;
+  box-sizing: border-box;
+  width: 350px;
+  margin-bottom: 40px;
   background-color: #2c8ec2;
 }
 
 .middle {
-  height: 130px;
   background-color: #ffa600;
 }
 
 .inner {
-  height: 108px;
   background-color: #dedede;
 }
