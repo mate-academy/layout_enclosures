@@ -6,22 +6,20 @@ body {
 
 div {
   border: 1px solid #e75551;
+  padding: 10px;
 }
 
 .container {
   width: 350px;
   margin-bottom: 40px;
-  padding: 10px;
   background: #308dc0;
   box-sizing: border-box;
 }
 
 .first {
-  padding: 10px;
   background: orange;
 }
 
 .second {
   background: #ddd;
-  padding: 10px;
 }
