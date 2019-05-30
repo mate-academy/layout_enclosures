@@ -2,26 +2,24 @@ body {
   background-color: #000;
 }
 
+.block {
+  border: 1px #e75551 solid;
+  padding: 10px;
+}
+
 .blue {
   width: 350px;
   box-sizing: border-box;
-  border: 1px #e75551 solid;
-  background-color: #308dc0;
   margin: 20px 0 40px 12px;
-  padding: 11px;
+  background-color: #308dc0;
 }
 
 .orange {
   background-color: #ffa500;
-  outline: 1px #e75551 solid;
-  padding: 11px;
 }
 
 .content {
   background-color: #ddd;
-  padding: 10px;
-  outline: 1px #e75551 solid;
-  margin: 0;
 }
 
 p {
