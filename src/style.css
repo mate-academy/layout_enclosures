@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background: #000;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  box-sizing: border-box;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.bluish {
+  width: 350px;
+  margin-bottom: 40px;
+  background: #308dc0;
+}
+
+.yellowish {
+  background: #ffa500;
+}
+
+.whitish {
+  background: #ddd;
+}
