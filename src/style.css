@@ -9,27 +9,22 @@ p {
   padding: 0;
 }
 
-.bluish {
-  width: 350px;
-  padding: 10px;
-  margin-bottom: 40px;
+.box {
   box-sizing: border-box;
   border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.bluish {
+  width: 350px;
+  margin-bottom: 40px;
   background: #308dc0;
 }
 
 .yellowish {
-  width: 100%;
-  height: 100%;
-  padding: 10px;
-  box-sizing: border-box;
-  border: 1px solid #e75551;
   background: #ffa500;
 }
 
 .whitish {
-  padding: 10px;
-  box-sizing: border-box;
-  border: 1px solid #e75551;
   background: #ddd;
 }
