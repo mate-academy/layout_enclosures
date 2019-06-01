@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+.wrap {
+  border: 1px solid #e65451;
+}
+
+.block-blue {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.block-yellow {
+  background-color: #ffa500;
+  margin: 10px;
+}
+
+.block-text {
+  background-color: #ddd;
+  padding: 10px;
+  margin: 10px;
+}
