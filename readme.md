@@ -1,3 +1,8 @@
+**Result**
+
+[DEMO LINK](https://tolyaruban.github.io/layout_enclosures/) <br>
+[TEST REPORT LINK](https://tolyaruban.github.io/layout_enclosures/report/html_report/)
+
 # Enclosures
 
 See [reference/enclosures.png](reference/enclosures.png) for reference.
@@ -34,8 +39,3 @@ closure is a record storing a function together with an environment.
 **Read the guideline before start**
 
 [Guideline](https://mate-academy.github.io/layout_task-guideline/)
-
-**Result**
-
-[UPDATE DEMO LINK](https://<your_account>.github.io/<repo_name>/) <br>
-[UPDATE TEST REPORT LINK](https://<your_account>.github.io/<repo_name>/report/html_report/)
