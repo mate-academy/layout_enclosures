@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  margin: 0 ;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.block_blue {
+  background-color: #308dc0;
+  width: 328px;
+  margin: 20px 20px 40px;
+}
+
+.block_yellow {
+  background-color: #ffa500;
+  width: 306px;
+}
+
+.block_text {
+  background-color: #ddd;
+  width: 284px;
+}
