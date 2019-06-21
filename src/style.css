@@ -1,0 +1,29 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.blue-box {
+  width: 350px;
+  margin: 20px 20px 40px;
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+}
+
+.orange-box {
+  margin: 10px;
+  background-color: #ffa500;
+  border: 1px solid #e75551;
+}
+
+.text-box {
+  background-color: #ddd;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #e75551;
+}
