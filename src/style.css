@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #000;
+}
+
+.container {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 20px 20px 40px;
+}
+
+.childBox {
+  background-color: #ffa500;
+}
+
+.textBox {
+  background-color: #ddd;
+}
+
+.block {
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+  padding: 10px;
+}
