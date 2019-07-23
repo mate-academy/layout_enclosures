@@ -5,9 +5,7 @@ body {
 }
 
 .box {
-  border-color: #e75551;
-  border-width: 1px;
-  border-style: solid;
+  border: 1px solid #e75551;
   padding: 10px;
 }
 
@@ -24,5 +22,4 @@ body {
 
 .in {
   background-color: #ddd;
-  padding: 10px;
 }
