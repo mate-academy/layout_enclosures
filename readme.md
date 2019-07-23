@@ -39,4 +39,4 @@ The text content in three languages follows:
 **Result**
 
 [UPDATE DEMO LINK](https://KosBelozyorov.github.io/layout_enclosures/) <br>
-[UPDATE TEST REPORT LINK](https://KosBelozyorov.github.io/layout_enclosures/pull/138/)
+[UPDATE TEST REPORT LINK](https://KosBelozyorov.github.io/layout_enclosures/report/html_report/)
