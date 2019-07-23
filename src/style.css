@@ -1,0 +1,24 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.enclosures-border {
+  box-sizing: border-box;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.enclosures {
+  width: 350px;
+  margin: 20px 20px 40px;
+  background-color: #308dc0;
+}
+
+.enclosures-wrap {
+  background-color: #ffa500;
+}
+
+.enclosures-p {
+  background-color: #ddd;
+}
