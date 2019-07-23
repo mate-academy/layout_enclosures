@@ -4,7 +4,7 @@
 
 body {
   margin: 20px;
-  background: black;
+  background-color: black;
 }
 
 div {
@@ -23,6 +23,5 @@ div {
 }
 
 .inner {
-  background: green;
   background-color: #ddd;
 }
