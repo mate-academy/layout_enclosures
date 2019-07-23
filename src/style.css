@@ -10,7 +10,6 @@ body {
 
 .outer-box {
   width: 350px;
-  padding: 10px;
   box-sizing: border-box;
   background-color: #308dc0;
 }
@@ -20,16 +19,14 @@ body {
 }
 
 .inner-box {
-  padding: 10px;
   background-color: #ffa500;
 }
 
 .text-box {
-  padding: 10px;
-  height: 100%;
   background-color: #ddd;
 }
 
 .border-box {
   border: 1px solid #e75551;
+  padding: 10px;
 }
