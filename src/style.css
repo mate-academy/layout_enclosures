@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-.enclosures-border {
+.enclosures-bordered {
   box-sizing: border-box;
   border: 1px solid #e75551;
   padding: 10px;
@@ -19,6 +19,6 @@ body {
   background-color: #ffa500;
 }
 
-.enclosures-p {
+.enclosures-text {
   background-color: #ddd;
 }
