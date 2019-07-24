@@ -37,5 +37,5 @@ closure is a record storing a function together with an environment.
 
 **Result**
 
-[UPDATE DEMO LINK](https://vladyslavsak.github.io/layout_enclosures/) <br>
-[UPDATE TEST REPORT LINK](https://vladyslavsak.github.io/layout_enclosures/report/html_report/)
+[Solution 'Enclosure"](https://vladyslavsak.github.io/layout_enclosures/) <br>
+[Bugreport to my solution](https://vladyslavsak.github.io/layout_enclosures/report/html_report/)
