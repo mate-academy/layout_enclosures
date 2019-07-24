@@ -1,38 +1,38 @@
 body {
-    background-color:black;
+  background-color: black;
 }
-div {
-    margin-top:42px;
-    margin-left:20px;
-    padding:10px;
+
+.blocks {
+  margin-top: 43px;
+  margin-left: 43px;
+  padding: 5px;
+  width: 304px;
+  margin-bottom: 86px;
 }
-#ukr {
-    background-color:rgb(211, 206, 206);
-    width: 350px;
-    box-shadow: 0 0 0 1px red, 
-                0px 0px 0px 10px rgb(231, 172, 10),
-                0 0 0 11px red,
-                0px 0px 0px 21px rgba(73, 121, 209, 0.986),
-                0 0 0 22px red;
-    margin-bottom:84px;
-   }
-#rus {
-    width: 350px;
-    background-color:rgb(211, 206, 206);
-    box-shadow: 0 0 0 1px red, 
-                0px 0px 0px 10px rgb(231, 172, 10),
-                0 0 0 11px red,
-                0px 0px 0px 21px rgba(73, 121, 209, 0.986),
-                0 0 0 22px red;
-                margin-bottom:84px;
-   }
+
+.ukr-class {
+  background-color: rgb(211, 206, 206);
+  box-shadow: 0 0 0 1px red,
+    0 0 0 11px rgb(231, 172, 10),
+    0 0 0 12px red,
+    0 0 0 22px rgba(73, 121, 209, 0.99),
+    0 0 0 23px red;
+}
+
+.rus-class {
+  background-color: rgb(211, 206, 206);
+  box-shadow: 0 0 0 1px red,
+    0 0 0 11px rgb(231, 172, 10),
+    0 0 0 12px red,
+    0 0 0 22px rgba(73, 121, 209, 0.99),
+    0 0 0 23px red;
+}
+
 #qa-block {
-    background-color:rgb(211, 206, 206);
-    width: 350px;
-    box-shadow: 0 0 0 1px red, 
-                0px 0px 0px 10px rgb(231, 172, 10),
-                0 0 0 11px red,
-                0px 0px 0px 21px rgba(73, 121, 209, 0.986),
-                0 0 0 22px red;
-                margin-bottom:84px;
-   }
+  background-color: rgb(211, 206, 206);
+  box-shadow: 0 0 0 1px red,
+    0 0 0 11px rgb(231, 172, 10),
+    0 0 0 12px red,
+    0 0 0 22px rgba(73, 121, 209, 0.99),
+    0 0 0 23px red;
+}
