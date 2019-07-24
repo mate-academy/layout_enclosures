@@ -1,8 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   background-color: #000;
 }
@@ -10,14 +5,14 @@ body {
 .container {
   width: 350px;
   background-color: #308dc0;
-  margin: 20px 20px 40px;
+  margin: 20px 12px 40px;
 }
 
-.childBox {
+.child_box {
   background-color: #ffa500;
 }
 
-.textBox {
+.text_box {
   background-color: #ddd;
 }
 
