@@ -1,7 +1,6 @@
 body {
   background: black;
   margin: 0;
-  padding: 0;
 }
 
 .block {
@@ -10,13 +9,13 @@ body {
   border: 1px solid #e75551;
 }
 
-.block-blue {
+.block-outer {
   width: 350px;
   background-color: #308dc0;
   margin: 20px 20px 40px;
 }
 
-.block-orange {
+.block-midle {
   background-color: #ffa500;
 }
 
