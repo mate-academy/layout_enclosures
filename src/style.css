@@ -3,24 +3,22 @@ body {
   margin: 0;
 }
 
-div {
+.thin-border {
   border: 1px solid rgb(233,93,73);
+  padding: 10px;
 }
 
 .external {
   box-sizing: border-box;
   width: 350px;
   background-color: rgb(48,141,192);
-  padding: 10px;
   margin: 20px 20px 40px;
 }
 
 .mid {
   background-color: rgb(255,165,0);
-  padding: 10px;
 }
 
 .inner {
   background-color: rgb(221,221,221);
-  padding: 10px;
 }
