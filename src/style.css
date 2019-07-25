@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+}
+
+.container {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 20px 12px 40px;
+}
+
+.child_box {
+  background-color: #ffa500;
+}
+
+.text_box {
+  background-color: #ddd;
+}
+
+.block {
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+  padding: 10px;
+}
