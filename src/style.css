@@ -1,11 +1,7 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   padding: 20px;
   background-color: #000;
+  margin: 0;
 }
 
 .box {
@@ -22,6 +18,10 @@ body {
 
 .inner {
   background-color: #ffa500;
+}
+
+.inner .box {
+  margin: 0;
 }
 
 .text {
