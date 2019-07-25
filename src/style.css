@@ -1,38 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: black;
+  padding: 20px;
 }
 
-.blocks {
-  margin-top: 43px;
-  margin-left: 43px;
-  padding: 5px;
-  width: 304px;
-  margin-bottom: 86px;
+.out-block {
+  width: 350px;
+  box-sizing: border-box;
+  background-color: #308dc0;
 }
 
-.ukr-class {
-  background-color: rgb(211, 206, 206);
-  box-shadow: 0 0 0 1px red,
-    0 0 0 11px rgb(231, 172, 10),
-    0 0 0 12px red,
-    0 0 0 22px rgba(73, 121, 209, 0.99),
-    0 0 0 23px red;
+.in-block {
+  background-color: #ffa500;
 }
 
-.rus-class {
-  background-color: rgb(211, 206, 206);
-  box-shadow: 0 0 0 1px red,
-    0 0 0 11px rgb(231, 172, 10),
-    0 0 0 12px red,
-    0 0 0 22px rgba(73, 121, 209, 0.99),
-    0 0 0 23px red;
+.text-block {
+  background-color: #ddd;
 }
 
-#qa-block {
-  background-color: rgb(211, 206, 206);
-  box-shadow: 0 0 0 1px red,
-    0 0 0 11px rgb(231, 172, 10),
-    0 0 0 12px red,
-    0 0 0 22px rgba(73, 121, 209, 0.99),
-    0 0 0 23px red;
+.border-block {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.out-block:not(:last-child) {
+  margin-bottom: 40px;
 }
