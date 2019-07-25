@@ -16,13 +16,11 @@ body {
 }
 
 .box-yellow {
-  width: 328px;
   background-color: #ffa500;
   margin: 10px;
 }
 
 .box-grey {
-  width: 307px;
   background-color: #ddd;
   margin: 10px;
   padding: 10px;
