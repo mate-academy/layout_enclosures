@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  padding: 20px;
+  margin: 0;
+}
+
+.outer-box.outside-box {
+  margin-top: inherit;
+}
+
+.box {
+  border: solid #e75551 1px;
+  padding: 10px;
+}
+
+.inside-box {
+  background-color: #ddd;
+}
+
+.middle-box {
+  background-color: #ffa500;
+}
+
+.outside-box {
+  box-sizing: border-box;
+  width: 350px;
+  background-color: #308dc0;
+  margin-top: 40px;
+}
