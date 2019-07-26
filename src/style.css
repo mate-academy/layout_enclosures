@@ -1,9 +1,10 @@
 body {
   background-color: black;
-  margin: 20px;
+  padding: 20px;
+  margin: 0;
 }
 
-.first-box.outside-box {
+.outer-box.outside-box {
   margin-top: inherit;
 }
 
