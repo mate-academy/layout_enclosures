@@ -1,14 +1,13 @@
 body {
   background-color: black;
   margin: 0;
-  padding: 0;
 }
 
 .main-border {
   border: #e75551 solid 1px ;
 }
 
-.out-box {
+.outer-box {
   margin-top: 40px;
   margin-left: 20px;
   padding: 10px;
@@ -28,6 +27,6 @@ body {
   padding: 10px;
 }
 
-#qa-block {
+.outer-english-box {
   margin-top: 20px;
 }
