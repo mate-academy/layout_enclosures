@@ -38,4 +38,4 @@ closure is a record storing a function together with an environment.
 **Result**
 
 [UPDATE DEMO LINK](https://katekasiutich.github.io/layout_enclosures/) <br>
-[UPDATE TEST REPORT LINK](https://katekasiutich.github.io/layout_enclosures/html_report/html_report/index.html)
+[UPDATE TEST REPORT LINK](https://katekasiutich.github.io/layout_enclosures/report/html_report)
