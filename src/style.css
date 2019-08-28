@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 20px;
+}
+
+.first-layer {
+  width: 350px;
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+.second-layer {
+  background-color: #ffa500;
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.third-layer {
+  background-color: #ddd;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
