@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 20px;
+
+}
+
+.redBorder {
+  border: 1px solid #e75551;
+}
+
+.outBox {
+  width: 350px;
+  box-sizing: border-box;
+  background-color: #308dc0;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+.midBox {
+  background-color: #ffa500;
+  padding: 10px;
+}
+
+.inBox {
+  background-color: #ddd;
+  padding: 10px;
+}
