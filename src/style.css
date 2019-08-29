@@ -1,3 +1,29 @@
-div {
+body {
+  margin: 20px;
+  background-color: black;
+}
+
+p {
+  margin: 0;
+}
+
+.Block {
+  border: 1px solid #e75451;
+  padding: 10px;
+}
+
+.top {
+  width: 350px;
+  background-color: #2c8ec1;
+  padding: 10px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+}
+
+.middle {
+  background-color: #ffa700;
+}
+
+.inside {
   background-color: #dedede;
 }
