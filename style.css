@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 20px 20px 0;
+  background-color: #000;
+}
+
+.top-box {
+  box-sizing: border-box;
+  width: 350px;
+  border: 1px solid #e75551;
+  margin-bottom: 40px;
+  background-color: #308dc0;
+}
+
+.mid-box {
+  margin: 10px;
+  border: 1px solid #e75551;
+  background-color: #ffa500;
+}
+
+.last-box {
+  margin: 10px;
+  border: 1px solid #e75551;
+  background-color: #ddd;
+}
+
+.top-box:last-child {
+  margin-bottom: 0;
+}
+
+.text {
+  margin: 10px;
+}
