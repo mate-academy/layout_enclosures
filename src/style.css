@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.levelA {
+  margin: 20px 20px 40px;
+  width: 348px;
+  background-color: #308cc0;
+  border: 1px solid #e75551;
+}
+
+.levelB {
+  width: 326px;
+  background-color: orange;
+  border: 1px solid #e75551;
+  margin: 10px;
+}
+
+.levelC {
+  width: 284px;
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #e75551;
+  margin: 10px;
+}
