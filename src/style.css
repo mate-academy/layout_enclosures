@@ -1,5 +1,5 @@
 body {
-  margin: 20px;
+  margin: 0;
   background-color: black;
 }
 
@@ -10,7 +10,7 @@ body {
 .outer-block {
   box-sizing: border-box;
   width: 350px;
-  margin-bottom: 40px;
+  margin: 20px 0 40px 20px;
   background-color: #308dc0;
 }
 
