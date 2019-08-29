@@ -3,23 +3,23 @@ body {
   margin: 20px;
 }
 
-.redBorder {
+.border_box {
   border: 1px solid #e75551;
   padding: 10px;
 }
 
-.outBox {
+.out_box {
   width: 350px;
   box-sizing: border-box;
   background-color: #308dc0;
   margin-bottom: 40px;
 }
 
-.midBox {
+.mid_box {
   background-color: #ffa500;
 }
 
-.inBox {
+.in_box {
   background-color: #ddd;
   margin: 0;
 }
