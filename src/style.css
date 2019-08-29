@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-.border-red {
+.main-box {
   border: 1px solid #e75551;
   padding: 10px;
 }
