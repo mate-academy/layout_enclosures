@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.border {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.first-layer {
+  width: 350px;
+  background-color: #308dc0;
+  box-sizing: border-box;
+  margin: 20px 20px 40px;
+}
+
+.second-layer {
+  background-color: #ffa500;
+  padding-top: 10px;
+}
+
+.third-layer {
+  margin: 0;
+  background-color: #ddd;
+}
