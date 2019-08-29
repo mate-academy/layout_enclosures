@@ -38,4 +38,4 @@ closure is a record storing a function together with an environment.
 **Result**
 
 [LINK](https://nikakarelets.github.io/fs_aug19_veronika/) <br>
-[UPDATE TEST REPORT LINK](https://nikakarelets.github.io/fs_aug19_veronika/report/html_report/)
+[TEST REPORT LINK](https://nikakarelets.github.io/fs_aug19_veronika/report/html_report/)
