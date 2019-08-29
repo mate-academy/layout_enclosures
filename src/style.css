@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.box1 {
+  background-color: rgb(44, 142, 194);
+  width: 350px;
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
+}
+
+.box2 {
+  background-color: rgb(254, 166, 0);
+}
+
+p#qa-block,
+p {
+  background-color: rgb(221, 221, 221);
+  margin: 0;
+}
+
+.box1,
+.box2,
+p {
+  padding: 10px;
+}
+
+.box1,
+.box2,
+p {
+  border: 1px solid #b05359;
+}
