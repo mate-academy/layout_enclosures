@@ -37,5 +37,5 @@ closure is a record storing a function together with an environment.
 
 **Result**
 
-[LINK](https://nikakarelets.github.io/fs_aug19_veronika/) <br>
-[TEST REPORT LINK](https://nikakarelets.github.io/fs_aug19_veronika/report/html_report/)
+[LINK](https://nikakarelets.github.io/layout_enclosures/) <br>
+[TEST REPORT LINK](https://nikakarelets.github.io/layout_enclosures/report/html_report/)
