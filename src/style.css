@@ -1,0 +1,26 @@
+body {
+  background-color: #000;
+  margin: 20px;
+}
+
+.external-block {
+  width: 350px;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 40px;
+  background-color: #308dc0;
+}
+
+.central-block {
+  padding: 10px;
+  background-color: #ffa500;
+}
+
+.interior-block {
+  padding: 10px;
+  background-color: #ddd;
+}
+
+.red-border {
+  border: 1px solid #e75551;
+}
