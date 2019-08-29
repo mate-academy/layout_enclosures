@@ -1,28 +1,25 @@
 body {
   background-color: #000;
   margin: 0;
-  padding: 20px;
 }
 
 .border-red {
   border: 1px solid #e75551;
+  padding: 10px;
 }
 
 .external-block {
   width: 350px;
   box-sizing: border-box;
   background-color: #308dc0;
-  padding: 10px;
-  margin-bottom: 40px;
+  margin: 20px 20px 40px;
 }
 
 .average-block {
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .interior-block {
   background-color: #ddd;
-  color: #000;
-  padding: 10px;
+  margin: 0;
 }
