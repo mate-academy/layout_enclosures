@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+
+p {
+  margin: 0;
+}
+
+.inside_block {
+  background-color: rgb(221, 221, 221);
+}
+
+.midle_block {
+  background-color: #ffa500;
+}
+
+.outside_block {
+  width: 350px;
+  box-sizing: border-box;
+  background-color: #308dc0;
+  margin: 20px 0 40px 12px;
+}
+
+.border {
+  border: solid #e75551 1px;
+}
+
+.padding {
+  padding: 10px;
+}
