@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.redish-border {
+  border: 1px solid #e75551;
+}
+
+.container {
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.yellow-block {
+  background-color: #ffa500;
+  padding: 10px;
+}
+
+.article-block {
+  background-color: #ddd;
+  padding: 10px;
+}
