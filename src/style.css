@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 20px;
+
+}
+
+.red_border {
+  border: 1px solid #e75551;
+}
+
+.upper_block {
+  width: 350px;
+  background-color: #308dc0;
+  padding: 10px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+
+}
+
+.middle_block {
+  background-color: orange;
+  padding: 10px;
+}
+
+.lower_block {
+  background-color: lightgray;
+  color: black;
+  padding: 10px;
+}
