@@ -1,6 +1,6 @@
 body {
   background-color: #000;
-  margin: 20px;
+  margin: 0;
 }
 
 .border-and-pad {
@@ -9,6 +9,7 @@ body {
 }
 
 .outerblock {
+  margin: 20px;
   width: 350px;
   background-color: #308dc0;
   margin-bottom: 40px;
@@ -22,4 +23,5 @@ body {
 .innerblock {
   background-color: #ddd;
   color: #000;
+  margin: 0;
 }
