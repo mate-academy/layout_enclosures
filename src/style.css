@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
+
+.outer-box {
+  width: 350px;
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  margin: 40px 20px;
+  box-sizing: border-box;
+}
+
+.middle-box {
+  background-color: #ffa500;
+  margin: 10px;
+}
+
+.inner-box {
+  background-color: #ddd;
+  margin: 0;
+}
+
+.border-block {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
