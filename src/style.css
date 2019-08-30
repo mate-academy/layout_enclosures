@@ -3,23 +3,26 @@ body {
   background-color: #000;
 }
 
+.block,
+.external,
+.internal {
+  border: 1px solid #e75551;
+}
+
 .block {
   background-color: #308dc0;
-  border: 1px solid #e75551;
   width: 328px;
   padding: 10px;
   margin: 20px 20px 40px;
 }
 
 .external {
-  border: 1px solid #e75551;
   background-color: #ffa500;
 }
 
 .internal {
-  border: 1px solid #e75551;
   background-color: #ddd;
-  margin: 10px;
+  padding: 10px;
 }
 
 .text {
