@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.f_block {
+  background-color: #2c8ec1;
+  width: 350px;
+  margin: 20px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+}
+
+.s_block {
+  background-color: #ffa600;
+}
+
+.t_block {
+  background-color: #ddd;
+  margin: 0;
+}
+
+.block {
+  border: 1px solid #e65451;
+  padding: 10px;
+}
