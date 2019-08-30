@@ -17,13 +17,10 @@ body {
 
 .t_block {
   background-color: #ddd;
+  margin: 0;
 }
 
 .block {
   border: 1px solid #e65451;
   padding: 10px;
-}
-
-p {
-  margin: 0;
 }
