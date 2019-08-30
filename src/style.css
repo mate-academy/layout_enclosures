@@ -1,5 +1,5 @@
 body * {
-  box-sizing: border-box;
+  margin: 0;
 }
 
 body {
@@ -8,21 +8,23 @@ body {
 }
 
 .box-main {
+  box-sizing: border-box;
   width: 350px;
-  border: 1px solid #e75551;
   background-color: #308dc0;
-  padding: 10px;
   margin: 20px 20px 40px;
 }
 
 .box-middle {
-  border: 1px solid #e75551;
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .box-text {
-  border: 1px solid #e75551;
   background-color: #ddd;
+}
+
+.box-main,
+.box-middle,
+.box-text {
+  border: 1px solid #e75551;
   padding: 10px;
 }
