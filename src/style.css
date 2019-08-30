@@ -1,8 +1,9 @@
 body {
   background-color: black;
+  margin: 0;
 }
 
-p {
+.text {
   margin: 0;
 }
 
@@ -18,7 +19,7 @@ p {
   width: 350px;
   box-sizing: border-box;
   background-color: #308dc0;
-  margin: 20px 0 40px 12px;
+  margin: 20px 0 40px 20px;
 }
 
 .border {
