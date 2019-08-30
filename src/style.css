@@ -6,21 +6,22 @@ body {
 .text {
   width: 284px;
   background: #ddd;
-  border: 1px solid #e86351;
   padding: 10px;
   margin: 10px;
 }
 
-.inner {
+.inner-block {
   width: 326px;
   background: #ffa500;
-  border: 1px solid #e86351;
   margin: 10px;
 }
 
-.outer {
+.outer-block {
   width: 348px;
   background: #308dc0;
-  border: 1px solid #e86351;
   margin: 20px 0 40px 20px;
+}
+
+.border {
+  border: 1px solid #e86351;
 }
