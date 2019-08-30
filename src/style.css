@@ -24,10 +24,5 @@ p {
 .box2,
 p {
   padding: 10px;
-}
-
-.box1,
-.box2,
-p {
   border: 1px solid #e75551;
 }
