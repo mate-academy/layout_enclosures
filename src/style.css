@@ -11,15 +11,13 @@ body {
 }
 
 .levelB {
-  box-sizing: border-box;
-  width: 328px;
+  width: 326px;
   background-color: orange;
   margin: 10px;
 }
 
 .levelC {
-  width: 306px;
-  box-sizing: border-box;
+  width: 284px;
   padding: 10px;
   background-color: #ddd;
   margin: 10px;
