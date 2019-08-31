@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.levelA {
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
+  width: 350px;
+  background-color: #308cc0;
+}
+
+.levelB {
+  width: 326px;
+  background-color: orange;
+  margin: 10px;
+}
+
+.levelC {
+  width: 284px;
+  padding: 10px;
+  background-color: #ddd;
+  margin: 10px;
+}
+
+.myBorder {
+  border: 1px solid #e75551;
+}
