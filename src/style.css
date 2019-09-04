@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.text {
+  margin: 0;
+}
+
+.first_block {
+  background-color: #ddd;
+}
+
+.second_block {
+  background-color: #ffa500;
+}
+
+.third_block {
+  width: 350px;
+  box-sizing: border-box;
+  background-color: #308dc0;
+  margin: 20px 0 40px 20px;
+}
+
+.border {
+  border: solid #e75551 1px;
+  padding: 10px;
+}
