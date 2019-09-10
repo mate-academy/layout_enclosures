@@ -16,6 +16,7 @@ body {
 
 .box-text {
   background-color: #ddd;
+  margin: 0;
 }
 
 .box-main,
