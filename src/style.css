@@ -1,0 +1,32 @@
+body {
+  background: black;
+  margin: 0;
+}
+
+.block {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.outerblock {
+  background: #3c8dc0;
+  width: 350px;
+  margin: 40px 20px;
+  box-sizing: border-box;
+}
+
+.middleblock {
+  background: #ffa500;
+}
+
+.textblock {
+  background: #ddd;
+}
+
+.text {
+  margin: 0;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
