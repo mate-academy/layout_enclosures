@@ -11,8 +11,8 @@ body {
 .blue {
   margin: 20px 20px 40px;
   background-color: rgb(48,141,192);
-  width: 328px;
-
+  width: 350px;
+  box-sizing: border-box;
 }
 
 .yellow {
