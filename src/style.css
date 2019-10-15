@@ -1,0 +1,30 @@
+.background {
+  background-color: black;
+  margin: 0;
+}
+
+.blue {
+  width: 328px;
+  background-color: rgb(48, 141, 192);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 85, 81);
+  padding: 10px;
+  margin: 20px 20px 40px;
+}
+
+.yellow {
+  background-color: rgb(255, 165, 0);
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 85, 81);
+  padding: 10px;
+}
+
+.white {
+  background-color: #ddd;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(231, 85, 81);
+  padding: 10px;
+}
