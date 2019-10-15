@@ -35,7 +35,6 @@ body {
   left: -11px;
   right: -11px;
   bottom: -11px;
-  pointer-events: none;
 }
 
 .wrapper:before {
@@ -48,5 +47,4 @@ body {
   left: -11px;
   right: -11px;
   bottom: -11px;
-  pointer-events: none;
 }
