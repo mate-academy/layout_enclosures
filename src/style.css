@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
+
+.box {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.blue {
+  background-color: #308dc0;
+  margin: 40px 20px;
+  width: 350px;
+  box-sizing: border-box;
+}
+
+.orange {
+  background-color: #ffa500;
+}
+
+.grey {
+  background-color: #ddd;
+}
