@@ -3,30 +3,30 @@ body {
   margin: 20px;
 }
 
-div {
+.box {
   margin-bottom: 40px;
   box-sizing: border-box;
 }
 
-.level1 {
+.wraper {
   width: 350px;
   background-color: #318ec0;
   box-sizing: border-box;
   border: solid 1px #b5798c;
 }
 
-.level2 {
+.inner {
   background-color: #ffa600;
   margin: 10px;
   border: solid 1px red;
 }
 
-.level3 {
+.content {
   background-color: #dcdedc;
   margin: 10px;
   border: solid 1px #e75552;
 }
 
-p {
+.text {
   margin: 10px;
 }
