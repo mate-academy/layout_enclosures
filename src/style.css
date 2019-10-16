@@ -3,26 +3,22 @@ body {
   background: black;
 }
 
-#qa-block {
-  margin-top: 20px;
-}
-
 .block {
   padding: 10px;
   border: 1px solid #e75551;
 }
 
-.blue {
+.margin_border {
   background: #3c8dc0;
-  margin: 40px 20px;
+  margin: 20px 20px 40px;
   box-sizing: border-box;
   width: 350px;
 }
 
-.orange {
+.padding_border {
   background: #ffa500;
 }
 
-.grey {
+.info_block {
   background: #ddd;
 }
