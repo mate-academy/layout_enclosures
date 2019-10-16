@@ -15,18 +15,18 @@ body {
   border: 1px solid rgb(231, 85, 81);
 }
 
-.out {
+.box--out {
   background-color: #308fbe;
   width: 350px;
   margin-top: 40px;
   box-sizing: border-box;
 }
 
-.middle {
+.box--middle {
   background-color: #f5a00e;
   border: 1px solid rgb(231, 85, 81);
 }
 
-.center {
+.box--center {
   background-color: #d1d0d0;
 }
