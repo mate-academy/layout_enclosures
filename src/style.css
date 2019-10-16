@@ -1,0 +1,28 @@
+body {
+  background: black;
+  margin: 0;
+}
+
+.firstWraper {
+  margin-top: 20px;
+}
+
+.wraper {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.blue-wraper {
+  margin: 20px 20px 40px;
+  width: 350px;
+  background: #308dc0;
+  box-sizing: border-box;
+}
+
+.yellow-wraper {
+  background: #ffa500;
+}
+
+.gray-wraper {
+  background: #ddd;
+}
