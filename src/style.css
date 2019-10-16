@@ -1,26 +1,28 @@
 body {
-  background-color: black;
-  margin-top: 0px;
+  background: black;
+  margin: 0;
 }
-#qa-block{
+
+.firstWraper {
   margin-top: 20px;
 }
-.box {
+
+.wraper {
   padding: 10px;
   border: 1px solid #e75551;
 }
 
-.blue {
-  margin: 40px 10px;
+.blue-wraper {
+  margin: 20px 20px 40px;
   width: 350px;
   background: #308dc0;
   box-sizing: border-box;
 }
 
-.yellow {
+.yellow-wraper {
   background: #ffa500;
 }
 
-.gray {
-  background-color: #ddd;
+.gray-wraper {
+  background: #ddd;
 }
