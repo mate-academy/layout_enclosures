@@ -19,12 +19,10 @@ body {
   background-color: #ffa500;
 }
 
-.english,
-.ukrainian,
-.russian {
+.text-background {
   background-color: #ddd;
 }
 
-#qa-block {
+.first-block {
   margin-top: 20px;
 }
