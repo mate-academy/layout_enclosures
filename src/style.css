@@ -3,26 +3,23 @@ body {
   margin: 0;
 }
 
-.block1 {
+.block {
+  border: solid #e75551 1px;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.main_block {
   width: 350px;
   background-color: #308dc0;
-  padding: 10px;
   margin: 20px;
-  border: solid #e75551 1px;
   margin-bottom: 40px;
-  box-sizing: border-box;
 }
 
-.block2 {
+.middle_block {
   background-color: #ffa500;
-  padding: 10px;
-  border: solid #e75551 1px;
-  box-sizing: border-box;
 }
 
-.block3 {
+.text_block {
   background-color: #ddd;
-  padding: 10px;
-  border: solid #e75551 1px;
-  box-sizing: border-box;
 }
