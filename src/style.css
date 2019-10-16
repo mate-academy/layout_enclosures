@@ -1,27 +1,26 @@
 body {
   background-color: black;
-  margin: 20px;
+  margin-top: 0px;
 }
-
+#qa-block{
+  margin-top: 20px;
+}
 .box {
-  box-sizing: border-box;
-  width: 350px;
-  border: 1px solid #e75551;
-  margin-bottom: 40px;
-}
-
-.yellow-box .gray-box {
   padding: 10px;
+  border: 1px solid #e75551;
 }
 
-.blue-box {
-  border: 10px solid #308dc0;
+.blue {
+  margin: 40px 10px;
+  width: 350px;
+  background: #308dc0;
+  box-sizing: border-box;
 }
 
-.yellow-box {
-  border: 10px solid #ffa500;
+.yellow {
+  background: #ffa500;
 }
 
-.gray-box {
+.gray {
   background-color: #ddd;
 }
