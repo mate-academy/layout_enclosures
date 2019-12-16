@@ -1,0 +1,28 @@
+body {
+  background-color: #000;
+  padding: 20px;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+div {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.blue {
+  background-color: #308dc0;
+  width: 350px;
+  margin-bottom: 40px;
+}
+
+.yellow {
+  background-color: #ffa500;
+}
+
+.main {
+  background-color: #ddd;
+}
