@@ -1,0 +1,30 @@
+body {
+  background-color: #000;
+  padding: 20px;
+  margin: 0;
+}
+
+.blue {
+  background-color: #308dc0;
+  width: 350px;
+  border: 1px solid #e75551;
+  margin-bottom: 40px;
+}
+
+.yellow {
+  background-color: #ffa500;
+  border: 1px solid #e75551;
+  margin: 10px;
+}
+
+.main {
+  background-color: #ddd;
+  border: 1px solid #e75551;
+  margin: 10px;
+  /* padding: 11px; */
+}
+
+span {
+  display: block;
+  margin: 10px 11px 10px 10px;
+}
