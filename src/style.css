@@ -4,22 +4,27 @@ body {
   margin: 0;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .blue {
   background-color: #308dc0;
   width: 350px;
   border: 1px solid #e75551;
   margin-bottom: 40px;
+  padding: 10px;
 }
 
 .yellow {
   background-color: #ffa500;
   border: 1px solid #e75551;
-  margin: 10px;
+  padding: 10px;
 }
 
 .main {
   background-color: #ddd;
   border: 1px solid #e75551;
-  margin: 10px;
-  padding: 10px 11px 10px 10px;
+  /* margin: 10px; */
+  padding: 10px;
 }
