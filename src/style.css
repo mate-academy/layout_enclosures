@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.out_block {
+  width: 348px;
+  border: 1px solid #e75551;
+  background-color: #308dc0;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+  padding: 10px 0;
+}
+
+.middle_block {
+  width: 326px;
+  border: 1px solid #e75551;
+  background-color: #ffa500;
+  margin: auto;
+  padding: 10px 0;
+}
+
+.in_block {
+  width: 304px;
+  border: 1px solid #e75551;
+  background-color: #ddd;
+  margin: auto;
+}
+
+.text {
+  margin: 10px;
+}
