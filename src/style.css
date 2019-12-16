@@ -1,0 +1,33 @@
+body {
+  background-color: #000;
+  padding: 20px;
+  margin: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.first-red {
+  width: 350px;
+  border: 1px solid #e75551;
+  margin-bottom: 40px;
+}
+
+.blue-bor {
+  border: 10px solid #308dc0;
+}
+
+.sec-red {
+  border: 1px solid #e75551;
+}
+
+.orange-bor {
+  border: 10px solid #ffa500;
+}
+
+.third-red {
+  border: 1px solid #e75551;
+  background-color: #ddd;
+  padding: 10px;
+}
