@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: #000;
+}
+
+.wrapper {
+  padding: 20px;
+  border: none;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.wight {
+  background: #ddd;
+}
+
+.orange {
+  background: #ffa500;
+}
+
+.blue {
+  background: #308dc0;
+  width: 350px;
+  margin-top: 40px;
+}
+
+.blue:nth-child(1) {
+  margin-top: 0;
+}
