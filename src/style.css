@@ -21,10 +21,5 @@ body {
   background-color: #ddd;
   border: 1px solid #e75551;
   margin: 10px;
-  /* padding: 11px; */
-}
-
-span {
-  display: block;
-  margin: 10px 11px 10px 10px;
+  padding: 10px 11px 10px 10px;
 }
