@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  padding: 20px;
+  margin: 0;
+}
+
+.block {
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.block.wrapper {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+  border: 1px solid #e75551;
+}
+
+.block.middle {
+  background-color: #ffa500;
+  border: 1px solid #e75551;
+}
+  
+.block.inside {
+  background-color: #ddd;
+  border: 1px solid #e75551;
+}
