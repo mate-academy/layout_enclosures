@@ -16,7 +16,7 @@ div {
   margin-top: 40px;
   background-color: #2f90ba;
   padding: 10px;
-  margin-left: 12px;
+  margin-left: 12px; /* на 10px не сходиться по тесту взагалі*/
 }
 
 .yel {
