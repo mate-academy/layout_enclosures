@@ -16,7 +16,6 @@ body {
 .middle_block {
   border: 1px solid #e75551;
   background-color: #ffa500;
-  margin: auto;
   padding: 10px;
 }
 
@@ -24,8 +23,4 @@ body {
   border: 1px solid #e75551;
   background-color: #ddd;
   padding: 10px;
-}
-
-.text {
-  margin: 0;
 }
