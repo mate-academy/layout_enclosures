@@ -3,23 +3,22 @@ body {
   margin: 0;
 }
 
+.frame {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
 .blue {
   background-color: #308dc0;
   width: 350px;
   box-sizing: border-box;
-  padding: 10px;
   margin: 20px 20px 40px;
-  border: 1px solid #e75551;
 }
 
 .yellow {
   background-color: #ffa500;
-  border: 1px solid #e75551;
-  padding: 10px;
 }
 
 .gray {
   background-color: #ddd;
-  border: 1px solid #e75551;
-  padding: 10px;
 }
