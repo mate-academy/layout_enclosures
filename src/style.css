@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+.box {
+  border: 1px solid #e75551;
+}
+
 body {
   background-color: #000;
 }
@@ -9,7 +13,7 @@ body {
 .blue-box {
   width: 350px;
   background-color: #308dc0;
-  border: 1px solid #e75551;
+
   margin: 20px 12px 40px;
   padding: 10px;
 }
@@ -17,12 +21,10 @@ body {
 .yellow-box {
   background-color: #ffa500;
   padding: 10px;
-  border: 1px solid #e75551;
 }
 
 .text {
   background-color: #ddd;
-  border: 1px solid #e75551;
 }
 
 .inside-text {
