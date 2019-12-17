@@ -1,0 +1,24 @@
+body {
+  margin: 20px;
+  background-color: #000;
+}
+
+div {
+  box-sizing: border-box;
+  border: 1px #e75551 solid;
+  padding: 10px;
+}
+
+.block-outer {
+  width: 350px;
+  margin-bottom: 40px;
+  background-color: #308dc0;
+}
+
+.block-inner {
+  background-color: #ffa500;
+}
+
+.block-content {
+  background-color: #ddd;
+}
