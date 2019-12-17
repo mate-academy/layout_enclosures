@@ -1,0 +1,24 @@
+.page {
+  background-color: black;
+  padding: 12px;
+}
+
+.container {
+  box-sizing: border-box;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.box-wraper {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.box-inner {
+  background-color: #ffa500;
+}
+
+.box-text {
+  background-color: #ddd;
+}
