@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 20px;
+}
+
+.shared-box {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.outer-box {
+  background-color: #308dc0;
+  width: 350px;
+  margin-bottom: 40px;
+}
+
+.middle-box {
+  background-color: #ffa500;
+}
+
+.inner-box {
+  background-color: #ddd;
+}
