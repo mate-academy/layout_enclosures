@@ -4,23 +4,23 @@ body {
   padding: 20px;
 }
 
+.block {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
 .out-block {
   box-sizing: border-box;
   width: 350px;
-  border: 1px solid #e75551;
   background-color: #308dc0;
   margin-bottom: 40px;
-  padding: 10px;
+
 }
 
 .middle-block {
-  border: 1px solid #e75551;
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .in-block {
-  border: 1px solid #e75551;
   background-color: #ddd;
-  padding: 10px;
 }
