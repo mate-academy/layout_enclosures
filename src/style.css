@@ -1,11 +1,11 @@
-* {
-  box-sizing: border-box;
-}
-
 body {
   background-color: #000;
   margin: 0;
   padding: 20px;
+}
+
+.box {
+  box-sizing: border-box;
 }
 
 .redBorder {
