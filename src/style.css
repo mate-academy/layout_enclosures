@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+.wrap {
+  width: 350px;
+  box-sizing: border-box;
+  margin: 20px 20px 40px;
+}
+
+.red_wrap {
+  border: 1px solid #e75551;
+}
+
+.blue_wrap {
+  border: 10px solid #308dc0;
+}
+
+.yellow_wrap {
+  border: 10px solid #ffa500;
+}
+
+.main_container {
+  padding: 10px;
+  background: #ddd;
+}
