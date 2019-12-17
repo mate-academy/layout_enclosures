@@ -10,21 +10,22 @@ body {
   border: 1px solid #e75551;
   box-sizing: border-box;
   margin-bottom: 40px;
-  padding: 10px;
 }
 
 .yellow {
   background-color: #ffa500;
   border: 1px solid #e75551;
-  padding: 10px;
 }
 
 .text {
   background-color: #ddd;
   border: 1px solid #e75551;
+}
+
+.block-padding {
   padding: 10px;
 }
 
-.text_p {
+.block-text {
   margin: 0;
 }
