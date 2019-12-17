@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+div,
+p {
+  box-sizing: border-box;
+}
+
+.external {
+  width: 350px;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.m-top {
+  margin-top: 20px;
+}
+
+.mid {
+  background: rgb(48, 141, 192);
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.button {
+  background: rgb(255, 165, 0);
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+p {
+  background: rgb(221, 221, 221);
+  padding: 10px;
+  margin: 0;
+  border: 1px solid #e75551;
+}
