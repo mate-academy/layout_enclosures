@@ -8,7 +8,7 @@ p {
   box-sizing: border-box;
 }
 
-.external {
+.div-widt-margin {
   width: 350px;
   margin-top: 40px;
   margin-left: 20px;
@@ -18,21 +18,22 @@ p {
   margin-top: 20px;
 }
 
-.mid {
+.external {
   background: rgb(48, 141, 192);
-  padding: 10px;
-  border: 1px solid #e75551;
+}
+
+.mid {
+  background: rgb(255, 165, 0);
 }
 
 .button {
-  background: rgb(255, 165, 0);
-  padding: 10px;
-  border: 1px solid #e75551;
+  background: rgb(221, 221, 221);
+  margin: 0;
 }
 
-p {
-  background: rgb(221, 221, 221);
-  padding: 10px;
-  margin: 0;
+.external,
+.mid,
+.button {
   border: 1px solid #e75551;
+  padding: 10px;
 }
