@@ -4,31 +4,25 @@ body {
   margin: 0;
 }
 
+.outer {
+  margin-bottom: 40px;
+  width: 350px;
+}
+
 .box {
   box-sizing: border-box;
-  width: 350px;
   border: 1px solid #e75551;
-  background-color: #308dc0;
-  margin-bottom: 40px;
   padding: 10px;
+}
+
+.blue {
+  background-color: #308dc0;
 }
 
 .orange {
-  box-sizing: border-box;
-  width: 100%;
-  border: 1px solid #e75551 ;
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .grey {
-  box-sizing: border-box;
-  width: 100%;
-  border: 1px solid #e75551;
   background-color: #ddd;
-  padding: 10px;
-}
-
-span {
-  text-align: left;
 }
