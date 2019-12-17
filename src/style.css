@@ -8,10 +8,6 @@ body {
   padding-top: 20px;
 }
 
-div {
-  box-sizing: border-box;
-}
-
 .border-red {
   border: 1px solid #e75551;
   padding: 10px;
@@ -21,6 +17,7 @@ div {
   width: 350px;
   background-color: #308dc0;
   margin-bottom: 40px;
+  box-sizing: border-box;
 }
 
 .block-in {
