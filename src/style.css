@@ -3,9 +3,10 @@ body {
   padding: 12px;
 }
 
-div {
+.all-box {
   border: 1px solid #e75551;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 .main_box {
@@ -20,8 +21,4 @@ div {
   width: 350px;
   background-color: #308dc0;
   margin-bottom: 40px;
-}
-
-.all_box {
-  box-sizing: border-box;
 }
