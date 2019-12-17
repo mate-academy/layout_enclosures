@@ -9,15 +9,15 @@ body {
   box-sizing: border-box;
 }
 
-.main_box {
+.main-box {
   background-color: #ddd;
 }
 
-.yellow_box {
+.yellow-box {
   background-color: #ffa500;
 }
 
-.blue_box {
+.blue-box {
   width: 350px;
   background-color: #308dc0;
   margin-bottom: 40px;
