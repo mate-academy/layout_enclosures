@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+div {
+  padding: 10px;
+  box-sizing: border-box;
+  border: #e75551 1px solid;
+}
+
+.blu {
+  margin-top: 40px;
+  margin-left: 20px;
+  width: 350px;
+  background-color: #308dc0;
+}
+
+.top {
+  margin-top: 20px;
+}
+
+.yel {
+  background-color: #ffa500;
+}
+
+.text {
+  background-color: #ddd;
+}
+
+p {
+  margin: 0;
+}
