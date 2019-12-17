@@ -10,11 +10,11 @@ body {
 
 .redBorder {
   padding: 10px;
-  border: #e0524e 1px solid;
+  border: 1px solid #e0524e;
 }
 
 .outer {
-  margin: 0 0 40px;
+  margin-bottom: 40px;
   width: 350px;
   background-color: #308dc0;
 }
