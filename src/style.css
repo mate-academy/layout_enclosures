@@ -1,5 +1,5 @@
 body {
-  margin: 20px;
+  padding: 12px;
   background-color: black;
 }
 
@@ -9,16 +9,16 @@ body {
   box-sizing: border-box;
 }
 
-.block-border__blue {
+.bluish {
   width: 350px;
   background-color: #308dc0;
   margin-bottom: 40px;
 }
 
-.block-border__yellow {
+.yellowish {
   background-color: #ffa500;
 }
 
-.block-border__gray {
+.grayish {
   background-color: #ddd;
 }
