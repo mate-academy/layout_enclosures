@@ -12,13 +12,10 @@ body {
 
 .block-yellow {
   background-color: #ffa500;
-  border: 1px solid #e75551;
-  box-sizing: border-box;
 }
 
 .block-text {
   background-color: #ddd;
-  box-sizing: border-box;
 }
 
 .definition {
