@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+}
+
+div {
+  border: red 1px solid;
+  box-sizing: border-box;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
+
+.blu {
+  width: 350px;
+  margin-top: 40px;
+  background-color: #2f90ba;
+  padding: 10px;
+  margin-left: 12px;
+}
+
+.yel {
+  background-color: #fca601;
+  padding: 10px;
+}
+
+.text {
+  background-color: #dcdcdc;
+}
+
+p {
+  margin: 10px;
+}
