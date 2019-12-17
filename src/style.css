@@ -4,6 +4,11 @@ body {
   padding: 20px;
 }
 
+.block-decoration {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
 .blue {
   width: 350px;
   background-color: #308dc0;
@@ -17,11 +22,6 @@ body {
 
 .text {
   background-color: #ddd;
-}
-
-.block-padding {
-  padding: 10px;
-  border: 1px solid #e75551;
 }
 
 .block-text {
