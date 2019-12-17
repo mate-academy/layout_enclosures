@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  padding: 20px;
   background-color: #000;
 }
 
@@ -10,19 +11,19 @@ body {
 .box-outside {
   background-color: #308dc0;
   width: 348px;
-  margin: 20px 0 40px 20px;
+  margin-bottom: 40px;
+}
+
+.box-center,
+.box-inside,
+.text {
+  margin: 10px;
 }
 
 .box-center {
   background-color: #ffa500;
-  margin: 10px;
 }
 
 .box-inside {
   background-color: #ddd;
-  margin: 10px;
-}
-
-.text {
-  margin: 10px;
 }
