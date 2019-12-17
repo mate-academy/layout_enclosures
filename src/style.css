@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: black;
+  background-color: black;
 }
 
 .wrap {
@@ -23,5 +23,5 @@ body {
 
 .main_container {
   padding: 10px;
-  background: #ddd;
+  background-color: #ddd;
 }
