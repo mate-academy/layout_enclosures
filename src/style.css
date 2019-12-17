@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+  padding: 20px;
+  margin: 0;
+}
+
+.block-red-border {
+  border: 1px solid #e0524e;
+  padding: 10px;
+}
+
+.top-block {
+  width: 350px;
+  background: #308dc0;
+  margin-bottom: 40px;
+}
+
+.middle-block {
+  background: #ffa500;
+}
+
+.center-block {
+  background: #ddd;
+}
