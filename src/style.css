@@ -1,4 +1,4 @@
-* {
+body {
   margin: 0;
 }
 
@@ -12,22 +12,21 @@ div {
   box-sizing: border-box;
 }
 
+.border-red {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
 .block {
   width: 350px;
-  border: 1px solid #e75551;
   background-color: #308dc0;
   margin-bottom: 40px;
-  padding: 10px;
 }
 
 .block-in {
-  border: 1px solid #e75551;
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .block-text {
-  border: 1px solid #e75551;
-  padding: 10px;
   background-color: rgb(221, 221, 221);
 }
