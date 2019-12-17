@@ -7,23 +7,21 @@ body {
 .blue {
   width: 350px;
   background-color: #308dc0;
-  border: 1px solid #e75551;
   box-sizing: border-box;
   margin-bottom: 40px;
 }
 
 .yellow {
   background-color: #ffa500;
-  border: 1px solid #e75551;
 }
 
 .text {
   background-color: #ddd;
-  border: 1px solid #e75551;
 }
 
 .block-padding {
   padding: 10px;
+  border: 1px solid #e75551;
 }
 
 .block-text {
