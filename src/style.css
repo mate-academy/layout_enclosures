@@ -4,7 +4,7 @@ body {
   padding: 20px;
 }
 
-.out_block {
+.out-block {
   box-sizing: border-box;
   width: 350px;
   border: 1px solid #e75551;
@@ -13,13 +13,13 @@ body {
   padding: 10px;
 }
 
-.middle_block {
+.middle-block {
   border: 1px solid #e75551;
   background-color: #ffa500;
   padding: 10px;
 }
 
-.in_block {
+.in-block {
   border: 1px solid #e75551;
   background-color: #ddd;
   padding: 10px;
