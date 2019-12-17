@@ -3,6 +3,12 @@ body {
   background: #000;
 }
 
+.box {
+  box-sizing: border-box;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
 .wrapper-box {
   width: 350px;
   background: #308dc0;
@@ -15,10 +21,4 @@ body {
 
 .inner-box {
   background: #ddd;
-}
-
-.box {
-  box-sizing: border-box;
-  border: 1px solid #e75551;
-  padding: 10px;
 }
