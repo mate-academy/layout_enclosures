@@ -4,22 +4,22 @@ body {
   background-color: #000;
 }
 
-.borders {
+.red-border {
   border: 1px solid rgb(231, 85, 81);
   padding: 10px;
 }
 
-.blue {
+.blue-box {
   width: 350px;
   background-color: rgb(48, 141, 192);
   margin-bottom: 40px;
   box-sizing: border-box;
 }
 
-.orange {
+.orange-box {
   background-color: rgb(255, 165, 0);
 }
 
-.content {
+.content-box {
   background-color: rgb(221, 221, 221);
 }
