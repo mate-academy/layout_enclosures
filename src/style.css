@@ -1,6 +1,8 @@
 body {
   margin: 0;
   background: black;
+  padding-top: 20px;
+  padding-left: 20px;
 }
 
 div,
@@ -8,14 +10,12 @@ p {
   box-sizing: border-box;
 }
 
-.div-widt-margin {
-  width: 350px;
+body div:not(:first-of-type) {
   margin-top: 40px;
-  margin-left: 20px;
 }
 
-.m-top {
-  margin-top: 20px;
+body > div {
+  width: 350px;
 }
 
 .external {
@@ -30,10 +30,17 @@ p {
   background: rgb(221, 221, 221);
   margin: 0;
 }
-
+/*
 .external,
 .mid,
-.button {
+.internal {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+*/
+
+div div,
+div p {
   border: 1px solid #e75551;
   padding: 10px;
 }
