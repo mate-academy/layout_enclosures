@@ -4,7 +4,7 @@ body {
   background-color: #000;
 }
 
-div {
+.block {
   border: 1px solid rgb(231, 85, 81);
   padding: 10px;
 }
