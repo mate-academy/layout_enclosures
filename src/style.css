@@ -4,13 +4,10 @@ body {
   padding: 20px;
 }
 
-.box {
-  box-sizing: border-box;
-}
-
 .red-border {
   padding: 10px;
   border: 1px solid #e0524e;
+  box-sizing: border-box;
 }
 
 .outer {
