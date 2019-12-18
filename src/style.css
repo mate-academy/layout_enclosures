@@ -30,17 +30,8 @@ body > div {
   background: rgb(221, 221, 221);
   margin: 0;
 }
-/*
-.external,
-.mid,
-.internal {
-  border: 1px solid #e75551;
-  padding: 10px;
-}
-*/
 
-div div,
-div p {
+.common-border-padding {
   border: 1px solid #e75551;
   padding: 10px;
 }
