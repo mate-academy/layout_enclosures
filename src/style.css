@@ -5,17 +5,13 @@ body {
   padding-left: 20px;
 }
 
-div,
-p {
-  box-sizing: border-box;
-}
-
 body div:not(:first-of-type) {
   margin-top: 40px;
 }
 
-body > div {
+.block-width {
   width: 350px;
+  box-sizing: border-box;
 }
 
 .external {
