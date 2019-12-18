@@ -4,7 +4,7 @@ body {
   background-color: #000;
 }
 
-.red-border {
+.red-border-padding {
   border: 1px solid rgb(231, 85, 81);
   padding: 10px;
 }
