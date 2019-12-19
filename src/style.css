@@ -5,11 +5,8 @@ body {
   padding-left: 20px;
 }
 
-.external:not(:first-of-type) {
-  margin-top: 40px;
-}
-
-.block-width {
+.external {
+  margin-bottom: 40px;
   width: 350px;
   box-sizing: border-box;
 }
