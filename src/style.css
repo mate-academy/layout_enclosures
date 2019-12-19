@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background: black;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.external {
+  margin-bottom: 40px;
+  width: 350px;
+  box-sizing: border-box;
+  background: rgb(48, 141, 192);
+}
+
+.mid {
+  background: rgb(255, 165, 0);
+}
+
+.internal {
+  background: rgb(221, 221, 221);
+  margin: 0;
+}
+
+.common-border-padding {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
