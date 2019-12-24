@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+div {
+  border: 1px solid #e75551;
+}
+
+p {
+  border: 1px solid #e75551;
+}
+
+.out {
+  width: 348px;
+  margin: 20px 20px 40px;
+  background-color: #308dc0;
+}
+
+.inner {
+  margin: 10px;
+  background-color: orange;
+}
+
+.txt {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ddd;
+}
