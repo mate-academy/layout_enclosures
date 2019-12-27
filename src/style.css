@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #000;
+}
+
+.wrapper {
+  width: 350px;
+  background-color: #2f8dc0;
+}
+
+.internal {
+  background-color: #fea500;
+}
+
+.content {
+  background-color: #ddd;
+}
+
+.block {
+  border: 1px solid#e75551;
+  padding: 10px;
+}
+
+.wrapper:not(:last-of-type) {
+  margin-bottom: 40px;
+}
