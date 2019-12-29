@@ -3,13 +3,14 @@ body {
   margin: 0;
 }
 
-p {
+.text {
   background: #ddd;
   margin: 0;
 }
 
-div,
-p {
+.outline,
+.midline,
+.text {
   border: 1px solid #eb6145;
   padding: 10px;
 }
