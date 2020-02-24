@@ -3,15 +3,15 @@ body {
   margin: 0;
 }
 
-div {
+.boxes {
+  border: 1px solid #e75551;
+  padding: 10px;
   box-sizing: border-box;
 }
 
 .first-box {
   background: #308dc0;
   width: 350px;
-  border: 1px solid #e75551;
-  padding: 10px;
   margin: 20px;
   margin-bottom: 40px;
 }
@@ -19,13 +19,9 @@ div {
 .second-box {
   background: #ffa500;
   width: 328px;
-  border: 1px solid #e75551;
-  padding: 10px;
 }
 
 .third-box {
   background: #ddd;
   width: 306px;
-  border: 1px solid #e75551;
-  padding: 10px;
 }
