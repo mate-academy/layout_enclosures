@@ -1,6 +1,6 @@
-* {
+/* * {
   box-sizing: border-box;
-}
+} */
 
 body {
   margin: 0;
@@ -8,26 +8,28 @@ body {
   padding: 20px;
 }
 
-.head-div {
-  width: 350px;
+.block {
   border: 1px solid #e75551;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.block--head {
+  width: 350px;
   margin-bottom: 40px;
   padding: 10px;
   background-color: #308dc0;
 }
 
-.middle {
-  padding: 10px;
-  border: 1px solid #e75551;
+.block--middle {
   background-color: #ffa500;
 }
 
-.text {
+.block--text {
   background-color: #ddd;
-  padding: 10px;
-  border: 1px solid #e75551;
 }
 
-p {
+.block__text {
+  box-sizing: border-box;
   margin: 0;
 }
