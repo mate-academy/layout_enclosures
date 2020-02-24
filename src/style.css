@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: black;
+}
+
+.text-rect,
+.main-rect,
+.inner-rect {
+  border: 1px solid rgb(231,85,81);
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.main-rect {
+  width: 350px;
+  background-color: rgb(48,141,192);
+  margin-bottom: 40px;
+}
+
+.inner-rect {
+  background-color: #ffa500;
+}
+
+.text-rect {
+  background-color: rgb(221,221,221);
+}
