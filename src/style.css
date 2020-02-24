@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 20px;
+}
+
+.frame {
+  border: 1px solid rgb(192, 48, 48);
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.text {
+  background-color: rgb(221, 221, 221);
+}
+
+.inner {
+  background-color: rgb(225, 165, 0);
+}
+
+.outer {
+  background-color: rgb(48, 141, 192);
+  width: 350px;
+  margin-bottom: 40px;
+}
