@@ -6,8 +6,8 @@ body {
 .text,
 .first-wrap,
 .second-wrap {
-  border: 1px solid #e75551;
   padding: 10px;
+  border: 1px solid #e75551;
 }
 
 .first-wrap {
@@ -19,7 +19,6 @@ body {
 
 .second-wrap {
   background-color: #ffa500;
-  content: " ";
 }
 
 .text {
