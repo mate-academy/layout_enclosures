@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 20px;
+}
+
+.block_item_1,
+.item__1,
+.item__2 {
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.block_item_1 {
+  width: 350px;
+  margin-bottom: 40px;
+}
+
+.item__1 {
+  background-color: #ffa500;
+}
+
+.item__2 {
+  background-color: #ddd;
+}
