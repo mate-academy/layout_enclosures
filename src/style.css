@@ -8,9 +8,6 @@ body {
   background-color: #308dc0;
   margin-bottom: 40px;
   margin-left: 20px;
-}
-
-#qa-block {
   margin-top: 20px;
 }
 
@@ -32,5 +29,4 @@ body {
 
 .text {
   margin: 0;
-  padding: 0;
 }
