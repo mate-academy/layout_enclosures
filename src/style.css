@@ -1,0 +1,26 @@
+body {
+  background: #000;
+  margin: 0;
+}
+
+.second--wrapper,
+.first--wrapper,
+.item {
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.second--wrapper {
+  background: #308dc0;
+  width: 350px;
+  margin: 20px 0 40px 20px;
+}
+
+.first--wrapper {
+  background: #ffa500;
+}
+
+.item {
+  background: #ddd;
+}
