@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #000;
+}
+
+.box {
+  border: 1px #e75551 solid;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.box__wrapper {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.box__medium {
+  background-color: #ffa500;
+}
+
+.box__content {
+  background-color: #ddd;
+}
+
+.box__content-text {
+  margin: 0;
+}
