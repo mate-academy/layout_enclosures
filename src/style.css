@@ -9,11 +9,11 @@ body {
   margin: 20px 0 40px 20px;
 }
 
-.box:last-child {
+.box-last {
   margin-bottom: 20px;
 }
 
-.box p {
+.paragraph {
   padding: 33px;
   box-shadow: 0 0 0 1px hsl(2, 76%, 61%) inset,
     0 0 0 11px hsl(201, 60%, 47%) inset,
