@@ -7,23 +7,23 @@ body {
 .block {
   box-sizing: border-box;
   border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.upper_block {
   width: 350px;
   margin: 20px 0 40px 20px;
-  padding: 10px;
   background-color: #308dc0;
 }
 
 .middle_block {
   background-color: #ffa500;
-  border: 1px solid #e75551;
-  padding: 10px;
 }
 
 .inside_block {
   background-color: #ddd;
-  border: 1px solid #e75551;
 }
 
 .block__text {
-  margin: 10px;
+  margin: 0;
 }
