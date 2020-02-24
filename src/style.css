@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.box {
+  background-color: #ddd;
+  width: 350px;
+  margin: 20px 0 40px 20px;
+}
+
+.box:last-child {
+  margin-bottom: 20px;
+}
+
+.box p {
+  padding: 33px;
+  box-shadow: 0 0 0 1px hsl(2, 76%, 61%) inset,
+    0 0 0 11px hsl(201, 60%, 47%) inset,
+    0 0 0 12px hsl(2, 76%, 61%) inset,
+    0 0 0 22px hsl(39, 100%, 50%) inset,
+    0 0 0 23px hsl(2, 76%, 61%) inset;
+}
