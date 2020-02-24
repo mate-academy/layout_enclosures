@@ -3,36 +3,26 @@ body {
   margin: 0;
 }
 
-.blue-box {
+.outer-box,
+.middle-box,
+.inner-box {
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+}
+
+.outer-box {
   width: 350px;
   background-color: #308dc0;
-  margin-bottom: 40px;
-  margin-left: 20px;
-  border-width: 10px;
-  border: 1px solid #e75551;
-  box-sizing: border-box;
-  padding: 10px;
+  margin: 20px 20px 40px;
 }
 
-.yellow-box {
+.middle-box {
   background-color: #ffa500;
-  padding: 10px;
-  border: 1px solid #e75551;
-  box-sizing: border-box;
+  margin: 10px;
 }
 
-.white-box {
+.inner-box {
   background-color: #ddd;
   padding: 10px;
-  border: 1px solid  #e75551;
-  box-sizing: border-box;
-}
-
-#qa-block {
-  margin-top: 20px;
-}
-
-.content {
-  margin: 0;
-  padding: 0;
+  margin: 10px;
 }
