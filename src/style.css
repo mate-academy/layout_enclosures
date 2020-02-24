@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.second-cover {
+  width: 350px;
+  margin: 20px 0 40px 20px;
+  background-color: #2c8ec2;
+}
+
+.first-cover {
+  background-color: #ffa600;
+}
+
+.text-cover {
+  background-color: #dedede;
+}
+
+.second-cover,
+.first-cover,
+.text-cover {
+  border: 1px solid #dc5757;
+  box-sizing: border-box;
+  padding: 10px;
+}
