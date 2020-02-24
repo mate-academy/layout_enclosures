@@ -1,0 +1,28 @@
+.all_background {
+  background-color: rgb(0,0,0);
+  margin: 0;
+}
+
+.box_blue,
+.box_yellow,
+.box_content {
+  border: 1px solid rgb(231,85,81);
+  box-sizing: border-box;
+}
+
+.box_blue {
+  background-color: rgb(48, 141, 192);
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.box_yellow {
+  background-color: rgb(255, 165, 0);
+  margin: 10px;
+}
+
+.box_content {
+  background-color: rgb(221, 221, 221);
+  padding: 10px;
+  margin: 10px;
+}
