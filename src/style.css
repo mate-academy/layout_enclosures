@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.blue-box {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+  margin-left: 20px;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
+
+.yellow-box {
+  background-color: #ffa500;
+}
+
+.red-border {
+  border-color: #e75551;
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.content {
+  background-color: #ddd;
+}
+
+.text {
+  margin: 0;
+  padding: 0;
+}
