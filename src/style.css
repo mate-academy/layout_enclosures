@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.block-text {
+  background-color: #ddd;
+}
+
+.part-one {
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
+}
+
+.part-two {
+  background-color: #ffa500;
+}
+
+.part-one,
+.part-two,
+.block-text {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
