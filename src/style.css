@@ -3,13 +3,10 @@ body {
   margin: 0;
 }
 
-* {
-  box-sizing: border-box;
-}
-
 .border-space {
   border: 1px solid #e75551;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 .block {
