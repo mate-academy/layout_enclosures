@@ -1,0 +1,28 @@
+.wrapper {
+  background-color: black;
+  margin: 0;
+}
+
+.first {
+  background-color: #2c8ec2;
+  margin: 20px 20px 40px;
+  width: 350px;
+}
+
+.second {
+  background-color: #ffa600;
+  margin: 10px;
+}
+
+.qa-block {
+  background-color: #dedede;
+  padding: 10px;
+  margin: 10px;
+}
+
+.box {
+  border-style: solid;
+  border-color: #dc5757;
+  border-width: 1px;
+  box-sizing: border-box;
+}
