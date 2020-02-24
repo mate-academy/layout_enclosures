@@ -1,0 +1,35 @@
+/* * {
+  box-sizing: border-box;
+} */
+
+body {
+  margin: 0;
+  background-color: black;
+  padding: 20px;
+}
+
+.block {
+  border: 1px solid #e75551;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.block--head {
+  width: 350px;
+  margin-bottom: 40px;
+  padding: 10px;
+  background-color: #308dc0;
+}
+
+.block--middle {
+  background-color: #ffa500;
+}
+
+.block--text {
+  background-color: #ddd;
+}
+
+.block__text {
+  box-sizing: border-box;
+  margin: 0;
+}
