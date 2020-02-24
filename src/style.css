@@ -1,0 +1,28 @@
+body {
+  background: #000;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.border-space {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.block {
+  width: 350px;
+  margin: 20px 20px 40px;
+  background: #308dc0;
+}
+
+.block-border {
+  background: #ffa500;
+}
+
+.block-content {
+  background: #ddd;
+  box-sizing: border-box;
+}
