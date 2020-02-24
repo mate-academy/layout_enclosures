@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background: black;
+}
+
+.first-box {
+  background: #308dc0;
+  width: 350px;
+  border: 1px solid #e75551;
+  padding: 10px;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.second-box {
+  background: #ffa500;
+  width: 328px;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.third-box {
+  background: #ddd;
+  width: 306px;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
