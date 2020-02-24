@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+div {
+  box-sizing: border-box;
+  display: block;
+  border: 1px solid #e65451;
+  padding: 10px;
+}
+
+.external-layer {
+  width: 350px;
+  background-color: #2c8ec1;
+  margin-bottom: 40px;
+}
+
+.middle-layer {
+  background-color: #ffa600;
+}
+
+.interior-layer {
+  background-color: #dedede;
+}
