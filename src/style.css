@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: black;
+}
+
+div {
+  border: 1px solid #e75551;
+}
+
+.blue-box {
+  width: 350px;
+  background-color: #308dc0;
+  padding: 10px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+}
+
+.orange-box {
+  background-color: #ffa500;
+  padding: 10px;
+}
+
+.text-box {
+  background-color: #ddd;
+  padding: 10px;
+}
