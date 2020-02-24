@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.wrapper {
+  width: 350px;
+  padding: 20px;
+}
+
+.wrapper:nth-child(2) {
+  padding: 20px;
+}
+
+.block-blue {
+  border: 1px solid #e75551;
+  background-color: #308dc0;
+  padding: 10px;
+}
+
+.block-yellow {
+  border: 1px solid #e75551;
+  background-color: #ffa500;
+  padding: 10px;
+}
+
+.main-wrapper {
+  border: 1px solid #e75551;
+  background-color: #ddd;
+  padding: 10px;
+}
