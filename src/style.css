@@ -1,0 +1,40 @@
+:root {
+  --black: #000;
+  --reddish: #e75551;
+  --gold: #ffa500;
+  --blue: #308dc0;
+  --white: #ddd;
+}
+
+/* 16px margin top/bottom appears
+in case of reset styles via body {} in <p> tag */
+* {
+  background-color: var(--black);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.block {
+  width: 350px;
+  border: 1px solid var(--reddish);
+  margin: 20px 20px 40px;
+}
+
+.small-wrapper {
+  border: 10px solid var(--gold);
+}
+
+.middle-wrapper {
+  border: 1px solid var(--reddish);
+}
+
+.large-wrapper {
+  border: 10px solid var(--blue);
+}
+
+.block-text {
+  background-color: var(--white);
+  padding: 10px;
+  border: 1px solid var(--reddish);
+}
