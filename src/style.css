@@ -1,27 +1,28 @@
 body {
   margin: 0;
-  padding: 20px;
   background-color: black;
+  padding: 20px;
 }
 
-div {
+.outer,
+.inner,
+.content,
+.block {
   border: 1px solid #e75551;
+  padding: 10px;
 }
 
-.blue-box {
+.outer {
   width: 350px;
   background-color: #308dc0;
-  padding: 10px;
   margin-bottom: 40px;
   box-sizing: border-box;
 }
 
-.orange-box {
+.inner {
   background-color: #ffa500;
-  padding: 10px;
 }
 
-.text-box {
+.content {
   background-color: #ddd;
-  padding: 10px;
 }
