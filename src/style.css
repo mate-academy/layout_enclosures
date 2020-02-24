@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 20px;
+}
+
+.external_block,
+.internal_block,
+.block_with_text {
+  box-sizing: border-box;
+  border: 1px solid rgb(231,85,81);
+  padding: 10px;
+}
+
+.external_block {
+  width: 350px;
+  background-color: rgb(48,141,192);
+  margin-bottom: 40px;
+}
+
+.internal_block {
+  background-color: rgba(255,165,0);
+}
+
+.block_with_text {
+  background-color: rgb(221,221,221);
+}
