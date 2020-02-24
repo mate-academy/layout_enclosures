@@ -10,21 +10,20 @@ body {
   margin: 20px 0 40px 20px;
 }
 
-.blocks__wrapper {
+.block__border {
   padding: 10px;
   border: 1px solid #e75551;
+}
+
+.blocks__wrapper {
   background-color: #308dc0;
 }
 
 .blocks__inner-wrapper {
-  padding: 10px;
-  border: 1px solid #e75551;
   background-color: #ffa500;
 }
 
 .blocks__text {
   margin: 0;
-  padding: 10px;
-  border: 1px solid #e75551;
   background-color: #ddd;
 }
