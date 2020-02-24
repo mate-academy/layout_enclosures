@@ -8,9 +8,7 @@ p {
   margin: 0;
 }
 
-.english-text-block,
-.ukrainian-text-block,
-.russian-text-block {
+.text-block {
   width: 350px;
   background-color: #2c8ec2;
   border: 1px solid #dc5757;
