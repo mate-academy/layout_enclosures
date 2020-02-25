@@ -7,9 +7,7 @@ body {
 .block,
 .block-smaller,
 .block-smallest {
-  border-width: 1px;
-  border-style: solid;
-  border-color: #e75551;
+  border: 1px solid #e75551;
   box-sizing: border-box;
   padding: 10px;
 }
