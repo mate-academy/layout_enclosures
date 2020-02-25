@@ -8,19 +8,19 @@ body {
   margin: 20px 0 40px 20px;
 }
 
-.block-blue {
+.outer-block {
   border: 1px solid #e75551;
   background-color: #308dc0;
   padding: 10px;
 }
 
-.block-yellow {
+.inner-block {
   border: 1px solid #e75551;
   background-color: #ffa500;
   padding: 10px;
 }
 
-.main-wrapper {
+.content-block {
   border: 1px solid #e75551;
   background-color: #ddd;
   padding: 10px;
