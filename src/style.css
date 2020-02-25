@@ -14,8 +14,6 @@ body {
   background-color: #ffa500;
 }
 
-.content-border,
-.inner-border,
 .border {
   border-color: #e75551;
   border-style: solid;
