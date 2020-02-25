@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 20px;
+}
+
+.wrapper {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.inner-wrapper {
+  background-color: #ffa500;
+}
+
+.border {
+  border-color: #e75551;
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.content {
+  background-color: #ddd;
+}
+
+.text {
+  margin: 0;
+}
