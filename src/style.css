@@ -3,25 +3,23 @@ body {
   margin: 0;
 }
 
-.container--blue {
+.container--info {
+  padding: 10px;
+  border: 1px solid #e75551;
+  margin: 0;
+}
+
+.container--outer {
   background-color: #308dc0;
   width: 328px;
-  padding: 10px;
   margin: 20px;
   margin-bottom: 40px;
-  border: 1px solid red;
 }
 
-.container--yellow {
+.container--inner {
   background-color: #ffa500;
-  padding: 10px;
-  border: 1px solid red;
-  margin: 0;
 }
 
-.container--lightblue {
-  padding: 10px;
-  margin: 0;
+.container--content {
   background-color: #ddd;
-  border: 1px solid red;
 }
