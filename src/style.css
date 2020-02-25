@@ -10,22 +10,19 @@ body {
   margin: 20px 20px 40px;
 }
 
-.block-yellow {
+.border {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.wrapper-inner {
   background: #ffa500;
-  padding: 10px;
-  border: 1px solid #e75551;
 }
 
-.block-blue {
+.wrapper {
   background: #308dc0;
-  padding: 10px;
-  border: 1px solid #e75551;
 }
 
-.block1,
-.block2,
-.block3 {
-  border: 1px solid #e75551;
+.block-content {
   background-color: #ddd;
-  padding: 10px;
 }
