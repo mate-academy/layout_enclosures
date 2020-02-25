@@ -3,9 +3,7 @@ body {
   margin: 0;
 }
 
-.block,
-.middle-block,
-.main-block {
+.border {
   border: 1px solid #e75551;
   box-sizing: border-box;
 }
