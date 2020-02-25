@@ -1,6 +1,7 @@
-* {
-  margin: 0;
+html,
+body {
   background-color: black;
+  margin: 0;
 }
 
 .wrapper {
