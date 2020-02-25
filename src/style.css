@@ -1,0 +1,27 @@
+html,
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.wrapper {
+  width: 370px;
+}
+
+.external {
+  background-color: rgb(48, 141, 192);
+  margin: 20px auto 40px 20px;
+}
+
+.middle {
+  background-color: rgb(248, 165, 3);
+}
+
+.text {
+  background-color: rgb(221,221,221);
+}
+
+.p10_border {
+  padding: 10px;
+  border: 1px solid rgb(231, 85, 81);
+}
