@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 20px;
+}
+
+.text-info {
+  margin: 0;
+}
+
+.text-block {
+  width: 350px;
+  background-color: #2c8ec2;
+  margin-bottom: 40px;
+}
+
+.middle-part {
+  background-color: #ffa600;
+  margin: 10px;
+}
+
+.main-part {
+  background-color: #dedede;
+  margin: 10px;
+  padding: 10px;
+}
+
+.bloc-parameters {
+  border: 1px solid #dc5757;
+  box-sizing: border-box;
+}
