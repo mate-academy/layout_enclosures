@@ -8,16 +8,8 @@ body {
   margin: 20px 0 40px 20px;
 }
 
-.last-border {
-  border: 1px solid #e85450;
-}
-
 .third-border {
   border: 10px solid #2c8ec1;
-}
-
-.second-border {
-  border: 1px solid #e85450;
 }
 
 .first-border {
@@ -26,6 +18,9 @@ body {
 
 .text-box {
   background-color: #dedede;
-  border: 1px solid #e85450;
   padding: 10px;
+}
+
+.box-small-border {
+  border: 1px solid #e85450;
 }
