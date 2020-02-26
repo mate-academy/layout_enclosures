@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.mainBlock {
+  background-color: rgb(48, 141, 192);
+  box-sizing: border-box;
+  width: 350px;
+  border: 1px solid #e75551;
+  padding: 10px;
+  margin: 20px 20px 40px;
+}
+
+.borderBlock {
+  background-color: rgb(255, 165, 0);
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.contentBlock {
+  background-color: rgb(221, 221, 221);
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.contentBlock__text {
+  margin: 0;
+}
