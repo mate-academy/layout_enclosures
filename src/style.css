@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.fields {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.mainBlock {
+  background-color: rgb(48, 141, 192);
+  box-sizing: border-box;
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.borderBlock {
+  background-color: rgb(255, 165, 0);
+
+}
+
+.contentBlock {
+  background-color: rgb(221, 221, 221);
+
+}
+
+.contentBlock__text {
+  margin: 0;
+}
