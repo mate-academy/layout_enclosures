@@ -1,0 +1,25 @@
+body {
+  background: #000;
+  padding: 20px;
+  margin: 0;
+}
+
+.bluish {
+  width: 328px;
+  margin-bottom: 40px;
+  padding: 10px;
+  border: 1px solid #e75451;
+  background: #2c8ec1;
+}
+
+.yellowish {
+  padding: 10px;
+  border: 1px solid #e75451;
+  background: #ffa700;
+}
+
+.box {
+  padding: 10px;
+  border: 1px solid #e75451;
+  background: #dedede;
+}
