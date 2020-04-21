@@ -1,9 +1,11 @@
-* {
+body {
   margin: 0;
+  background-color: black;
 }
 
-html {
-  background-color: black;
+p {
+  margin: 0;
+  padding: 0;
 }
 
 .one {
