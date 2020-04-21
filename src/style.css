@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+:root {
+  --yellow: #ffa500;
+  --red: #e75551;
+  --blue: #308dc0;
+  --text-background: #ddd;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.outer-box,
+.mid-box,
+.text-box {
+  overflow: visible;
+  flex-direction: column;
+  display: flex;
+  border: 1px solid var(--red);
+}
+
+.outer-box {
+  margin: 20px;
+  width: 350px;
+  background-color: var(--blue);
+}
+
+.mid-box,
+.text-box {
+  margin: 10px;
+}
+
+.mid-box {
+  background-color: var(--yellow);
+
+}
+
+.text-box {
+  padding: 10px;
+  background-color: var(--text-background);
+}
