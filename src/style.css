@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+}
+
+html {
+  background-color: black;
+}
+
+.one {
+  box-sizing: border-box;
+  background-color: rgb(48, 141, 192);
+  width: 350px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  border: 1px solid rgb(217, 80, 76);
+}
+
+.two {
+  background-color: rgb(255, 165, 0);
+  border: 1px solid rgb(217, 80, 76);
+  margin: 10px;
+}
+
+.three {
+  background-color: rgb(221, 221, 221);
+  margin: 10px;
+  border: 1px solid rgb(217, 80, 76);
+  padding: 10px;
+}
