@@ -1,0 +1,22 @@
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.item {
+  width: 350px;
+  background-color: #ddd;
+  box-sizing: border-box;
+  padding: 33px;
+  box-shadow: 0 0 0 1px #e75551 inset,
+    0 0 0 11px #308dc0 inset,
+    0 0 0 12px #e75551 inset,
+    0 0 0 22px #ffa500 inset,
+    0 0 0 23px #e75551 inset;
+  margin: 20px;
+}
+
+.item + .item {
+  margin-top: 40px;
+}
