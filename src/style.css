@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+.br {
+  border: solid 1px #e75551;
+  margin: 10px;
+}
+
+.blueD {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 20px 0 40px 20px;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 10px;
+}
+
+.yellowD {
+  background-color: #ffa500;
+}
+
+.textCont {
+  background-color: #ddd;
+}
