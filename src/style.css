@@ -3,28 +3,26 @@ body {
   margin: 0;
 }
 
-.red-border {
+.block {
   border: 1px solid rgb(231, 85, 81);
+  padding: 10px;
 }
 
 .container {
   width: 350px;
   box-sizing: border-box;
-}
-
-.blue {
-  background-color: rgb(48, 141, 192);
   margin: 20px;
   margin-bottom: 40px;
 }
 
+.blue {
+  background-color: rgb(48, 141, 192);
+}
+
 .orange {
-  margin: 10px;
   background-color: rgb(255,165,0);
 }
 
 .text {
-  margin: 10px;
   background-color: rgb(221, 221, 221);
-  padding: 10px;
 }
