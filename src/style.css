@@ -4,22 +4,21 @@ body {
   margin: 0;
 }
 
-.bluish {
+.bluish-box {
   width: 328px;
   margin-bottom: 40px;
-  padding: 10px;
-  border: 1px solid #e75451;
   background: #2c8ec1;
 }
 
-.yellowish {
-  padding: 10px;
-  border: 1px solid #e75451;
+.yellowish-box {
   background: #ffa700;
+}
+
+.greyish-box {
+  background: #dedede;
 }
 
 .box {
   padding: 10px;
   border: 1px solid #e75451;
-  background: #dedede;
 }
