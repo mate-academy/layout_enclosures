@@ -3,10 +3,6 @@ body {
   background-color: black;
 }
 
-p {
-  margin: 0;
-}
-
 .container-blue {
   box-sizing: border-box;
   background-color: rgb(48, 141, 192);
