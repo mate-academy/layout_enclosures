@@ -21,9 +21,7 @@ p {
   background-color: #ddd;
 }
 
-.outer-box,
-.middle-box,
-.inner-box {
+.block-properties {
   box-sizing: border-box;
   border: 1px solid #e75551;
   padding: 10px;
