@@ -7,22 +7,23 @@ body {
   margin: 0;
 }
 
-.first__color-blue {
+.blocks {
+  border: 1px solid #e75551;
+}
+
+.first__block {
   background-color: #308dc0;
   width: 350px;
   margin: 20px 20px 40px;
-  border: 1px solid #e75551;
 }
 
-.second__color-orange {
+.second__block {
   background-color: #ffa500;
-  border: 1px solid #e75551;
   margin: 10px;
 }
 
-.content {
+.third__block {
   padding: 10px;
   margin: 10px;
   background-color: #ddd;
-  border: 1px solid #e75551;
 }
