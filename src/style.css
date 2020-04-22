@@ -1,39 +1,27 @@
-html {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-*,
-*:before,
-*:after {
-  -webkit-box-sizing: inherit;
-  -moz-box-sizing: inherit;
-  box-sizing: inherit;
-}
-
 body {
   margin: 0;
   background-color: #000;
 }
 
-.big {
-  background-color: #308dc0;
+.box {
   border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.outer-box {
+  background-color: #308dc0;
   margin: 20px;
   margin-bottom: 40px;
   width: 350px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
-.small {
+.middle-box {
   background-color: #ffa500;
-  border: 1px solid #e75551;
-  margin: 10px;
 }
 
-.smallest {
+.inner-box {
   background-color: #ddd;
-  border: 1px solid #e75551;
-  margin: 10px;
-  padding: 10px;
 }
