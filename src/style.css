@@ -8,24 +8,22 @@ body {
   background-color: black;
 }
 
-.out-box,
-.mid-box,
-.in-box {
+.common-frame {
   border: 1px solid #e75551;
 }
 
-.in-box {
+.inner-box {
   margin: 10px;
   padding: 10px;
   background-color: #ddd;
 }
 
-.mid-box {
+.middle-box {
   margin: 10px;
   background-color: #ffa500;
 }
 
-.out-box {
+.outer-box {
   width: 350px;
   margin: 20px;
   margin-bottom: 40px;
