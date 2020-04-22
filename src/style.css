@@ -1,7 +1,6 @@
 body {
   background-color: black;
   margin: 0;
-  padding: 0;
 }
 
 .container {
@@ -16,11 +15,11 @@ body {
   padding: 10px;
 }
 
-.blue-wraper {
+.blue-wrapper {
   background-color: #308dc0;
 }
 
-.yelow-wraper {
+.yelow-wrapper {
   background-color: #ffa500;
 }
 
