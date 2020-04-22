@@ -11,18 +11,18 @@ body {
   border: 1px solid #e75551;
 }
 
-.first__block {
+.first_block {
   background-color: #308dc0;
   width: 350px;
   margin: 20px 20px 40px;
 }
 
-.second__block {
+.second_block {
   background-color: #ffa500;
   margin: 10px;
 }
 
-.third__block {
+.third_block {
   padding: 10px;
   margin: 10px;
   background-color: #ddd;
