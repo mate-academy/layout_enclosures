@@ -12,7 +12,10 @@ body {
   width: 350px;
   box-sizing: border-box;
   margin: 20px;
-  margin-bottom: 40px;
+}
+
+.container + .container {
+  margin-top: 40px;
 }
 
 .blue {
