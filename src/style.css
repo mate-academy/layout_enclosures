@@ -12,8 +12,6 @@ body {
 
 .box {
   border: 1px solid var(--reddish);
-  display: flex;
-  flex-direction: column;
 }
 
 .outer {
