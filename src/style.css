@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.big {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.medium {
+  background-color: #ffa500;
+}
+
+.small {
+  background-color: #ddd;
+}
+
+.box {
+  box-sizing: border-box;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
