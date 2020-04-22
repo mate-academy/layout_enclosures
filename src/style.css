@@ -3,22 +3,20 @@ body {
   margin: 0;
 }
 
-.big-box {
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-bottom: 40px;
+.outer-box {
+  margin: 20px 20px 40px;
   border: 1px solid #e35654;
   width: 348px;
   background-color: #308dc0;
 }
 
-.box {
+.middle-box {
   margin: 10px;
   border: 1px solid #e35654;
   background-color: #ffa500;
 }
 
-.small-box {
+.inner-box {
   margin: 10px;
   border: 1px solid #e35654;
   background-color: #ddd;
