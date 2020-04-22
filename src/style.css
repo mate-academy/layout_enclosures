@@ -3,10 +3,13 @@ body {
   background: rgb(0,0,0);
 }
 
+.general {
+  margin: 10px;
+}
+
 div {
   border: 1px solid #e75551;
   box-sizing: border-box;
-
 }
 
 .blue-box {
@@ -18,13 +21,11 @@ div {
 }
 
 .orange-box {
-  margin: 10px;
   background-color: orange;
 }
 
 .grey-box {
   padding: 10px;
-  margin: 10px;
   background: rgb(221,221,221);
 }
 
