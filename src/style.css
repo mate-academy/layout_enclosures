@@ -5,16 +5,13 @@ body {
 
 p {
   margin: 0;
-  padding: 0;
 }
 
 .one {
   box-sizing: border-box;
   background-color: rgb(48, 141, 192);
   width: 350px;
-  margin-left: 20px;
-  margin-top: 20px;
-  margin-bottom: 40px;
+  margin: 20px 0 40px 20px;
   border: 1px solid rgb(217, 80, 76);
 }
 
