@@ -7,7 +7,7 @@ p {
   margin: 0;
 }
 
-.one {
+.container-blue {
   box-sizing: border-box;
   background-color: rgb(48, 141, 192);
   width: 350px;
@@ -15,13 +15,13 @@ p {
   border: 1px solid rgb(217, 80, 76);
 }
 
-.two {
+.box-yellow {
   background-color: rgb(255, 165, 0);
   border: 1px solid rgb(217, 80, 76);
   margin: 10px;
 }
 
-.three {
+.box-text {
   background-color: rgb(221, 221, 221);
   margin: 10px;
   border: 1px solid rgb(217, 80, 76);
