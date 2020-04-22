@@ -5,8 +5,6 @@ body {
 }
 
 .blue-box {
-  box-sizing: border-box;
-  border: 1px #e75551 solid;
   background-color: #308dc0;
   width: 350px;
   margin-bottom: 40px;
@@ -15,13 +13,14 @@ body {
 .orange-box {
   margin: 10px;
   background-color: #ffa500;
-  box-sizing: border-box;
-  border: 1px #e75551 solid;
 }
 
 .grey-box {
   margin: 10px;
   background-color: #ddd;
+}
+
+.container {
   box-sizing: border-box;
   border: 1px #e75551 solid;
 }
