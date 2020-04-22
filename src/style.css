@@ -12,18 +12,19 @@ p {
   background-color: rgb(48, 141, 192);
   width: 350px;
   margin: 20px 0 40px 20px;
-  border: 1px solid rgb(217, 80, 76);
 }
 
 .box-yellow {
   background-color: rgb(255, 165, 0);
-  border: 1px solid rgb(217, 80, 76);
   margin: 10px;
 }
 
 .box-text {
   background-color: rgb(221, 221, 221);
   margin: 10px;
-  border: 1px solid rgb(217, 80, 76);
   padding: 10px;
+}
+
+.border {
+  border: 1px solid rgb(217, 80, 76);
 }
