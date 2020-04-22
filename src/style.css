@@ -1,0 +1,36 @@
+:root {
+  --reddish: #e75551;
+  --blueish: #308dc0;
+  --yellowish: #ffa500;
+  --text-background: #ddd;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.box {
+  border: 1px solid var(--reddish);
+}
+
+.outer {
+  box-sizing: border-box;
+  width: 350px;
+  margin: 20px 20px 40px;
+  background-color: var(--blueish);
+}
+
+.mid,
+.text {
+  margin: 10px;
+}
+
+.mid {
+  background-color: var(--yellowish);
+}
+
+.text {
+  padding: 10px;
+  background-color: var(--text-background);
+}
