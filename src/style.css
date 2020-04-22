@@ -4,26 +4,26 @@ body {
 }
 
 p {
-  padding: 0;
   margin: 0;
 }
 
-.big {
+.outer-box {
   width: 350px;
   background-color: #308dc0;
-  margin: 20px;
-  margin-bottom: 40px;
+  margin: 20px 0 40px 20px;
 }
 
-.medium {
+.middle-box {
   background-color: #ffa500;
 }
 
-.small {
+.inner-box {
   background-color: #ddd;
 }
 
-.box {
+.outer-box,
+.middle-box,
+.inner-box {
   box-sizing: border-box;
   border: 1px solid #e75551;
   padding: 10px;
