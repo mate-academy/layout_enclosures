@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.blue-block {
+  width: 328px;
+  margin: 20px 0 40px 20px;
+  background-color: #308dc0;
+}
+
+.orange-block {
+  background-color: #ffa500;
+}
+
+.text-block {
+  background-color: #ddd;
+}
+
+.border {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+p {
+  margin: 0;
+}
