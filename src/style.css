@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+div {
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.granny {
+  width: 350px;
+  padding: 10px;
+  background-color: #308dc0;
+}
+
+.dad {
+  background-color: #ffa500;
+  padding: 10px;
+  margin: auto;
+}
+
+.son {
+  background-color: #ddd;
+  padding: 10px;
+  margin: auto;
+}
