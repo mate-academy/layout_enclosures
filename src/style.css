@@ -1,0 +1,31 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.one {
+  border: 1px solid #e75551;
+  width: 350px;
+  margin: 20px;
+  margin-bottom: 40px;
+  padding: 10px;
+  background-color: #308dc0;
+
+}
+
+.two {
+  border: 1px solid #e75551;
+  padding: 10px;
+  background-color: #ffa506;
+}
+
+.center {
+  border: 1px solid #e75551;
+  padding: 10px;
+  background-color: hsl(0, 0%, 87%);
+}
