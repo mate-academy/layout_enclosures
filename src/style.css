@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.outer,
+.middle,
+.inner {
+  border: 1px solid #e75551;
+  margin: 20px;
+}
+
+.outer {
+  background-color: #308dc0;
+  box-sizing: border-box;
+  width: 350px;
+}
+
+.middle {
+  background-color: #ffa500;
+  margin: 10px;
+}
+
+.inner {
+  background-color: #ddd;
+  margin: 10px;
+  padding: 10px;
+}
+
+.second,
+.third {
+  margin-top: 40px ;
+}
