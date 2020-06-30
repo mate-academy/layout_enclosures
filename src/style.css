@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+div {
+  border: 1px solid #e75551;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.external_block {
+  width: 348px;
+  background-color: #308dc0;
+}
+
+.central_block {
+  background-color: #ffa500;
+  margin: 10px;
+}
+
+.block_with_text {
+  background-color: #ddd;
+  margin: 10px;
+  padding: 10px;
+}
