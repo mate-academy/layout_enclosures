@@ -9,27 +9,21 @@ body {
 }
 
 .one {
-
   width: 350px;
   margin: 20px;
   margin-bottom: 40px;
   background-color: #308dc0;
-
 }
 
 .two {
-
   background-color: #ffa506;
-
 }
 
 .center {
-  
   background-color: #dedede;
 }
 
 .box {
   padding: 10px;
   border: 1px solid #e75551;
-
 }
