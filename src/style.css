@@ -1,11 +1,6 @@
 body {
   margin: 0;
-  padding: 0;
   background-color: #000;
-}
-
-#qa-block {
-  margin: 20px;
 }
 
 .outer-block {
@@ -13,6 +8,10 @@ body {
   margin: 40px 20px;
   background-color: #308dc0;
   box-sizing: border-box;
+}
+
+.top-block {
+  margin: 20px;
 }
 
 .inside-block {
