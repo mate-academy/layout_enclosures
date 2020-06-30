@@ -10,20 +10,20 @@ div {
   margin-bottom: 40px;
 }
 
-.granny {
+.level_one {
   width: 350px;
   background-color: #308dc0;
   padding: 10px;
 }
 
-.dad {
+.level_two {
   background-color: #ffa500;
   padding: 10px;
   margin: auto;
 }
 
-.son {
+.level_three {
   background-color: #ddd;
   padding: 10px;
-  margin: auto;
+  margin: 0;
 }
