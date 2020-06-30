@@ -9,7 +9,8 @@ body {
 }
 
 .blue {
-  width: 328px;
+  width: 350px;
+  box-sizing: border-box;
   background-color: #308dc0;
   margin: 20px;
   margin-bottom: 40px;
