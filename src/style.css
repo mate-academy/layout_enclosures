@@ -3,26 +3,22 @@ body {
   margin: 0;
 }
 
-.box-first {
-  display: block;
-  margin-top: 20px;
-  margin-bottom: 40px;
-  margin-left: 20px;
+div {
   padding: 10px;
+  border: solid 1px #e75551;
+}
+
+.box-main {
+  margin: 20px 20px 40px;
   box-sizing: border-box;
   width: 350px;
-  border: solid 1px #e75551;
   background-color: rgb(48, 141, 192);
 }
 
-.box-second {
-  padding: 10px;
-  border: solid 1px #e75551;
+.box-middle {
   background-color: rgb(255, 165, 0);
 }
 
-.box-third {
-  border: solid 1px #e75551;
+.box-inside {
   background-color: rgb(221, 221, 221);
-  padding: 10px;
 }
