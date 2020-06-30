@@ -1,0 +1,27 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.blueBlock {
+  margin: 20px 20px 40px;
+  padding: 10px;
+  width: 350px;
+  background-color: #308dc0;
+  border: 1px #e75551 solid;
+  box-sizing: border-box;
+}
+
+.yellowBlock {
+  background-color: #ffa500;
+  border: 1px #e75551 solid;
+  box-sizing: border-box;
+}
+
+p {
+  padding: 10px;
+  margin: 10px;
+  background-color: #ddd;
+  border: 1px #e75551 solid;
+  box-sizing: border-box;
+}
