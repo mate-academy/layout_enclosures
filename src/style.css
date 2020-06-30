@@ -8,22 +8,22 @@ body {
   background-color: black;
 }
 
-.one {
+.outer {
   width: 350px;
   margin: 20px;
   margin-bottom: 40px;
   background-color: #308dc0;
 }
 
-.two {
+.mid {
   background-color: #ffa506;
 }
 
-.center {
+.inner {
   background-color: #dedede;
 }
 
-.box {
+.block {
   padding: 10px;
   border: 1px solid #e75551;
 }
