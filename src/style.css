@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-div {
+.box-size {
   padding: 10px;
   border: solid 1px #e75551;
 }
