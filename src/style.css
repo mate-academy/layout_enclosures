@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+.english-text-block {
+  margin: 20px 0 40px 20px;
+}
+
+.ukrainian-text-block {
+  margin: 40px 0 40px 20px;
+}
+
+.russian-text-block {
+  margin: 40px 0 0 20px;
+}
+
+.english-text-block,
+.ukrainian-text-block,
+.russian-text-block {
+  width: 328px;
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.yellow-box {
+  background-color: #ffa500;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.gray-box {
+  background-color: #ddd;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
