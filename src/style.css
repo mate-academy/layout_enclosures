@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+p,
+div {
+  box-sizing: border-box;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+p {
+  background-color: #ddd;
+  margin: 0;
+}
+
+.external_div {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 40px 20px;
+}
+
+.external_div:first-child {
+  margin-top: 20px;
+}
+
+.internal_div {
+  background-color: #ffa500;
+}
