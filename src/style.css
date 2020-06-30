@@ -11,17 +11,17 @@ body {
   padding: 10px;
 }
 
-.first-block {
+.external-block {
   width: 350px;
   background-color: #308dc0;
 }
 
-.second-block {
+.middle-block {
   background-color: #ffa500;
   margin: 0;
 }
 
-.third-block {
+.internal-block {
   background-color: #ddd;
   margin: 0;
 }
