@@ -9,17 +9,17 @@ div {
   margin-bottom: 40px;
 }
 
-.box_1 {
+.external_block {
   width: 348px;
   background-color: #308dc0;
 }
 
-.box_2 {
+.central_block {
   background-color: #ffa500;
   margin: 10px;
 }
 
-.box_3 {
+.block_with_text {
   background-color: #ddd;
   margin: 10px;
   padding: 10px;
