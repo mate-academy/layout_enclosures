@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: auto;
+}
+
+.block {
+  border: 1px rgb(231, 85, 81) solid;
+  padding: 10px;
+}
+
+.main {
+  background-color: hsl(0, 0%, 87%);
+
+}
+
+.orange {
+  background-color: hsl(39, 100%, 50%);
+}
+
+.blue {
+  background-color: hsl(201, 60%, 47%);
+  width: 350px;
+  box-sizing: border-box;
+  margin: 20px 20px 40px;
+}
