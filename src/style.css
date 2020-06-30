@@ -1,4 +1,4 @@
-* {
+body {
   background-color: black;
   margin: 0;
 }
@@ -11,17 +11,17 @@ div {
   padding: 10px;
 }
 
-.blockBlue {
+.block_blue {
   background-color: #308dc0;
   width: 350px;
 }
 
-.blockYellow {
+.block_yellow {
   background-color: #ffa500;
   margin: auto;
 }
 
-.blockText {
+.block_text {
   background-color: #ddd;
   margin: auto;
 }
