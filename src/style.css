@@ -3,34 +3,24 @@ body {
   margin: 0;
 }
 
-#qa-block {
-  width: 350px;
-  box-sizing: border-box;
-  padding: 10px;
-  margin: 20px 20px 40px;
-  background-color: #308dc0;
-  border: 1px solid #e75551;
-}
-
 p {
   background-color: #ddd;
+  margin: 0;
+}
+
+.red {
   border: 1px solid #e75551;
   padding: 10px;
-  margin: 0;
 }
 
 .yellow {
-  padding: 10px;
   margin: 0;
   background-color: #ffa500;
-  border: 1px solid #e75551;
 }
 
 .blue {
   width: 350px;
   box-sizing: border-box;
-  padding: 10px;
   margin: 20px 20px 40px;
   background-color: #308dc0;
-  border: 1px solid #e47774;
 }
