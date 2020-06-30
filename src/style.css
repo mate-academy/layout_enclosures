@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.border {
+  box-sizing: border-box;
+  padding: 10px;
+  border: solid 1px  #e95d49;
+}
+
+.blue {
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.orange {
+  background-color: #ffa500;
+}
+
+.grey {
+  background-color: rgb(221, 221, 221);
+}
