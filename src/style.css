@@ -1,5 +1,7 @@
-div {
+.block {
   box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #e75551;
 }
 
 body {
@@ -10,20 +12,14 @@ body {
 
 .blue {
   width: 350px;
-  padding: 10px;
-  background: #288dc1;
+  background-color: #288dc1;
   margin-bottom: 40px;
-  border: 1px solid #e75551;
 }
 
 .yellow {
-  padding: 10px;
-  background: #ffa000;
-  border: 1px solid #e75551;
+  background-color: #ffa000;
 }
 
 .white {
-  padding: 10px;
-  background: #ddd;
-  border: 1px solid #e75551;
+  background-color: #ddd;
 }
