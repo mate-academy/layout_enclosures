@@ -3,17 +3,15 @@ body {
   background-color: #000;
 }
 
-.external,
-.middle,
-.interior {
+.block {
   border: 1px solid #e75551;
   padding: 10px;
+  box-sizing: border-box;
 }
 
 .external {
   width: 350px;
   background-color: #308dc0;
-  box-sizing: border-box;
   margin: 20px;
   margin-bottom: 40px;
 }
