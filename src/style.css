@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.external,
+.middle,
+.interior {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.external {
+  width: 350px;
+  background-color: #308dc0;
+  box-sizing: border-box;
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.middle {
+  background-color: #ffa500;
+}
+
+.interior {
+  background-color: #ddd;
+  padding: 10px;
+  margin: 0;
+}
