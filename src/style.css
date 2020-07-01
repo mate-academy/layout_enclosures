@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.english-text-block {
+  margin: 20px 0 40px 20px;
+}
+
+.ukrainian-text-block {
+  margin: 40px 0 40px 20px;
+}
+
+.russian-text-block {
+  margin: 40px 0 0 20px;
+}
+
+.outer-frame {
+  width: 328px;
+  background-color: #308dc0;
+}
+
+.inner-frame {
+  background-color: #ffa500;
+}
+
+.text-box {
+  background-color: #ddd;
+  margin: 0;
+}
+
+.borders {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
