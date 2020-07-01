@@ -10,19 +10,19 @@ div {
   margin-bottom: 40px;
 }
 
-.level_one {
+.outer {
   width: 350px;
   background-color: #308dc0;
   padding: 10px;
 }
 
-.level_two {
+.middle {
   background-color: #ffa500;
   padding: 10px;
   margin: 0;
 }
 
-.level_three {
+.inner {
   background-color: #ddd;
   padding: 10px;
   margin: 0;
