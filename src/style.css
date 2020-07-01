@@ -8,17 +8,17 @@ body {
   border: 1px solid #e75551;
 }
 
-.middleLayer {
+.middle_Layer {
   background-color: #ffa500;
 }
 
-.outerLayer {
+.outer_Layer {
   box-sizing: border-box;
   margin: 20px 20px 40px;
   background-color: #308dc0;
   width: 350px;
 }
 
-.mainPart {
+.main_Part {
   background-color: #ddd;
 }
