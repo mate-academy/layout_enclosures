@@ -8,17 +8,17 @@ body {
   border: 1px solid #e75551;
 }
 
-.orangeBorder {
+.middleLayer {
   background-color: #ffa500;
 }
 
-.blueBorder {
+.outerLayer {
   box-sizing: border-box;
   margin: 20px 20px 40px;
   background-color: #308dc0;
   width: 350px;
 }
 
-.coloredTextBox {
+.mainPart {
   background-color: #ddd;
 }
