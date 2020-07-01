@@ -1,7 +1,6 @@
-* {
+body {
   background-color: #000;
   margin: 0;
-  box-sizing: border-box;
 }
 
 .border {
@@ -10,6 +9,7 @@
 }
 
 .blue-box {
+  box-sizing: border-box;
   background-color: #308dc0;
   width: 350px;
   margin: 20px;
