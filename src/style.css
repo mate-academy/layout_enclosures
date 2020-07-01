@@ -4,17 +4,14 @@ body {
 }
 
 .borders {
-  border-style: solid;
-  border-color: rgb(231, 85, 81);
-  border-width: 1px;
+  border: 1px solid rgb(231, 85, 81);
 }
 
 .outer {
   background-color: rgb(48, 141, 192);
-  width: 348px;
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-bottom: 40px;
+  width: 350px;
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
 }
 
 .middle {
