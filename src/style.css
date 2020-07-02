@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+.block {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.first {
+  width: 350px;
+  background-color: #308dc0;
+  box-sizing: border-box;
+  margin-bottom: 40px;
+}
+
+.second {
+  background-color: #ffa500;
+}
+
+.inner {
+  background-color: #ddd;
+  padding: 10px;
+}
+
+.article {
+  margin: 0;
+}
