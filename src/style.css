@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  background-color: #000;
+}
+
+div {
+  padding: 10px;
+  border: 1px solid #e75551;
+  margin: 20px 20px 40px;
+}
+
+.main {
+  width: 350px;
+  background-color: #308dc0;
+}
+
+.inside {
+  background-color: orange;
+  margin: 0;
+}
+
+.text {
+  background-color: #ddd;
+  margin: 0;
+}
