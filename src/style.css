@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+.block {
+  border: 1px;
+  border-color: #e75551;
+  border-style: solid;
+  padding: 10px;
+}
+
+.bottom {
+  width: 328px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.middle {
+  background-color: #ffa500;
+}
+
+.top {
+  background-color: #ddd;
+}
