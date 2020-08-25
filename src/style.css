@@ -1,5 +1,6 @@
-.text p {
-  margin: unset;
+.text {
+  border: 1px solid #e75551;
+  margin: 0;
   padding: 10px;
   background-color: #ddd;
   font-size: 16px;
@@ -7,7 +8,7 @@
 
 body {
   background-color: black;
-  margin: unset;
+  margin: 0;
 }
 
 .yellow {
@@ -15,18 +16,15 @@ body {
 }
 
 .blue {
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-bottom: 40px;
-  width: 328px;
   background-color: #308dc0;
 }
 
-div {
-  border: 1px solid #e75551;
-  padding: 10px;
+.main_block {
+  margin: 20px 0 40px 20px;
+  width: 328px;
 }
 
-div .text {
-  padding: unset;
+.square_block {
+  border: 1px solid #e75551;
+  padding: 10px;
 }
