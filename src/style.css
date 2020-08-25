@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.border {
+  margin: 20px;
+}
+
+.rectangle {
+  width: 350px;
+  margin-bottom: 40px;
+}
+
+.rectangle_border {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.rectangle_blue {
+  background-color: #308dc0;
+}
+
+.rectangle_yellow {
+  background-color: #ffa500;
+}
+
+.rectangle_white {
+  background-color: #ddd;
+}
