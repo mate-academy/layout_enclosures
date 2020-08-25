@@ -1,5 +1,4 @@
 body {
-  font-family: Arial, sans-serif;
   background-color: black;
   margin: 0;
 }
@@ -19,14 +18,12 @@ body {
 }
 
 .inner {
-  width: 330px;
   margin: 10px auto;
   background-color: rgb(255, 165, 0);
   border: 1px solid rgb(232, 89, 77);
 }
 
 .text {
-  width: 310px;
   margin: 10px auto;
   background-color: rgb(221, 221, 221);
   border: 1px solid rgb(232, 89, 77);
