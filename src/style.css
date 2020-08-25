@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.container {
+  margin: 20px;
+}
+
+.inblock {
+  width: 350px;
+  margin-bottom: 40px;
+}
+
+.outer {
+  background: #308dc0;
+}
+
+.inner {
+  background: #ffa500;
+}
+
+.block {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.text {
+  background: #ddd;
+}
