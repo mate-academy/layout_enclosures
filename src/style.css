@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   background-color: black;
@@ -6,12 +10,12 @@ body {
 
 .block {
   padding: 10px;
-  border: solid 1px #ae4a4b;
+  border: solid 1px #e75551;
 }
 
 .outside {
   background-color: #308dc0;
-  width: 327px;
+  width: 350px;
   margin: 20px;
   margin-bottom: 40px;
 
@@ -24,5 +28,4 @@ body {
 
 .inside {
   background-color: #dedede;
-
 }
