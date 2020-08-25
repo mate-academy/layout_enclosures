@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  border: 1px solid #e8594d;
+}
+
+.sup__block {
+  background-color: #308dc0;
+  padding: 10px;
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  width: 350px;
+}
+
+.sup__block:first-child {
+  margin-top: 20px;
+}
+
+.midd__block {
+  background-color: #ffa503;
+  padding: 10px;
+}
+
+.sub__block {
+  background-color: #ddd;
+  box-sizing: border-box;
+  padding: 10px 15px 10px 10px;
+  text-align: left;
+}
