@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.out {
+  width: 350px;
+  background-color: hsl(201, 60%, 47%);
+  margin: 20px;
+  margin-bottom: 40px;
+}
+
+.block {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.mid {
+  background-color: hsl(39, 100%, 50%);
+}
+
+.in {
+  background-color: hsl(0, 0%, 87%);
+}
