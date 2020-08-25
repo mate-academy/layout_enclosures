@@ -1,0 +1,32 @@
+.text p {
+  margin: unset;
+  padding: 10px;
+  background-color: #ddd;
+  font-size: 16px;
+}
+
+body {
+  background-color: black;
+  margin: unset;
+}
+
+.yellow {
+  background-color: #ffa500;
+}
+
+.blue {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  width: 328px;
+  background-color: #308dc0;
+}
+
+div {
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+div .text {
+  padding: unset;
+}
