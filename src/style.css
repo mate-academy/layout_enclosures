@@ -18,14 +18,14 @@ body {
 }
 
 .inner {
-  margin: 10px auto;
+  margin: 10px;
   background-color: rgb(255, 165, 0);
   border: 1px solid rgb(232, 89, 77);
 }
 
 .text {
-  margin: 10px auto;
   background-color: rgb(221, 221, 221);
   border: 1px solid rgb(232, 89, 77);
   padding: 10px;
+  margin: 10px;
 }
