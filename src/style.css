@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.wrapper {
+  box-sizing: border-box;
+  width: 350px;
+  margin: 20px 20px 40px;
+  border: 1px solid #db5857;
+  background-color: #308dc0;
+}
+
+.border {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ffa500;
+  border: 1px solid #db5857;
+}
+
+#qa-block {
+  margin: 0;
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #db5857;
+}
+
+.box {
+  margin: 0;
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #db5857;
+}
