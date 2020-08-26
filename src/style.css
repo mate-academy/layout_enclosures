@@ -3,27 +3,24 @@ body {
   margin: 0;
 }
 
-* {
+.block {
+  padding: 10px;
+  border: 1px solid #e75551;
   box-sizing: border-box;
 }
 
-.bigBox {
+.bigbox {
   width: 350px;
   background-color: #308dc0;
-  border: 1px solid #e75551;
-  margin: 20px;
+  margin: 20px 0 40px 20px;
   margin-bottom: 40px;
-  padding: 10px;
 }
 
-.medBox {
+.medbox {
   background-color: #ffa500;
-  padding: 10px;
-  border: 1px solid #e75551;
 }
 
-.textBox {
+p {
+  margin: 0;
   background-color: #ddd;
-  padding: 10px;
-  border: 1px solid #e75551;
 }
