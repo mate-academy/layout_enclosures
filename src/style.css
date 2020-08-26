@@ -19,10 +19,7 @@ body {
   background-color: #ffa500;
 }
 
-.text-wrap {
-  background-color: #ddd;
-}
-
 .text {
   margin: 0;
+  background-color: #ddd;
 }
