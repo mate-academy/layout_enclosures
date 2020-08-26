@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.main {
+  margin: 20px;
+  width: 350px;
+}
+
+.container3 {
+  background-color: #308dbf;
+  margin-bottom: 40px;
+}
+
+.container2 {
+  background-color: #ffa502;
+}
+
+.container1 {
+  background-color: #ddd;
+  border: 1px solid #e75550;
+}
+
+.text {
+  background-color: #ddd;
+  padding: 10px;
+}
+
+.frame {
+  border: 1px solid #e75550;
+  padding: 10px;
+}
