@@ -1,2 +1,2 @@
-- [DEMO LINK](https://Atteroot.github.io/layout_human-rights/) <br>
-- [TEST REPORT LINK](https://Atteroot.github.io/layout_human-rights/report/html_report/)
+- [DEMO LINK](https://Atteroot.github.io/layout_enclosures/)
+- [TEST REPORT LINK](https://Atteroot.github.io/layout_enclosures/report/html_report/)

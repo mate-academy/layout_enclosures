@@ -17,16 +17,18 @@ body {
   background-color: rgb(255, 165, 0);
 }
 
-div {
+.blue,
+.yellow,
+.text {
   border: 1px solid rgb(232, 89, 77);
   padding: 10px;
 }
 
-div .text {
+.text {
   padding: unset;
 }
 
-.text p {
+.paragraph_text {
   padding: 10px;
   background-color: #ddd;
   font-size: 16px;
