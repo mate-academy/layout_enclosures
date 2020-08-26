@@ -1,0 +1,35 @@
+body {
+  background: #000;
+  margin: 0;
+}
+
+.all {
+  margin: 20px;
+}
+
+.blocks {
+  width: 350px;
+  margin-bottom: 40px;
+}
+
+.block {
+  padding: 10px;
+  border: 1px solid #eb6145;
+}
+
+.blue {
+  background: #308dc0;
+}
+
+.yellow {
+  background: #ffa500;
+}
+
+.gray {
+  background: #ddd;
+}
+
+.text {
+  margin: 0;
+  width: 280px;
+}
