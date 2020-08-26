@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.third_bord {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 20px 0 40px 20px;
+}
+
+.second_bord {
+  background-color: #ffa500;
+}
+
+.first_bord {
+  background-color: #ddd;
+}
+
+.text {
+  margin: 0;
+  padding: 0;
+}
+
+.all_boxes {
+  border: 1px rgb(231,85,81) solid;
+  padding: 10px;
+}
