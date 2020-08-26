@@ -14,14 +14,17 @@ body {
   border: 1px solid rgb(232, 89, 77);
 }
 
-.blue_cant {
-  border: 10px solid rgb(48, 141, 192);
+.blue_block {
+  background-color: rgb(48, 141, 192);
+  padding: 10px;
 }
 
-.yellow_cant {
-  border: 10px solid rgb(255, 165, 0);
+.yellow_block {
+  background-color: rgb(255, 165, 0);
 }
 
 .text_in {
   margin: 10px;
+  background-color: rgb(221, 221, 221);
+  padding: 10px;
 }
