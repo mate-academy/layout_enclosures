@@ -9,24 +9,26 @@ body {
 }
 
 .container3 {
-  border: 1px solid #e75550;
   background-color: #308dbf;
-  padding: 10px;
   margin-bottom: 40px;
 }
 
 .container2 {
-  border: 1px solid #e75550;
   background-color: #ffa502;
-  padding: 10px;
 }
 
 .container1 {
-  border: 1px solid #e75550;
   background-color: #ddd;
 }
 
-.container {
+.txt {
   background-color: #ddd;
+}
+
+.border {
+  border: 1px solid #e75550;
+}
+
+.padding {
   padding: 10px;
 }
