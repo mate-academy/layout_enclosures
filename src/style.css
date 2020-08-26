@@ -3,23 +3,24 @@ body {
   margin: 0;
 }
 
-.border {
+.block {
   border: solid 1px #e6605c;
+  padding: 10px;
 }
 
 .inner_box {
   background-color: #ddd;
-  padding: 10px;
+  
 }
 
 .mid_box {
   background-color: #ffa500;
-  padding: 10px;
+  
 }
 
 .out_box {
   background-color: #308dc0;
   width: 328px;
-  padding: 10px;
+  
   margin: 20px 20px 40px;
 }
