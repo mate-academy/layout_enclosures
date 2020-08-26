@@ -1,0 +1,32 @@
+
+body {
+  margin: 20px;
+  background-color: #000;
+}
+
+.container {
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #e8594d;
+}
+
+.block {
+  margin-bottom: 40px;
+}
+
+.blue {
+  width: 350px;
+  background-color: #308dc0;
+}
+
+.yellow {
+  background-color: #ffa500;
+}
+
+.text-container {
+  background-color: #ddd;
+}
+
+.text {
+  margin: 0;
+}
