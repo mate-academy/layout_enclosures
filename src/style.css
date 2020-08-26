@@ -3,7 +3,8 @@ body {
   margin: 0;
 }
 
-.wrapper {
+.wrapper,
+#qa-block {
   box-sizing: border-box;
   width: 350px;
   margin: 20px 20px 40px;
@@ -15,13 +16,6 @@ body {
   margin: 10px;
   padding: 10px;
   background-color: #ffa500;
-  border: 1px solid #db5857;
-}
-
-#qa-block {
-  margin: 0;
-  padding: 10px;
-  background-color: #ddd;
   border: 1px solid #db5857;
 }
 
