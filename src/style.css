@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 
 body {
@@ -18,17 +19,13 @@ body {
 
 .inner {
   background-color: #ddd;
-  padding: 10px;
 }
 
-.zero_margin {
+.text {
   margin: 0;
 }
 
-.border {
+.block_style {
   border: 1px  #e75551 solid;
-}
-
-.block_margin {
-  margin: 10px;
+  padding: 10px;
 }
