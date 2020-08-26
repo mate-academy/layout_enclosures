@@ -15,17 +15,14 @@ body {
 
 .inner_box {
   background-color: #ddd;
-  
 }
 
 .mid_box {
   background-color: #ffa500;
-  
 }
 
 .out_box {
   background-color: #308dc0;
   width: 328px;
-  
   margin: 20px 20px 40px;
 }
