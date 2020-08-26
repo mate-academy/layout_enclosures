@@ -28,3 +28,7 @@ body {
 .gray {
   background: #ddd;
 }
+
+.text {
+  margin: 0;
+}
