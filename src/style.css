@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.block {
+  padding: 10px;
+  border: 1px solid #e75551;
+  box-sizing: border-box;
+}
+
+.bigbox {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 20px 0 40px 20px;
+  margin-bottom: 40px;
+}
+
+.medbox {
+  background-color: #ffa500;
+}
+
+p {
+  margin: 0;
+  background-color: #ddd;
+}
