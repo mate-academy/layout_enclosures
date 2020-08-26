@@ -19,16 +19,15 @@ body {
 
 .container1 {
   background-color: #ddd;
-}
-
-.txt {
-  background-color: #ddd;
-}
-
-.border {
   border: 1px solid #e75550;
 }
 
-.padding {
+.text {
+  background-color: #ddd;
+  padding: 10px;
+}
+
+.frame {
+  border: 1px solid #e75550;
   padding: 10px;
 }
