@@ -1,48 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
-  background-color: black;
+  background-color: #000;
+  margin: 0;
 }
 
-.first_box {
-  background-color: rgb(221, 221, 221);
-  width: 271px;
-  box-shadow: 0 0 0 1px rgb(191, 101, 110),
-    0 0 0 11px rgb(255, 165, 0),
-    0 0 0 12px rgb(191, 101, 110),
-    0 0 0 22px rgb(50, 141, 191),
-    0 0 0 23px rgb(191, 101, 110);
+.block {
   padding: 10px;
-  margin: 20px;
-  margin-top: 40px;
-  margin-bottom: 80px;
-  margin-left: 40px;
-  border-spacing: 40px;
+  border: 1px solid rgb(231,85,81);
 }
 
-.second_box {
-  background-color: rgb(221, 221, 221);
-  width: 271px;
-  box-shadow: 0 0 0 1px rgb(191, 101, 110),
-    0 0 0 11px rgb(255, 165, 0),
-    0 0 0 12px rgb(191, 101, 110),
-    0 0 0 22px rgb(50, 141, 191),
-    0 0 0 23px rgb(191, 101, 110);
-  padding: 10px;
-  margin: 20px;
-  margin-bottom: 80px;
-  margin-left: 40px;
-  border-spacing: 40px;
+.block_blue {
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 20px 40px;
 }
 
-.third_box {
-  background-color: rgb(221, 221, 221);
-  width: 271px;
-  box-shadow: 0 0 0 1px rgb(191, 101, 110),
-    0 0 0 11px rgb(255, 165, 0),
-    0 0 0 12px rgb(191, 101, 110),
-    0 0 0 22px rgb(50, 141, 191),
-    0 0 0 23px rgb(191, 101, 110);
-  padding: 10px;
-  margin: 20px;
-  margin-left: 40px;
-  border-spacing: 40px;
+.block_orange {
+  background-color: #ffa500;
+}
+
+.text_block {
+  margin: 0;
+  background-color: #ddd;
 }
