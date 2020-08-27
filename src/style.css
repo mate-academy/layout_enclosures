@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+}
+
+.first_box {
+  background-color: rgb(221, 221, 221);
+  width: 271px;
+  box-shadow: 0 0 0 1px rgb(191, 101, 110),
+    0 0 0 11px rgb(255, 165, 0),
+    0 0 0 12px rgb(191, 101, 110),
+    0 0 0 22px rgb(50, 141, 191),
+    0 0 0 23px rgb(191, 101, 110);
+  padding: 10px;
+  margin: 20px;
+  margin-top: 40px;
+  margin-bottom: 80px;
+  margin-left: 40px;
+  border-spacing: 40px;
+}
+
+.second_box {
+  background-color: rgb(221, 221, 221);
+  width: 271px;
+  box-shadow: 0 0 0 1px rgb(191, 101, 110),
+    0 0 0 11px rgb(255, 165, 0),
+    0 0 0 12px rgb(191, 101, 110),
+    0 0 0 22px rgb(50, 141, 191),
+    0 0 0 23px rgb(191, 101, 110);
+  padding: 10px;
+  margin: 20px;
+  margin-bottom: 80px;
+  margin-left: 40px;
+  border-spacing: 40px;
+}
+
+.third_box {
+  background-color: rgb(221, 221, 221);
+  width: 271px;
+  box-shadow: 0 0 0 1px rgb(191, 101, 110),
+    0 0 0 11px rgb(255, 165, 0),
+    0 0 0 12px rgb(191, 101, 110),
+    0 0 0 22px rgb(50, 141, 191),
+    0 0 0 23px rgb(191, 101, 110);
+  padding: 10px;
+  margin: 20px;
+  margin-left: 40px;
+  border-spacing: 40px;
+}
