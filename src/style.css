@@ -13,17 +13,17 @@ p {
   padding: 0;
 }
 
-.blueBox {
+.blue-box {
   width: 350px;
   background-color: #308dc0;
   margin-bottom: 40px;
 }
 
-.yellowBox {
+.yellow-box {
   background-color: #ffa500;
 }
 
-.grayBox {
+.gray-box {
   background-color: #ddd;
   font-size: 16px;
 }
