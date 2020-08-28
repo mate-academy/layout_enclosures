@@ -8,7 +8,9 @@ body {
   margin: 0;
 }
 
-div:defined {
+.rectangle,
+.blue,
+.yellow {
   padding: 10px;
 }
 
@@ -28,5 +30,4 @@ div:defined {
 
 .white {
   background: rgb(221, 221, 221);
-  margin: 0;
 }
