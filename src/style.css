@@ -13,12 +13,9 @@ body {
   margin: 0;
 }
 
-.reddish-border {
-  border: 1px solid #de5756;
-}
-
 .box {
   padding: 10px;
+  border: 1px solid #de5756;
 }
 
 .container-box {
