@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+.border {
+  border: 1px solid #db5857;
+}
+
+.wrap {
+  margin: 20px 20px 40px;
+  padding: 10px;
+  max-width: 350px;
+  background-color: #308dc0;
+}
+
+.box {
+  padding: 10px;
+  background-color: #ffa500;
+}
+
+.text {
+  margin: 0;
+  padding: 10px;
+  background-color: #ddd;
+}
