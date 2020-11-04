@@ -11,18 +11,18 @@ body {
   border: 1px solid #eb6243;
 }
 
-.vneshniy {
+.external {
   width: 350px;
   margin: 20px 20px 40px;
   background-color: #308dc0;
 }
 
-.sredniy {
+.middle {
   margin: 10px;
   background-color: #ffa500;
 }
 
-.vnutrenniy {
+.interior {
   margin: 10px;
   padding: 10px;
   background-color: #ddd;
