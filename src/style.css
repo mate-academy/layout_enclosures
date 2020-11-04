@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+.brd {
+  border: 1px solid #eb6243;
+}
+
+.vne {
+  width: 350px;
+  margin: 20px 20px 40px;
+  background-color: #308dc0;
+}
+
+.sr {
+  margin: 10px;
+  background-color: #ffa500;
+}
+
+.vnut {
+  margin: 10px;
+  padding: 10px;
+  background-color: #ddd;
+}
