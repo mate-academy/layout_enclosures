@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+
+.zovn {
+  background-color: #308dc0;
+  width: 328px;
+  border: 1px solid #e6635f;
+  padding: 10px;
+  margin: 20px 12px;
+}
+
+#seredn {
+  margin: 40px 12px;
+}
+
+.mid {
+  background-color: #ffa500;
+  width: 306px;
+  border: 1px solid #e6635f;
+  padding: 10px;
+}
+
+p {
+  width: 284px;
+  border: 1px solid #e6635f;
+  background-color: #ddd;
+  padding: 10px;
+  margin: 0;
+}
