@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.box {
+  padding: 10px;
+  border: 1px solid #de5756;
+}
+
+.container-box {
+  width: 350px;
+  margin: 20px 20px 40px;
+  background-color: #308dc0;
+}
+
+.inner-box {
+  background-color: #ffa500;
+}
+
+.content-box {
+  background-color: #ddd;
+}
+
+.box-text {
+  margin: 0;
+}
