@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.border {
+  border: 1px solid #e75551;
+}
+
+.main-block {
+  width: 350px;
+  background-color: #308dc0;
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
+}
+
+.border-block {
+  background-color: #ffa500;
+  margin: 10px;
+  padding: 10px;
+}
+
+.text-block {
+  background-color: #ddd;
+  padding: 10px;
+  margin: 0;
+}
