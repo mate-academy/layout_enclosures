@@ -21,11 +21,14 @@ body {
 .second {
   background-color: #ffa500;
   width: 328px;
-  margin: 0 auto;
 }
 
 .third {
   width: 308px;
   background-color: #ddd;
+}
+
+.second,
+.third {
   margin: 0 auto;
 }
