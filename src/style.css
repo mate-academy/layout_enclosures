@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 
-.zovn {
+.first {
   background-color: #308dc0;
   width: 328px;
   border: 1px solid #e6635f;
@@ -10,11 +10,11 @@ body {
   margin: 20px 12px;
 }
 
-#seredn {
+.middle {
   margin: 40px 12px;
 }
 
-.mid {
+.second {
   background-color: #ffa500;
   width: 306px;
   border: 1px solid #e6635f;
