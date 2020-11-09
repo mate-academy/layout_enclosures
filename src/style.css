@@ -1,0 +1,27 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+div {
+  max-width: 328px;
+  border: 1px #e95d49 solid;
+  padding: 10px;
+}
+
+.container-blue {
+  background-color: #308dc0;
+  margin: 40px 20px;
+}
+
+.container-blue:first-child {
+  margin: 20px;
+}
+
+.container-orange {
+  background-color: #ffa500;
+}
+
+.container-text {
+  background-color: #ddd;
+}
