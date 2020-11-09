@@ -10,17 +10,18 @@ body {
   border-color: #e75551;
 }
 
-.block2 {
+.external_block {
   background-color: #308dc0;
-  width: 328px;
+  width: 350px;
   margin: 20px 20px 40px;
+  box-sizing: border-box;
 }
 
-.block1 {
+.middle_block {
   background-color: #ffa500;
 }
 
-.block {
+.internal_block {
   background-color: #ddd;
   color: #000;
 }
