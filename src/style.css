@@ -1,11 +1,11 @@
 * {
   box-sizing: border-box;
-  margin: 0;
 }
 
 body {
   background-color: black;
   padding: 20px;
+  margin: 0;
 }
 
 .box-main {
@@ -20,6 +20,7 @@ body {
 
 .box-text {
   background-color: #ddd;
+  margin: 0;
 }
 
 .box {
