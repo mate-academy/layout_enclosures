@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-div {
+body div {
   max-width: 328px;
   border: 1px #e95d49 solid;
   padding: 10px;
