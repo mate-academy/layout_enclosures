@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.text {
+  margin: 0;
+  background-color: #ddd;
+}
+
+.border {
+  padding: 10px;
+  border: 1px solid #db5857;
+}
+
+.orang {
+  background-color: orange;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+}
+
+.blue {
+  margin: 20px 20px 40px;
+  max-width: 350px;
+  background-color: #308dc0;
+}
+
+div {
+  display: block;
+}
