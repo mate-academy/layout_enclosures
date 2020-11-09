@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 20px;
   background-color: black;
@@ -9,7 +13,6 @@ body {
 }
 
 .block_blue {
-  box-sizing: border-box;
   width: 350px;
   background-color: #308dc0;
   margin-bottom: 40px;
