@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(0, 0, 0);
+  margin: 20px;
+}
+
+.the-biggest-box {
+  width: 350px;
+  background-color: rgb(48, 141, 192);
+  /*  box-sizing: border-box;*/
+  margin-bottom: 40px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.middle-box {
+  background-color: rgb(255, 165, 0);
+}
+
+.the-smallest-box {
+  background-color: rgb(221, 221, 221);
+}
+
+div {
+  padding: 10px;
+  border: 1px solid rgb(222, 82, 78);
+}
