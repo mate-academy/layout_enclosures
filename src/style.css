@@ -3,6 +3,11 @@ body {
   background-color: black;
 }
 
+.block {
+  padding: 10px;
+  border: 1px solid #de524e;
+}
+
 .block_blue {
   box-sizing: border-box;
   width: 350px;
@@ -16,12 +21,4 @@ body {
 
 .block_white {
   background-color: #ddd;
-}
-
-.block_padding {
-  padding: 10px;
-}
-
-.border_redish {
-  border: 1px solid #de524e;
 }
