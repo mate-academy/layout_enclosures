@@ -6,8 +6,12 @@ body {
 .the-biggest-box {
   width: 350px;
   background-color: rgb(48, 141, 192);
-  box-sizing: border-box;
+  /*  box-sizing: border-box;*/
   margin-bottom: 40px;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 .middle-box {
