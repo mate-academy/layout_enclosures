@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000;
+}
+
+.main__block {
+  width: 350px;
+  height: auto;
+  background: #308dc0;
+  border: 1px solid #dc5858;
+  padding: 10px;
+  margin: 20px 20px 40px;
+}
+
+.block__item {
+  background: #ffa500;
+  border: 1px solid #dc5858;
+  padding: 10px;
+}
+
+.item__text {
+  background: #ddd;
+  border: 1px solid #dc5858;
+  padding: 10px;
+}
