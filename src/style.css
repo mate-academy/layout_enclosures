@@ -3,25 +3,29 @@ body {
   margin: 0;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .container {
-  max-width: 328px;
+  max-width: 350px;
   border: 1px #e95d49 solid;
   padding: 10px;
 }
 
-.blue {
+.container--blue {
   background-color: #308dc0;
   margin: 40px 20px;
 }
 
-.blue:first-child {
+.container--blue:first-child {
   margin: 20px;
 }
 
-.orange {
+.container--orange {
   background-color: #ffa500;
 }
 
-.text {
+.container--text {
   background-color: #ddd;
 }
