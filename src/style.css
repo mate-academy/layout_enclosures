@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+}
+
+.pad {
+  padding: 10px;
+}
+
+.txt {
+  background-color: #ddd;
+  border: 1px solid #e6635f;
+  width: 284px;
+  margin: 0;
+}
+
+.top {
+  background-color: #308dc0;
+  border: 1px solid #e6635f;
+  margin: 20px 12px;
+  box-sizing: border-box;
+  width: 350px;
+}
+
+.box {
+  margin: 40px 12px;
+}
+
+.mid {
+  background-color: orange;
+  border: 1px solid #e6635f;
+  width: 306px;
+}
