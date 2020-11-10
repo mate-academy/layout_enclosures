@@ -1,41 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: black;
   margin: 0;
 }
 
-.outerBlock {
+.block {
+  border: 1px #eb6442 solid;
+}
+
+.outer {
   width: 350px;
   background-color: #308dc0;
-  margin: 40px 20px;
-  box-sizing: border-box;
+  margin: 20px 20px 40px;
 }
 
-.outerBlock,
-.middleBlock,
-.innerBlock {
-  border-width: 1px;
-  border-color: #eb6442;
-  border-style: solid;
-}
-
-.middleBlock,
-.innerBlock {
+.middle,
+.inner {
   margin: 10px;
 }
 
-.text {
-  margin: 0;
-}
-
-.middleBlock {
+.middle {
   background-color: #ffa500;
 }
 
-.innerBlock {
+.inner {
   background-color: #ddd;
   padding: 10px;
 }
 
-#qa-block {
-  margin-top: 20px;
+.no-spaces {
+  margin: 0;
 }
