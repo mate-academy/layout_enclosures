@@ -3,16 +3,17 @@ body {
   margin: 0;
 }
 
-.blue {
+.block--blue {
   background-color: #308dc0;
-  
+  margin: 20px 20px 40px;
+  width: 350px;
 }
 
-.yellow {
+.block--yellow {
   background-color: #ffa500;
 }
 
-.white {
+.block--white {
   background-color: #ddd;
 }
 
@@ -21,8 +22,6 @@ body {
   padding: 10px;
 }
 
-body > * {
-  width: 350px;
-  margin: 20px 20px 40px;
+* {
   box-sizing: border-box;
 }
