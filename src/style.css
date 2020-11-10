@@ -1,28 +1,25 @@
 body {
   background-color: black;
-  margin: 0%;
+  margin: 0;
   padding: 20px;
 }
 
-.outer-box {
-  box-sizing: border-box;
+.outer {
   width: 350px;
   background-color: #308dc0;
-  border: 1px solid #e75551;
-  padding: 10px;
   margin-bottom: 40px;
 }
 
-.middle-box {
-  box-sizing: border-box;
+.middle {
   background-color: #ffa500;
-  border: 1px solid #e75551;
-  padding: 10px;
 }
 
-.inner-box {
-  box-sizing: border-box;
+.inner {
   background-color: #ddd;
+}
+
+.block {
+  box-sizing: border-box;
   border: 1px solid #e75551;
   padding: 10px;
 }
