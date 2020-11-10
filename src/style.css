@@ -3,25 +3,25 @@ body {
   margin: 0;
 }
 
-body div {
+.container {
   max-width: 328px;
   border: 1px #e95d49 solid;
   padding: 10px;
 }
 
-.container-blue {
+.blue {
   background-color: #308dc0;
   margin: 40px 20px;
 }
 
-.container-blue:first-child {
+.blue:first-child {
   margin: 20px;
 }
 
-.container-orange {
+.orange {
   background-color: #ffa500;
 }
 
-.container-text {
+.text {
   background-color: #ddd;
 }
