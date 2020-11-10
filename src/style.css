@@ -1,0 +1,22 @@
+.borText {
+  border: 10px solid #ffa500;
+  padding: 10px;
+  margin: 0;
+  background-color: #ddd;
+}
+
+.mb {
+  width: 350px;
+  margin: 20px;
+  margin-bottom: 40px;
+  border: 1px solid #e75551;
+}
+
+.border {
+  border: 10px solid #308dc0;
+  position: relative;
+}
+
+body {
+  background-color: black;
+}
