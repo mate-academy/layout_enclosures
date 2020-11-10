@@ -5,24 +5,24 @@ body {
 
 .blue {
   background-color: #308dc0;
-  width: 350px;
-  margin: 20px 20px 40px;
-  padding: 10px;
-  box-sizing: border-box;
+  
 }
 
 .yellow {
   background-color: #ffa500;
-  padding: 10px;
 }
 
 .white {
   background-color: #ddd;
+}
+
+.block {
+  border: 1px solid #e75551;
   padding: 10px;
 }
 
-.border {
-  border-style: solid;
-  border-width: 1px;
-  border-color: #e75551;
+body > * {
+  width: 350px;
+  margin: 20px 20px 40px;
+  box-sizing: border-box;
 }
