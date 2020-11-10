@@ -1,8 +1,8 @@
 .borText {
-  border: 10px solid #ffa500;
   padding: 10px;
   margin: 0;
   background-color: #ddd;
+  box-shadow: 0 0 0 1px #e75551;
 }
 
 .mb {
@@ -19,4 +19,9 @@
 
 body {
   background-color: black;
+}
+
+.bord {
+  box-shadow: 0 0 0 1px #e75551;
+  border: 10px solid #ffa500;
 }
