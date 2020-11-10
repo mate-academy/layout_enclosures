@@ -4,13 +4,13 @@ body {
 }
 
 .block {
-  max-width: 350px;
   padding: 10px;
   border: 1px solid #e75551;
   box-sizing: border-box;
 }
 
 .blue {
+  width: 350px;
   background-color: #308dc0;
   margin: 20px 0 40px 20px;
 }
@@ -21,8 +21,4 @@ body {
 
 .white {
   background-color: #ddd;
-}
-
-.text {
-  margin: 0;
 }
