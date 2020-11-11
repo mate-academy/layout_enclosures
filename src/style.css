@@ -1,27 +1,27 @@
-.borText {
-  padding: 10px;
-  margin: 0;
-  background-color: #ddd;
-  box-shadow: 0 0 0 1px #e75551;
-}
-
-.mb {
-  width: 350px;
-  margin: 20px;
-  margin-bottom: 40px;
-  border: 1px solid #e75551;
-}
-
-.border {
-  border: 10px solid #308dc0;
-  position: relative;
+* {
+  box-sizing: border-box;
 }
 
 body {
+  margin: 20px;
   background-color: black;
 }
 
-.bord {
-  box-shadow: 0 0 0 1px #e75551;
-  border: 10px solid #ffa500;
+.block {
+  padding: 10px;
+  border: 1px solid #de524e;
+}
+
+.blue {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.orange {
+  background-color: #ffa502;
+}
+
+.bg {
+  background-color: #ddd;
 }
