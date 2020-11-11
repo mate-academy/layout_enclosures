@@ -8,19 +8,17 @@ body {
   width: 350px;
   background-color: rgb(48, 141, 192);
   margin-bottom: 40px;
-  padding: 10px;
 }
 
 .yellowish-border {
   background-color: rgb(255, 165, 0);
-  padding: 10px;
 }
 
 .text {
   background-color: rgb(221, 221, 221);
-  padding: 10px;
 }
 
 .box {
   border: 1px solid rgb(231, 85, 81) ;
+  padding: 10px;
 }
