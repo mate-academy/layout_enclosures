@@ -14,22 +14,21 @@ p {
 .container-outer {
   width: 350px;
   margin: 20px 20px 40px;
-  padding: 10px;
 
   background-color: #308dc0;
-  border: 1px solid #e95d49;
 }
 
 .container-inner {
-  padding: 10px;
-
-  border: 1px solid #e95d49;
   background-color: #ffa500;
 }
 
 .container-text {
-  padding: 10px;
-
-  border: 1px solid #e95d49;
   background-color: #ddd;
+}
+
+.container-inner,
+.container-outer,
+.container-text {
+  padding: 10px;
+  border: 1px solid #e95d49;
 }
