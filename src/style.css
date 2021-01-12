@@ -11,9 +11,7 @@ p {
   margin: 0;
 }
 
-.blue-container,
-.orange-container,
-.gray-container {
+.container {
   padding: 10px;
   border: 1px solid #e95d49;
 }
