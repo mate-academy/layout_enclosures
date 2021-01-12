@@ -1,19 +1,17 @@
 .block1 {
   background-color: #ddd;
-  border: 1px solid #e75551;
+
   margin: 10px;
   padding: 10px;
 }
 
 .block2 {
-  border: 1px solid #e75551;
   background-color: #ffa500;
   margin: 10px;
 }
 
 .block3 {
   width: 348px;
-  border: 1px solid #e75551;
   background-color: #308dc0;
   margin: 20px;
   margin-bottom: 40px;
@@ -23,4 +21,8 @@ body {
   margin: 0;
   padding: 0;
   background-color: black;
+}
+
+.block {
+  border: 1px solid #e75551;
 }
