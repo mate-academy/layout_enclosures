@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.box {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.box__blue {
+  width: 328px;
+  background-color: #308dc0;
+  margin: 20px 0 40px 20px;
+}
+
+.box__orange {
+  background-color: orange;
+}
+
+.box__grey {
+  background-color: #ddd;
+}
+
+.box__text {
+  margin: 0;
+}
