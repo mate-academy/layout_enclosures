@@ -1,12 +1,11 @@
-body {
-  background-color: black;
-}
-
-p,
-div,
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+body {
+  background-color: black;
 }
 
 .box {
@@ -23,7 +22,6 @@ body {
 }
 
 .outer-box {
-  box-sizing: border-box;
   width: 350px;
   background-color: #308dc0;
   margin: 20px;
