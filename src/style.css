@@ -1,0 +1,27 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.box {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.box_blue {
+  width: 328px;
+  background-color: #308dc0;
+  margin: 20px 0 40px 20px;
+}
+
+.box_orange {
+  background-color: #ffa500;
+}
+
+.box_gainsboro {
+  background-color: #ddd;
+}
+
+.box_text {
+  margin: 0;
+}
