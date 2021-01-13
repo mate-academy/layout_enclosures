@@ -1,0 +1,32 @@
+body {
+  background-color: #000;
+  margin: 20px;
+}
+
+.container {
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #e75551;
+}
+
+.inner-bord {
+  background-color: #ffa500;
+  border: 1px solid #e75551;
+  padding: 10px;
+}
+
+.outer-bord {
+  width: 328px;
+  padding: 10px;
+  background-color: #308dc0;
+  border: 1px solid #e75551;
+  margin: 40px 0;
+}
+
+.first-box {
+  margin-top: 20px;
+}
+
+.paragraph {
+  margin: 0;
+}
