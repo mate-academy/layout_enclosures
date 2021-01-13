@@ -4,29 +4,27 @@ body {
   background-color: black;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 .outer {
   background-color: rgb(48, 141, 192);
   margin-bottom: 40px;
   width: 350px;
-  padding: 10px;
-  box-sizing: border-box;
 }
 
 .middle {
   background-color: rgb(255, 165, 0);
-  padding: 10px;
-  box-sizing: border-box;
 }
 
 .inner {
   background-color: rgb(221, 221, 221);
-  padding: 10px;
-  color: black;
-  box-sizing: border-box;
 }
 
 .outer,
 .middle,
 .inner {
+  padding: 10px;
   border: 1px solid #e95d49;
 }
