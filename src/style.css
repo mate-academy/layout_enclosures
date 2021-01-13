@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.container,
+.text,
+.text-here {
+  padding: 10px;
+  border: 1px #e95d49 solid;
+}
+
+.text-here {
+  background-color: #ddd;
+}
+
+.text {
+  background-color: #ffa500;
+}
+
+.container {
+  margin: 20px 0 40px 20px;
+  width: 328px;
+  background-color: #308dc0;
+}
