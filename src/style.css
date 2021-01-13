@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+p {
+  margin: 0;
+}
+
+.container {
+  width: 350px;
+  margin: 20px 20px 40px;
+  background-color: #308dc0;
+}
+
+.text {
+  background-color: #ddd;
+}
+
+.box {
+  padding: 10px;
+  border: 1px solid #eb6343;
+}
+
+.subcontainer {
+  background-color: #ffa500;
+}
