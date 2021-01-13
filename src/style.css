@@ -5,19 +5,13 @@
 body {
   margin: 0;
   background-color: #000;
-  
-}
-
-.container.cont {
-  width: 350px;
-  background: #308dc0;
-  margin: 20px;
+  margin-bottom: 20px;
 }
 
 .container {
   width: 350px;
   background: #308dc0;
-  margin: 40px 0 40px 20px;
+  margin: 20px 0 40px 20px;
 }
 
 .container,
