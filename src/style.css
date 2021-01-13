@@ -1,23 +1,23 @@
-body {
+* {
   margin: 0;
   background-color: black;
 }
 
 .block {
   width: 350px;
-  background-color: #e75551;
-  padding: 1px;
   box-sizing: border-box;
   margin: 20px 20px 40px;
 }
 
-.blue {
+.retreat {
   padding: 10px;
+}
+
+.blue {
   background-color: #308dc0;
 }
 
 .yellow {
-  padding: 10px;
   background-color: #ffa500;
 }
 
@@ -26,6 +26,6 @@ body {
 }
 
 .text {
-  padding: 10px;
   background-color: rgb(221, 221, 221);
+  padding: 10px;
 }
