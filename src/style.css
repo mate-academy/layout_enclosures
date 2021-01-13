@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.block {
+  width: 350px;
+  background-color: #e75551;
+  padding: 1px;
+  box-sizing: border-box;
+  margin: 20px 20px 40px;
+}
+
+.blue {
+  padding: 10px;
+  background-color: #308dc0;
+}
+
+.yellow {
+  padding: 10px;
+  background-color: #ffa500;
+}
+
+.rubbish {
+  border: 1px solid  #e75551;
+}
+
+.text {
+  padding: 10px;
+  background-color: rgb(221, 221, 221);
+}
