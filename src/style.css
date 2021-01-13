@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #000;
+  
+}
+
+#qa-block {
+  width: 350px;
+  background: #308dc0;
+  margin: 20px;
+}
+
+.container {
+  width: 350px;
+  background: #308dc0;
+  margin: 40px 0 40px 20px;
+}
+
+.container,
+.pad,
+p {
+  padding: 10px;
+  border: 1px solid #e75551;
+  
+}
+
+.pad {
+
+  background-color: #ffa500;
+}
+
+.text {
+  background-color: #ddd;
+}
+
+p {
+  margin: 0;
+}
