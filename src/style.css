@@ -8,7 +8,7 @@ body {
   
 }
 
-#qa-block {
+.container.cont {
   width: 350px;
   background: #308dc0;
   margin: 20px;
@@ -29,7 +29,6 @@ p {
 }
 
 .pad {
-
   background-color: #ffa500;
 }
 
