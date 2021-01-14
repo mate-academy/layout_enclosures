@@ -1,0 +1,27 @@
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.enclosures {
+  width: 350px;
+  border: 1px solid #e75551;
+  background-color: #308dc0;
+  padding: 10px;
+  margin: 20px 0 40px 20px;
+  box-sizing: border-box;
+
+}
+
+.inner_border {
+  background-color: #ffa500;
+}
+
+.outer_border {
+  background-color: #ddd;
+}
+
+.repeated-styles {
+   padding: 10px;
+   border: 1px solid #e75551;
+}
