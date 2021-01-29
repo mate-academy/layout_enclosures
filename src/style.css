@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+.block {
+  border: 1px solid #e6635f;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.first {
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 12px;
+}
+
+.middle {
+  margin: 40px 12px;
+}
+
+.second {
+  background-color: #ffa500;
+  width: 328px;
+}
+
+.third {
+  width: 308px;
+  background-color: #ddd;
+}
+
+.second,
+.third {
+  margin: 0 auto;
+}
