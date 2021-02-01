@@ -1,0 +1,22 @@
+body {
+  background-color: #000;
+}
+
+div {
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
+
+.first {
+  background-color: #308dc0;
+  margin: 20px 12px 40px;
+  width: 328px;
+}
+
+.socond {
+  background-color: #ffa500;
+}
+
+.third {
+  background-color: #ddd;
+}
