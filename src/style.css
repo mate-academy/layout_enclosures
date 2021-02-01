@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #000;
+}
+
+p {
+  margin: 0;
+}
+
+.container-outer {
+  width: 350px;
+  margin: 20px 20px 40px;
+
+  background-color: #308dc0;
+}
+
+.container-inner {
+  background-color: #ffa500;
+}
+
+.container-text {
+  background-color: #ddd;
+}
+
+.container-inner,
+.container-outer,
+.container-text {
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
