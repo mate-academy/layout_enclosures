@@ -5,24 +5,18 @@ body {
 .main {
   width: 328px;
   background-color: #338cbe;
-  margin-top: 20px;
-  margin-left: 12px;
-  margin-bottom: 19px;
+  margin: 20px 0 40px 12px;
 }
 
 .content {
   background-color: #ddd;
 }
 
-.border {
+.middle {
   background-color: #ffa500;
 }
 
-.st {
+.paddANDborder {
   padding: 10px;
   border: 1px solid #e95d49;
-}
-
-.need {
-  height: 1px;
 }
