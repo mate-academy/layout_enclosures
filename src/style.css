@@ -2,7 +2,7 @@ body {
   background-color: #000;
 }
 
-div {
+.block {
   padding: 10px;
   border: 1px solid #e95d49;
 }
