@@ -3,7 +3,7 @@
     "align",
     "background",
     "bgcolor",
-    "border",
+    "common-props",
     "frameborder",
     "style"
   ],

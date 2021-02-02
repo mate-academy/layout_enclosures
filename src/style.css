@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+}
+
+.common-props {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.blue {
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.orange {
+  background-color: #ffa500;
+}
+
+.white {
+  background-color: #ddd;
+}
+
+.text {
+  margin: 0;
+}
