@@ -1,0 +1,24 @@
+body {
+  background-color: #000;
+  margin: 20px;
+}
+
+.block {
+  max-width: 350px;
+  border: 1px solid #e95d49;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.container-1 {
+  background-color: #308dc0;
+  margin: 0 0 40px;
+}
+
+.container-2 {
+  background-color: #ffa500;
+}
+
+.container-3 {
+  background-color: #ddd;
+}
