@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+.main {
+  width: 328px;
+  background-color: #338cbe;
+  margin-top: 20px;
+  margin-left: 12px;
+  margin-bottom: 19px;
+}
+
+.content {
+  background-color: #ddd;
+}
+
+.border {
+  background-color: #ffa500;
+}
+
+.st {
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
+
+.need {
+  height: 1px;
+}
