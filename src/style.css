@@ -10,15 +10,15 @@ body {
   padding: 10px;
 }
 
-.container-1 {
+.container-higher {
   background-color: #308dc0;
   margin: 0 0 40px;
 }
 
-.container-2 {
+.container-middle {
   background-color: #ffa500;
 }
 
-.container-3 {
+.container-lower {
   background-color: #ddd;
 }
