@@ -6,25 +6,23 @@ body {
   margin: 0;
 }
 
+.enclosures {
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
+
 .outer {
   margin: 20px 20px 40px;
   width: 328px;
   background-color: rgb(48, 141, 192);
-  border: 1px solid #e95d49;
 }
 
 .middle {
   margin: 0;
   background-color: rgb(255, 165, 0);
-  border: 1px solid #e95d49;
 }
 
 .inner {
   margin: 0;
   background-color: #ddd;
-  border: 1px solid #e95d49;
-}
-
-.paddings {
-  padding: 10px;
 }
