@@ -6,36 +6,23 @@ body {
   margin: 0;
 }
 
-#qa-block {
-  box-sizing: border-box;
-  margin: 20px auto 18px 20px;
-  width: 350px;
+.outer {
+  margin: 20px 20px 40px;
+  width: 328px;
   background-color: rgb(48, 141, 192);
   border: 1px solid #e95d49;
 }
 
-.container_4 {
-  box-sizing: border-box;
-  margin: 20px auto 18px 20px;
-  width: 350px;
-  background-color: rgb(48, 141, 192);
-  border: 1px solid #e95d49;
-}
-
-.container_3 {
+.middle {
   margin: 0;
   background-color: rgb(255, 165, 0);
   border: 1px solid #e95d49;
 }
 
-.container_2 {
+.inner {
   margin: 0;
   background-color: #ddd;
   border: 1px solid #e95d49;
-}
-
-.container_5 {
-  height: 2px;
 }
 
 .paddings {
