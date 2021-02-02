@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.main {
+  width: 328px;
+  background-color: #338cbe;
+  margin: 20px 0 40px 12px;
+}
+
+.content {
+  background-color: #ddd;
+}
+
+.middle {
+  background-color: #ffa500;
+}
+
+.paddANDborder {
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
