@@ -1,0 +1,29 @@
+body {
+  background: #000;
+  margin: 20px;
+}
+
+.border {
+  border: 1px solid #e95d49;
+}
+
+.padding {
+  padding: 10px;
+}
+
+.middle {
+  margin: 40px 0;
+}
+
+.outer {
+  width: 328px;
+  background: #308dc0;
+}
+
+.inner {
+  background: #ffa500;
+}
+
+.text {
+  background: #ddd;
+}
