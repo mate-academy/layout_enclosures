@@ -1,9 +1,10 @@
 * {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  box-sizing: border-box;
   background-color: #000;
 }
 
@@ -12,18 +13,18 @@ body {
 }
 
 .blue-div {
-  width: 350px;
   background-color: #308dc0;
+  width: 350px;
   margin: 20px 20px 40px;
+  padding: 10px;
 }
 
 .orange-div {
   background-color: #ffa500;
-  margin: 10px;
+  padding: 10px;
 }
 
 .white-div {
   background-color: #ddd;
-  margin: 10px;
   padding: 10px;
 }
