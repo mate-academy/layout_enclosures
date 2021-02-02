@@ -4,9 +4,7 @@ body {
 }
 
 .bluish {
-  border-width: 1px;
-  border-color: #e95d49;
-  border-style: solid;
+  border: 1px solid #e95d49;
   background-color: #318dc0;
 }
 
@@ -21,15 +19,11 @@ body {
 }
 
 .yellowish {
-  border-width: 1px;
-  border-color: #e95d49;
-  border-style: solid;
+  border: 1px solid #e95d49;
   background-color: #ffa502;
 }
 
 .inside {
-  border-width: 1px;
-  border-color: #e95d49;
-  border-style: solid;
+  border: 1px solid #e95d49;
   background-color: #ddd;
 }
