@@ -1,0 +1,24 @@
+body {
+  margin: 20px;
+  background-color: black;
+}
+
+.outer {
+  box-sizing: border-box;
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.inner {
+  background-color: #ffa500;
+}
+
+.content {
+  background-color: #ddd;
+}
+
+.box {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
