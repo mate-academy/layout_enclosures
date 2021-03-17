@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+.container {
+  box-sizing: border-box;
+  width: 350px;
+  border: 1px solid #e95d49;
+  background-color: rgb(48, 141, 192);
+  margin-bottom: 40px;
+
+}
+
+.inner {
+  background-color: rgb(246, 135, 30);
+  margin: 5px;
+  border: 1px solid #e95d49;
+
+}
+
+p {
+  border: 1px solid #e95d49;
+  background-color: rgb(201, 201, 201);
+  padding: 10px;
+  margin: 5px;
+}
