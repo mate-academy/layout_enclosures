@@ -1,0 +1,36 @@
+:root {
+  --red-border: 1px solid #e95d49;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.first {
+  width: 348px;
+  background-color: #308dc0;
+  border: var(--red-border);
+}
+
+.second {
+  box-sizing: border-box;
+  width: calc(100% - 20px);
+  background-color: #ffa500;
+  border: var(--red-border);
+  margin: 10px;
+}
+
+.third {
+  box-sizing: border-box;
+  width: calc(100% - 20px);
+  border: var(--red-border);
+  margin: 10px;
+  padding: 10px;
+  background-color: #ddd;
+}
+
+.container {
+  margin: 20px;
+  margin-bottom: 40px;
+}
