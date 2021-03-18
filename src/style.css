@@ -1,27 +1,25 @@
 body {
-  background-color: black;
-  margin: 20px;
+  background-color: #000;
+  padding: 20px;
+  margin: 0;
 }
 
-.container {
+.box {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.outer {
   box-sizing: border-box;
   width: 350px;
-  border: 1px solid #e95d49;
-  background-color: rgb(48, 141, 192);
+  background-color: #308dc0;
   margin-bottom: 40px;
+}
 
+.middle {
+  background-color: #ffa500;
 }
 
 .inner {
-  background-color: rgb(246, 135, 30);
-  margin: 5px;
-  border: 1px solid #e95d49;
-
-}
-
-p {
-  border: 1px solid #e95d49;
-  background-color: rgb(201, 201, 201);
-  padding: 10px;
-  margin: 5px;
+  background-color: #ddd;
 }
