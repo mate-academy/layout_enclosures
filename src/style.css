@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #000;
+}
+
+.article,
+.orange-box,
+.paragraph {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.article {
+  width: 350px;
+  box-sizing: border-box;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.orange-box {
+  background-color: #ffa500;
+}
+
+.paragraph {
+  margin: 0;
+  background-color: #ddd;
+}
