@@ -1,0 +1,29 @@
+body {
+  margin: 20px;
+  background-color: black;
+}
+
+.outer {
+  width: 350px;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: #3a92c3;
+  border: 1px solid #e95d49;
+}
+
+section {
+  border: 1px solid #e95d49;
+  padding: 10px;
+  background-color: #fea90d;
+}
+
+.inner {
+  border: 1px solid #e95d49;
+  padding: 10px;
+  background-color: #ddd;
+  margin: 0;
+}
+
+.dist {
+  margin-top: 40px;
+}
