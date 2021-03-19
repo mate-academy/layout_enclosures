@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #000;
   margin: 0;
@@ -7,10 +11,8 @@ body {
 .middle-block,
 .inner-block {
   border: 1px solid #e95d49;
-  box-sizing: border-box;
 }
 
-.upper-block,
 .middle-block,
 .inner-block,
 p {
