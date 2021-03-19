@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   padding: 20px;
@@ -5,7 +9,7 @@ body {
 }
 
 .article,
-.orange-box,
+.inner-box,
 .paragraph {
   border: 1px solid #e95d49;
   padding: 10px;
@@ -13,12 +17,11 @@ body {
 
 .article {
   width: 350px;
-  box-sizing: border-box;
   background-color: #308dc0;
   margin-bottom: 40px;
 }
 
-.orange-box {
+.inner-box {
   background-color: #ffa500;
 }
 
