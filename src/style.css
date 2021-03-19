@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 20px;
   background-color: #000;
@@ -11,7 +15,6 @@ body {
 }
 
 .box {
-  box-sizing: border-box;
   width: 350px;
   margin-bottom: 40px;
   background-color: #308dc0;
