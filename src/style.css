@@ -1,0 +1,26 @@
+body {
+  margin: 20px;
+  background-color: #000;
+}
+
+.paragraph,
+.box1,
+.box2 {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.paragraph {
+  background-color: #ddd;
+}
+
+.box1 {
+  box-sizing: border-box;
+  width: 350px;
+  margin-bottom: 40px;
+  background-color: #328cbe;
+}
+
+.box2 {
+  background-color: #ffa500;
+}
