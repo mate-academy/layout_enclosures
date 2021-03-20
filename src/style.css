@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 :root {
   --red-border: 1px solid #e95d49;
 }
@@ -7,22 +11,20 @@ body {
   margin: 0;
 }
 
-.first {
-  width: 348px;
+.outer-block {
+  width: 350px;
   background-color: #308dc0;
   border: var(--red-border);
 }
 
-.second {
-  box-sizing: border-box;
+.intermediate-block {
   width: calc(100% - 20px);
   background-color: #ffa500;
   border: var(--red-border);
   margin: 10px;
 }
 
-.third {
-  box-sizing: border-box;
+.inner-block {
   width: calc(100% - 20px);
   border: var(--red-border);
   margin: 10px;
