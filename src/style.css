@@ -15,7 +15,7 @@ body {
   padding: var(--border-size);
 }
 
-.inside_color_border {
+.inside_border {
   background-color: #ffa500;
   border: var(--small-border);
   padding: var(--border-size);
