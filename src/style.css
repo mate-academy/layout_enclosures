@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.wrapper__inner {
+  background-color: #308dc0;
+  box-sizing: border-box;
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.inner__block {
+  background-color: #ffa500;
+}
+
+.indent {
+  padding: 10px;
+  border: 1px #e75551 solid;
+}
+
+.block {
+  background-color: #ddd;
+}
