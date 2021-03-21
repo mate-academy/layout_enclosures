@@ -1,0 +1,28 @@
+.all_page {
+  margin: 0;
+  background-color: black;
+}
+
+.all_blocks {
+  border: solid 1px #e75551;
+  padding: 10px;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
+
+.blue_blocks {
+  width: 350px;
+  box-sizing: border-box;
+  margin: 40px 20px;
+  background-color: #318ebd;
+}
+
+.orange_blocks {
+  background-color: #ffa200;
+}
+
+.grey_blocks {
+  background-color: #dbdbdb;
+}
