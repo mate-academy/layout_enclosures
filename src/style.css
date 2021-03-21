@@ -1,0 +1,24 @@
+.background {
+  background-color: black;
+  margin: 0;
+}
+
+.block {
+  border: 1px solid rgb(231, 85, 81);
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.out_block {
+  width: 350px;
+  background-color: rgb(48, 141, 192);
+  margin: 20px 20px 40px;
+}
+
+.middle_block {
+  background-color: rgb(255, 165, 0);
+}
+
+.inside_block {
+  background-color: #ddd;
+}
