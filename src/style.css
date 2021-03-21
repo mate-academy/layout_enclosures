@@ -1,0 +1,36 @@
+html {
+  background-color: #000;
+}
+
+body {
+  margin: 0;
+}
+
+#qa-block {
+  margin-top: 20px;
+}
+
+.border {
+  border-width: 1px;
+  border-color: #e95d49;
+  border-style: solid;
+}
+
+.first-container {
+  width: 328px;
+  background-color: #308dc0;
+  padding: 10px;
+  margin: 40px 20px;
+}
+
+.second-container {
+  width: 306px;
+  padding: 10px;
+  background-color: #ffa500;
+}
+
+.third-container {
+  width: 284px;
+  background-color: #ddd;
+  padding: 10px;
+}
