@@ -1,0 +1,24 @@
+body {
+  padding: 12px;
+  background-color: black;
+}
+
+.block {
+  border: 1px solid #e75551;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.bluish {
+  width: 350px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.yellowish {
+  background-color: #ffa500;
+}
+
+.grayish {
+  background-color: #ddd;
+}
