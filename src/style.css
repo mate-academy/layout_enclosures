@@ -1,31 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background: #000;
   margin: 20px;
 }
 
 .box {
-  box-sizing: border-box;
   width: 350px;
   background-color: #308dc0;
+  padding: 10px;
   border: 1px solid #e95d49;
-  padding: 10px 0;
   margin-bottom: 40px;
 }
 
 section {
-  box-sizing: border-box;
-  width: 330px;
   background-color: #ffa500;
+  padding: 10px;
   border: 1px solid #e95d49;
-  padding: 10px 0;
-  margin: 0 auto;
 }
 
 .inner {
-  box-sizing: border-box;
-  width: 310px;
   background-color: #ddd;
-  border: 1px solid #e95d49;
   padding: 10px;
-  margin: 0 auto;
+  border: 1px solid #e95d49;
+  margin: 0;
 }
