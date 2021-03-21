@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.block {
+  padding: 10px;
+  border: 1px solid rgb(231, 85, 81);
+}
+
+.block-blue {
+  width: 350px;
+  margin: 20px 20px 40px;
+  background-color: rgb(48, 141, 192);
+  box-sizing: border-box;
+}
+
+.block-yellow {
+  background-color: rgb(255, 165, 0);
+}
+
+.block-white {
+  background-color: rgb(221, 221, 221);
+}
