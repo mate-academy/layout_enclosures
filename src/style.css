@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+  background-color: black;
+}
+
+.border-red {
+  border: solid 1px #e95d49;
+}
+
+.section {
+  width: 350px;
+  background-color: #308dc0;
+  padding: 10px;
+  margin-bottom: 40px;
+}
+
+.content {
+  padding: 10px;
+  background-color: #ffa500;
+}
+
+.text {
+  margin: 0;
+  padding: 10px;
+  background-color: #ddd;
+}
