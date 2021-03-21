@@ -1,0 +1,32 @@
+body {
+  margin: 20px;
+  background-color: #000;
+}
+
+.border {
+  width: 350px;
+  background-color: #3a92c3;
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+section {
+  border: 1px solid #e95d49;
+  padding: 10px;
+  background-color: #fea90d;
+}
+
+.text {
+  border: 1px solid #e95d49;
+  padding: 10px;
+  margin: 0;
+  background-color: #ddd ;
+}
+
+.distance {
+  margin: 40px;
+}
