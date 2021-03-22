@@ -1,0 +1,31 @@
+html {
+  background-color: #000;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+}
+
+.block {
+  border-width: 1px;
+  border-color: #e95d49;
+  border-style: solid;
+  padding: 10px;
+}
+
+.first-container {
+  width: 328px;
+  background-color: #308dc0;
+  margin-bottom: 40px;
+}
+
+.second-container {
+  width: 306px;
+  background-color: #ffa500;
+}
+
+.third-container {
+  width: 284px;
+  background-color: #ddd;
+}
