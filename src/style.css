@@ -3,7 +3,7 @@ body {
   background-color: black;
 }
 
-.bor-l0 {
+.box-lev0 {
   box-sizing: border-box;
   border: 1px solid #e95d49;
   padding: 10px;
@@ -12,14 +12,14 @@ body {
   margin: 20px 0 40px 20px;
 }
 
-.bor-l1 {
+.box-lev1 {
   box-sizing: border-box;
   border: 1px solid #e95d49;
   background-color: #ffa500;
   padding: 10px;
 }
 
-.bor-l2 {
+.box-lev2 {
   border: 1px solid #e95d49;
   padding: 10px;
   background-color: #ddd;
