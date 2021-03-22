@@ -1,0 +1,27 @@
+body {
+  margin: 20px;
+  background-color: #000;
+}
+
+.paragraph,
+.box_inner,
+.box_outer {
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.box_outer {
+  margin-bottom: 40px;
+  width: 350px;
+  box-sizing: border-box;
+  background-color: #308dc0;
+}
+
+.box_inner {
+  background-color: #ffa500;
+}
+
+.paragraph {
+  background-color: #ddd;
+  padding: 10px;
+}
