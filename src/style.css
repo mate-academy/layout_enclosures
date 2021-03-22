@@ -7,7 +7,7 @@ body {
   margin: 20px;
 }
 
-section {
+.text-box {
   width: 350px;
   margin-bottom: 40px;
   background-color: #308dc0;
@@ -17,7 +17,7 @@ section {
   background-color: #ffa500;
 }
 
-p {
+.paragraph {
   background-color: #ddd;
   margin: 0;
 }
