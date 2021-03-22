@@ -4,13 +4,10 @@ html {
 
 body {
   margin: 0;
+  padding: 20px;
 }
 
-#qa-block {
-  margin-top: 20px;
-}
-
-.border {
+.block {
   border-width: 1px;
   border-color: #e95d49;
   border-style: solid;
@@ -20,7 +17,7 @@ body {
   width: 328px;
   background-color: #308dc0;
   padding: 10px;
-  margin: 40px 20px;
+  margin-bottom: 40px;
 }
 
 .second-container {
