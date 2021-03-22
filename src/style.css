@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.main {
+  background-color: #308dc0;
+  box-sizing: border-box;
+  width: 350px;
+  border: 1px solid #e95d49;
+  margin: 20px 20px 40px;
+  padding: 10px;
+}
+
+.yellowish {
+  padding: 10px;
+  background-color: #ffa500;
+  border: 1px solid #e95d49;
+}
+
+.grey {
+  padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #e95d49;
+}
