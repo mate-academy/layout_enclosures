@@ -1,0 +1,33 @@
+html {
+  margin: 20px;
+  background: #000;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.qa-block-blue {
+  width: 328px;
+  background-color: #318dbf;
+  padding: 10px;
+  border: 1px solid #e95d49;
+  margin: 40px 0;
+}
+
+.qa-block {
+  margin-top: 0;
+}
+
+.qa-block-orange {
+  background-color: #ffa500;
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
+
+.text {
+  background: #ddd;
+  border: 1px solid #e95d49;
+  padding: 10px;
+}
