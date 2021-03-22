@@ -1,0 +1,36 @@
+body {
+  margin: 20px;
+  background-color: black;
+}
+
+.bigBlock {
+  margin-bottom: 40px;
+  background-color: #308dc0;
+  border: 1px solid #e95d49;
+  width: 348px;
+}
+
+.middleBlock {
+  background-color: #ffa500;
+  border: 1px solid #e95d49;
+  width: 326px;
+  margin: 10px;
+}
+
+.block-with-info {
+  margin: 10px;
+  background-color: #ddd;
+  width: 284px;
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
+
+.blockUk {
+  background-color: #ddd;
+  width: 350px;
+}
+
+.blockRu {
+  background-color: #ddd;
+  width: 350px;
+}
