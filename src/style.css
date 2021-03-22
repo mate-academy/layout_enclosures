@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  background-color: black;
+}
+
+.blocks div {
+  border: 1px solid #e95d49;
+  box-sizing: border-box;
+  --frame-width: 10px;
+  --outer-frame-width: 350px;
+  --inner-frame-width: calc(
+    (var(--outer-frame-width) - var(--frame-width) * 2) + 1
+  );
+  --content-frame-width: calc(
+    (var(--inner-frame-width) - var(--frame-width) * 2) + 1
+  );
+}
+
+.outer {
+  background-color: rgb(48, 141, 192);
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.inner {
+  background-color: rgb(255, 165, 0);
+  width: var(--inner-frame-width);
+  margin: var(--frame-width);
+}
+
+.content {
+  width: calc(var(--content-frame-width) - 3);
+  padding: 10px;
+  margin: var(--frame-width);
+  background-color: #ddd;
+}
