@@ -3,7 +3,7 @@ body {
   margin: 0;
 }
 
-.bluish {
+.outer {
   background-color: #318dbf;
   width: 348px;
   border: 1px solid #e95d49;
@@ -11,13 +11,13 @@ body {
   margin-bottom: 40px;
 }
 
-.yelowish {
+.inner {
   background: #ffa500;
   border: 1px solid #e95d49;
   margin: 10px;
 }
 
-.whitish {
+.into__inner {
   background: #ddd;
   border: 1px solid #e95d49;
   padding: 10px;
