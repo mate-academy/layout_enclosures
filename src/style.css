@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+.block-big {
+  box-sizing: border-box;
+  width: 350px;
+  border: 1px solid #e95d49;
+  padding: 10px;
+  margin-bottom: 40px;
+  background-color: rgba(48, 141, 192, 1);
+}
+
+.block-middle {
+  padding: 10px;
+  border: 1px solid #e95d49;
+  background-color: rgba(255, 165, 0, 1);
+}
+
+.block-small {
+  padding: 10px;
+  border: 1px solid #e95d49;
+  background-color: rgba(221, 221, 221, 1);
+}
