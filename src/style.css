@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  margin: 20px;
+}
+
+.upper-box {
+  box-sizing: border-box;
+  width: 350px;
+  background-color: #338cbe;
+  margin-bottom: 40px;
+}
+
+.middle-box {
+  background-color: #ffa500;
+}
+
+.inner-box {
+  background-color: #ddd;
+}
+
+.upper-box,
+.middle-box,
+.inner-box {
+  border: 1px solid #e95d49;
+}
+
+p,
+.inner-box,
+.middle-box {
+  margin: 10px;
+}
