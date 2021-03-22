@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+.upper-block,
+.middle-block,
+.inner-block {
+  border: 1px solid #e95d49;
+}
+
+.middle-block,
+.inner-block,
+.phrase {
+  margin: 10px;
+}
+
+.upper-block {
+  margin: 20px 0 40px 20px;
+  background-color: #308dc0;
+  width: 350px;
+}
+
+.middle-block {
+  background-color: #ffa500;
+  width: 328px;
+}
+
+.inner-block {
+  background-color: #ddd;
+  width: 306px;
+}
