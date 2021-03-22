@@ -5,7 +5,8 @@ body {
 
 .outer {
   background-color: #318dbf;
-  width: 348px;
+  width: 350px;
+  box-sizing: border-box;
   border: 1px solid #e95d49;
   margin: 20px;
   margin-bottom: 40px;
