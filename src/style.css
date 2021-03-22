@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.bor-l0 {
+  box-sizing: border-box;
+  border: 1px solid #e95d49;
+  padding: 10px;
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 0 40px 20px;
+}
+
+.bor-l1 {
+  box-sizing: border-box;
+  border: 1px solid #e95d49;
+  background-color: #ffa500;
+  padding: 10px;
+}
+
+.bor-l2 {
+  border: 1px solid #e95d49;
+  padding: 10px;
+  background-color: #ddd;
+}
