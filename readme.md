@@ -1,7 +1,7 @@
 # Enclosures
 1. Replace `<your_account>` with your Github username in the links
-    - [DEMO LINK](https://<your_account>.github.io/layout_enclosures/) <br>
-    - [TEST REPORT LINK](https://<your_account>.github.io/layout_enclosures/report/html_report/)
+    - [DEMO LINK](https://dmytro-abram.github.io/layout_enclosures/) <br>
+    - [TEST REPORT LINK](https://dmytro-abram.github.io/layout_enclosures/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
 
@@ -25,8 +25,8 @@ The text content in three languages follows:
 scoped name binding in a language with first-class functions. Operationally, a 
 closure is a record storing a function together with an environment.
 
-> У програмуванні замиканням називають підпрограму, що виконується в середовищі, 
-яке містить одну або більше зв’язаних змінних. Підпрограма має доступ до цих 
+> У програмуванні замиканням називають підпрограму, що виконується в середовищі,
+яке містить одну або більше зв’язаних змінних. Підпрограма має доступ до цих
 змінних під час виконання.
 
 > Замыкание в программировании — функция первого класса, в теле которой 
