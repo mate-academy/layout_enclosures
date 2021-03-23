@@ -1,0 +1,33 @@
+body,
+html {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.block {
+  border: 1px solid #e95d49;
+}
+
+.text-block {
+  margin: 10px;
+}
+
+.text-wrapper {
+  background-color: #ddd  ;
+  width: 304px;
+  margin: 10px auto;
+}
+
+.yellow-block {
+  background-color: #ffa500;
+  width: 326px;
+  margin: 10px auto;
+}
+
+.blue-block {
+  margin: 20px;
+  margin-bottom: 40px;
+  background-color: #308dc0;
+  width: 348px;
+}
