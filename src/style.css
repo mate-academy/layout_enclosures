@@ -1,36 +1,28 @@
-body {
-  background-color: black;
-  margin-left: 20px;
+* {
+  box-sizing: border-box;
 }
 
-.box {
-  margin-bottom: 40px;
-  margin-top: 20px;
+body {
+  background-color: black;
+  margin: 20px;
 }
 
 .first {
-  box-sizing: border-box;
+  margin-bottom: 40px;
   width: 350px;
-  margin: 0;
+  padding: 10px;
   background-color: #308dc0;
   border: 1px solid #e95d49;
 }
 
 .second {
-  box-sizing: border-box;
-  margin: 10px;
+  padding: 10px;
   background-color: #ffa500;
   border: 1px solid #e95d49;
 }
 
 .third {
-  box-sizing: border-box;
-  margin: 10px;
+  padding: 10px;
   background-color: #ddd;
   border: 1px solid #e95d49;
-}
-
-.text {
-  box-sizing: border-box;
-  margin: 10px;
 }
