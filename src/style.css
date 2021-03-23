@@ -1,0 +1,30 @@
+body {
+  width: 400px;
+  background-color: black;
+  margin: 0;
+}
+
+.block {
+  display: inline-block;
+  width: 348px;
+  margin: 20px;
+}
+
+.first {
+  border: 1px solid #e95d49;
+  background-color: #2e88b9;
+}
+
+.second {
+  margin: 10px;
+  border: 1px solid #e95d49;
+  background-color: #f9a100;
+}
+
+.third {
+  border: 1px solid #e95d49;
+  background-color: #ddd;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px;
+}
