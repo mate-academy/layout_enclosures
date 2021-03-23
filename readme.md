@@ -3,7 +3,7 @@
     - [DEMO LINK](https://Allrightman.github.io/layout_enclosures/) <br>
     - [TEST REPORT LINK](https://Allrightman.github.io/layout_enclosures/report/html_report/)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
-___
+
 
 ## The task
 Add 3 block as shown here ![reference/enclosures.png](reference/enclosures.png)

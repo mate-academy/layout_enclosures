@@ -3,23 +3,25 @@ body {
   background-color: black;
 }
 
+.box {
+  border: 1px solid;
+  padding: 10px;
+}
+
 .external {
   width: 328px;
   background-color: #308dc0;
-  border: 1px solid #e95d49;
-  padding: 10px;
   margin: 20px 20px 40px;
+  border-color: #e95d49;
 }
 
 .middle {
   background-color: #ffa502;
-  border: 1px solid #e95d49;
-  padding: 10px;
+  border-color: #e95d49;
 }
 
 .internal {
   background-color: #ddd;
-  border: 1px solid #e95d49;
-  padding: 10px;
+  border-color: #e95d49;
   text-align: left;
 }
