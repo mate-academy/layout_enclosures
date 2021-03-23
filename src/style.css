@@ -3,9 +3,7 @@ body {
   padding: 0 12px;
 }
 
-.first,
-.third,
-.second {
+.first {
   background-color: #ddd;
   margin: 0;
 }
