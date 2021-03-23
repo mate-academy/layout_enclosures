@@ -5,9 +5,7 @@ body {
   background-color: black;
 }
 
-.outer,
-.inner,
-.content {
+.block {
   border: 1px solid #e95d49;
   box-sizing: border-box;
 }
