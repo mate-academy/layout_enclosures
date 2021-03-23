@@ -1,0 +1,29 @@
+body {
+  margin: 20px;
+  background-color: black;
+}
+
+.info {
+  display: inline-block;
+}
+
+.frame1 {
+  width: 349px;
+  margin-bottom: 40px;
+  background-color: RGB(58, 146, 195);
+  border: 1px solid #e95d49;
+}
+
+.frame2 {
+  margin: 10px;
+  background-color: RGB(254, 169, 13);
+  border: 1px solid #e95d49;
+}
+
+.box {
+  width: 285px;
+  background-color: rgb(221, 221, 221);
+  margin: 10px;
+  padding: 10px ;
+  border: 1px solid #e95d49;
+}
