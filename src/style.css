@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+  padding: 0 12px;
+}
+
+.first,
+.third,
+.second {
+  /* box-sizing: border-box; */
+  background-color: #ddd;
+  border: 1px solid #e95d49;
+  padding: 10px;
+  margin: 0;
+}
+
+.middleBox {
+  box-sizing: border-box;
+  background-color: #ffa500;
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
+
+.biggestBox {
+  box-sizing: border-box;
+  background-color: #308dc0;
+  width: 350px;
+  margin: 20px 0;
+  margin-bottom: 40px;
+  padding: 10px;
+  border: 1px solid #e95d49;
+}
