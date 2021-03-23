@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background-color: #000;
+  font-size: 16px;
+}
+
+.outer {
+  box-sizing: border-box;
+  width: 350px;
+  padding: 10px;
+  margin: 40px 20px;
+  background-color: #0090c2;
+  border: 1px solid #e95d49;
+}
+
+.med {
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #e95d49;
+  background-color: #ffa100;
+}
+
+.inner {
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #e95d49;
+  background-color: #dedede;
+}
+
+.outer:first-child {
+  margin-top: 20px;
+}
