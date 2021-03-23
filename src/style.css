@@ -1,23 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #000;
   margin: 20px;
 }
 
 .big-box {
-  background-color: #308dc0;
   width: 350px;
   margin-bottom: 40px;
   padding: 10px;
+  background-color: #308dc0;
+  border: 1px solid #e95d49;
 }
 
 .middle-box {
-  background-color: #ffa500;
   padding: 10px;
+  background-color: #ffa500;
+  border: 1px solid #e95d49;
 }
 
 .little-box {
-  background-color: #ddd;
   padding: 10px;
+  background-color: #ddd;
+  border: 1px solid #e95d49;
 }
 
 div {
@@ -27,8 +34,4 @@ div {
 .text {
   margin-bottom: 0;
   margin-top: 0;
-}
-
-* {
-  box-sizing: border-box;
 }
