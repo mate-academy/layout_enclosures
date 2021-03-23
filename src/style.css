@@ -4,7 +4,7 @@ body {
 }
 
 .box {
-  border: 1px solid;
+  border: 1px solid #e95d49;
   padding: 10px;
 }
 
@@ -12,16 +12,13 @@ body {
   width: 328px;
   background-color: #308dc0;
   margin: 20px 20px 40px;
-  border-color: #e95d49;
 }
 
 .middle {
   background-color: #ffa502;
-  border-color: #e95d49;
 }
 
 .internal {
   background-color: #ddd;
-  border-color: #e95d49;
   text-align: left;
 }
