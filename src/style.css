@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  background-color: black;
+}
+
+.block {
+  border: 1px solid #e95d49;
+  box-sizing: border-box;
+}
+
+.outer {
+  background-color: rgb(48, 141, 192);
+  width: 350px;
+  margin: 20px 20px 40px;
+}
+
+.inner {
+  background-color: rgb(255, 165, 0);
+  width: 328px;
+  margin: 10px;
+}
+
+.content {
+  width: 306;
+  padding: 10px;
+  margin: 10px;
+  background-color: #ddd;
+}
