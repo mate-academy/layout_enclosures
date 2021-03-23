@@ -5,17 +5,11 @@ body {
   background-color: black;
 }
 
-.blocks div {
+.outer,
+.inner,
+.content {
   border: 1px solid #e95d49;
   box-sizing: border-box;
-  --frame-width: 10px;
-  --outer-frame-width: 350px;
-  --inner-frame-width: calc(
-    (var(--outer-frame-width) - var(--frame-width) * 2) + 1
-  );
-  --content-frame-width: calc(
-    (var(--inner-frame-width) - var(--frame-width) * 2) + 1
-  );
 }
 
 .outer {
@@ -26,13 +20,13 @@ body {
 
 .inner {
   background-color: rgb(255, 165, 0);
-  width: var(--inner-frame-width);
-  margin: var(--frame-width);
+  width: 328px;
+  margin: 10px;
 }
 
 .content {
-  width: calc(var(--content-frame-width) - 3);
+  width: 306;
   padding: 10px;
-  margin: var(--frame-width);
+  margin: 10px;
   background-color: #ddd;
 }
