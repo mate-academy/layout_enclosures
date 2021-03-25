@@ -2,7 +2,7 @@
 Replace `<your_account>` with your Github username and copy the links to Pull Request description:
 - [DEMO LINK](https://yevgeniyavoronina.github.io/layout_enclosures/)
 
-- [TEST REPORT LINK](https://.github.io/layout_enclosures/report/html_report/)
+- [TEST REPORT LINK](https://yevgeniyavoronina.github.io/layout_enclosures/report/html_report/)
 
 > Follow [this instructions](https://github.com/mate-academy/layout_task-guideline#how-to-solve-the-layout-tasks-on-github)
 ___
