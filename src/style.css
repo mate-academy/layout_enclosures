@@ -1,0 +1,25 @@
+
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.aquaBlock {
+  width: 327px;
+  border: 1px solid rgb(231, 84, 81);
+  background-color: rgb(44, 142,193);
+  padding: 10px;
+  margin: 20px 0 40px 20px;
+}
+
+.yellowBlock {
+  border: 1px solid rgb(231, 84, 81);
+  background-color: rgb(254, 162, 4);
+  padding: 10px;
+}
+
+.skinBlock {
+  border: 1px solid rgb(231, 84, 81);
+  background-color: rgb(222, 222, 222);
+  padding: 10px;
+}
