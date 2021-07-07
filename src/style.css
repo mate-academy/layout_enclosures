@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  margin: 0;
+}
+
+.text,
+.first-wrap,
+.second-wrap {
+  padding: 10px;
+  border: 1px solid #e75551;
+}
+
+.first-wrap {
+  background-color: #308dc0;
+  box-sizing: border-box;
+  margin: 20px 20px 40px;
+  width: 350px;
+}
+
+.second-wrap {
+  background-color: #ffa500;
+}
+
+.text {
+  background-color: #ddd;
+}
