@@ -20,7 +20,7 @@ do not have to literally be borders of any HTML container).
 * The distance between the boxes and the edges of the page must be 20 pixels.
 * The distance between the boxes themselves must be 40 pixels.
 
-The text content in three languages follows:
+The text content in three languages follows::
 
 > In programming languages, a closure is a technique for implementing lexically 
 scoped name binding in a language with first-class functions. Operationally, a 
